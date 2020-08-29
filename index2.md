@@ -20,11 +20,11 @@ These classes were made available for the June 2020 election and may not contain
 
 <div class="class-button">
 
-    <a href="/new-eo" style="background:royalblue;">New Election Officer</a>
+    <a href="http://training.electionofficers.com/new-eo" style="background:royalblue;">New Election Officer</a>
 
-    <a href="/new-chief" style="background:crimson;">New Chief & Asst Chief</a>
+    <a href="http://training.electionofficers.com/new-chief" style="background:crimson;">New Chief & Asst Chief</a>
 
-    <a href="/chiefs-briefing" style="background:#666;">Chiefs Briefing</a>
+    <a href="http://training.electionofficers.com/chiefs-briefing" style="background:#666;">Chiefs Briefing</a>
 
 </div>
 
