@@ -11,33 +11,38 @@ title: Home
 
 <p style="text-align: center;">If you need help, call us at 703-324-4735. Thank you!</p>
 
+<hr />
+<hr />
+
+These classes were made available for the June 2020 election and may not contain the most updated information for later elections. However, we are keeping them online in case they can be a helpful reference until the new classes are ready for the November 2020 election.
+
+<h2>Election Officer classes for June 2020 Election</h2>
+
+<div class="class-button">
+
+    <a href="/new-eo" style="background:royalblue;">New Election Officer</a>
+
+    <a href="/new-chief" style="background:crimson;">New Chief & Asst Chief</a>
+
+    <a href="/chiefs-briefing" style="background:#666;">Chiefs Briefing</a>
+
+</div>
 
 <hr />
 
+We are currently creating and updating online training classes for the November 2020 election. Most classes will be available by mid-September. The Chiefs Briefing and PPE Specialist classes will be available in late October.
 
-<h2>Election Officer classes</h2>
+<h2>Election Officer classes for November 2020 Election</h2>
 
 <div class="class-button">
 
-    <a href="/new-eo">New Election Officer</a>
+    <a href="/new-eo" style="background-image: url('/assets/img/slide-thumbnails.png')">New Election Officer</a>
 
     <a href="/new-laws">New Laws (for Experienced Officers)</a>
 
-</div>
-
-<h2>Chief and Assistant Chief classes</h2>
-
-<div class="class-button">
-
     <a href="/new-chief">New Chief & Asst Chief</a>
 
-    <a href="/chiefs-briefing">Chiefs Briefing</a>
-
-</div>
-
-<h2>Specialist classes</h2>
-
-<div class="class-button">
+    <a href="/chiefs-briefing" style="background-image: url('/assets/img/chiefs-briefing-small.jpg')">Chiefs Briefing</a>
 
     <a href="/non-routine-specialist">Non-Routine Specialist</a>
 
@@ -45,11 +50,11 @@ title: Home
 
 </div>
 
-<h2>Central Absentee Precinct classes</h2>
+<h2>Central Absentee Precinct classes for November 2020 Election</h2>
 
 <div class="class-button">
 
-    <a href="/cap-eo">CAP Officer</a>
+    <a href="/cap-eo" style="background-image: url('/assets/img/fairfax-county-govt-center.png')">CAP Officer</a>
 
     <a href="/cap-preprocessing">CAP Preprocessing</a>
 
@@ -57,11 +62,11 @@ title: Home
 
 </div>
 
-<h2>High School Page classes</h2>
+<h2>High School Page classes for November 2020 Election</h2>
 
 <div class="class-button">
 
-    <a href="/hs-page">High School Page</a>
+    <a href="/hs-page" style="background-image: url('/assets/img/high-school-pages-small.jpg')">High School Page</a>
 
 </div>
 

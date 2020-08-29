@@ -33,45 +33,45 @@ author:              'Office of Elections'
 collections_dir: collections
 
 collections:
-  2020-06-new-eo:
+  # 2020-06-new-eo:
+  #   output: true
+  #   permalink: /new-eo/:path
+  # 2020-06-new-chief:
+  #   output: true
+  #   permalink: /new-chief/:path
+  # 2020-06-chiefs-briefing:
+  #   output: true
+  #   permalink: /chiefs-briefing/:path
+  new-eo:
     output: true
     # permalink: /new-eo/:path
-  2020-06-new-chief:
+  new-laws:
+    output: true
+    # permalink: /new-laws/:path
+  new-chief:
     output: true
     # permalink: /new-chief/:path
-  2020-06-chiefs-briefing:
+  chiefs-briefing:
     output: true
     # permalink: /chiefs-briefing/:path
-  2020-11-new-eo:
+  ppe-specialist:
     output: true
-    # permalink: /new-eo/:path
-  2020-11-new-laws:
+    # permalink: /ppe-specialist/:path
+  non-routine-specialist:
     output: true
-    permalink: /new-laws/:path
-  2020-11-new-chief:
+    # permalink: /non-routine-specialist/:path
+  cap-ballot-check-in:
     output: true
-    # permalink: /new-chief/:path
-  2020-11-chiefs-briefing:
+    # permalink: /cap-ballot-check-in/:path
+  cap-eo:
     output: true
-    # permalink: /chiefs-briefing/:path
-  2020-11-ppe-specialist:
+    # permalink: /cap-eo/:path
+  cap-preprocessing:
     output: true
-    permalink: /ppe-specialist/:path
-  2020-11-non-routine-specialist:
+    # permalink: /cap-preprocessing/:path
+  hs-page:
     output: true
-    permalink: /non-routine-specialist/:path
-  2020-11-cap-ballot-check-in:
-    output: true
-    permalink: /cap-ballot-check-in/:path
-  2020-11-cap-eo:
-    output: true
-    permalink: /cap-eo/:path
-  2020-11-cap-preprocessing:
-    output: true
-    permalink: /cap-preprocessing/:path
-  2020-11-hs-page:
-    output: true
-    permalink: /hs-page/:path
+    # permalink: /hs-page/:path
 
 
 # Permalinks

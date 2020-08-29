@@ -74,7 +74,7 @@ body {
 }
 
 .class-button a {
-  background-color:royalblue;
+  background-color:black;
   font-size:1.5em;
   border-radius:6px;
   box-shadow:0 0px 10px 0 black;
@@ -89,7 +89,7 @@ body {
   color:white !important;
   text-decoration:none !important;
   border: 1px solid gray;
-  background-image: url('/assets/img/chiefs-briefing-small.jpg');
+  /*background-image: url('/assets/img/chiefs-briefing-small.jpg');*/
   background-size: cover;
 
   &::before {
