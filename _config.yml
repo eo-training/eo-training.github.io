@@ -1,1 +1,84 @@
+# Site Build Settings
 
+# Jekyll-paginate-v2 configuration
+#  pagination:
+#   enabled: true
+#   per_page: 5
+#   permalink: '/page/:num/'
+#   title: ':title - page :num of :max'
+#   limit: 0
+#   sort_field: 'date'
+#   sort_reverse: true
+
+# jekyll-paginate configuration
+paginate:            5
+
+# Build settings
+markdown:            kramdown
+highlighter:         rouge
+# permalink:           none
+plugins:             [jekyll-paginate, jekyll-sitemap, jekyll-feed, jekyll-seo-tag]
+
+# Customise atom feed settings (this is where Jekyll-Feed gets configuration information)
+title:		           'Election Officer Training'
+description:	       ''
+author:              'Office of Elections'
+
+# RSS 2.0 can be used instead of Atom by uncommenting following two lines
+#feed:
+#  path: rss-feed.xml
+
+# add collections
+
+collections_dir: collections
+
+collections:
+  2020-06-new-eo:
+    output: true
+    # permalink: /new-eo/:path
+  2020-06-new-chief:
+    output: true
+    # permalink: /new-chief/:path
+  2020-06-chiefs-briefing:
+    output: true
+    # permalink: /chiefs-briefing/:path
+  2020-11-new-eo:
+    output: true
+    # permalink: /new-eo/:path
+  2020-11-new-laws:
+    output: true
+    permalink: /new-laws/:path
+  2020-11-new-chief:
+    output: true
+    # permalink: /new-chief/:path
+  2020-11-chiefs-briefing:
+    output: true
+    # permalink: /chiefs-briefing/:path
+  2020-11-ppe-specialist:
+    output: true
+    permalink: /ppe-specialist/:path
+  2020-11-non-routine-specialist:
+    output: true
+    permalink: /non-routine-specialist/:path
+  2020-11-cap-ballot-check-in:
+    output: true
+    permalink: /cap-ballot-check-in/:path
+  2020-11-cap-eo:
+    output: true
+    permalink: /cap-eo/:path
+  2020-11-cap-preprocessing:
+    output: true
+    permalink: /cap-preprocessing/:path
+  2020-11-hs-page:
+    output: true
+    permalink: /hs-page/:path
+
+
+# Permalinks
+permalink:           /:short_year/:month/:title
+# baseurl: /
+
+# Fix date/time generation
+timezone: America/New_York
+
+### Current domain: training.electionofficers.com

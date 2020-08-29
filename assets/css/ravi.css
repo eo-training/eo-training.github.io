@@ -1,0 +1,225 @@
+/* header */
+
+body {
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-size: 18px;
+  color: #515151;
+  line-height: 1.75rem;
+  margin-bottom: 0;
+}
+
+.ravi-header {
+ background: #222;
+ margin: -8px;
+ color: #eee;
+ margin-bottom:5px;
+}
+
+.ravi-header a {
+  color: white;
+  text-decoration: none;
+  font-weight: 700;
+}
+
+.ravi-menubar {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+}
+
+.ravi-menubar-homelink {
+  margin-right: 1em;
+}
+
+.ravi-menubar-menu a {
+  font-weight: 300;
+}
+
+.ravi-menubar-menu ul {
+  margin: 0;
+  padding: 0;
+}
+
+.ravi-menubar-menu ul li {
+  list-style: none;
+  display: inline;
+  /* margin-left: 1em; */
+}
+
+.ravi-menubar-menu ul li:not(:first-child) {
+  margin-left: 1em;
+}
+
+
+/* Footer */
+
+.footer {
+  /* color: #999; */
+  /* text-align: center; */
+  margin: -8px;
+  background: #444;
+}
+
+.post-date {
+  margin-bottom: 0;
+}
+
+/* Homepage */
+
+.class-button {
+  display:flex;
+  /*justify-content:center;*/
+  flex-wrap: wrap;
+  justify-content: space-between;
+}
+
+.class-button a {
+  background-color:royalblue;
+  font-size:1.5em;
+  border-radius:6px;
+  box-shadow:0 0px 10px 0 black;
+  color:white;
+  font-weight:700;
+  transition: transform 0.2s;
+  display:inline-block;
+  padding: 2em 4em;
+  width: 10em;
+  text-align: center;
+  margin-bottom: 1em;
+  color:white !important;
+  text-decoration:none !important;
+  border: 1px solid gray;
+  background-image: url('/assets/img/chiefs-briefing-small.jpg');
+  background-size: cover;
+
+  &::before {
+    content: "";
+    position: absolute;
+    top: 0px;
+    right: 0px;
+    bottom: 0px;
+    left: 0px;
+    //background-color: rgba(0,0,0,0.25);
+    background-color: rgba(152, 66, 211, 0.63);
+  }
+}
+
+.class-button a:hover {
+  transform: scale(1.05);
+  border: 1px solid black;
+}
+
+/* Class Pages */
+
+.hero-image {
+  width: 100%;
+  box-shadow: 0 0 20px;
+}
+
+@media (min-width: 800px) {
+  .hero-image {
+    float:right;
+    max-width: 60%;
+    margin-left: 1em;
+  }
+}
+
+.homepage-intro {
+  font-size: 3em;
+  line-height: 1.125;
+  font-weight: 900;
+  max-width: 12em;
+  margin: 1em 0 0.5em;
+}
+
+.homepage-button {
+  background-color: #222;
+  font-size: 1em;
+  border-radius: 6px;
+  box-shadow: 0 4px 4px 0 rgba(42,54,52,.1), 0 8px 8px 0 rgba(42,54,52,.1), 0 16px 16px 0 rgba(42,54,52,.1), 0 16px 32px 0 rgba(42,54,52,.1), 0 32px 64px 0 rgba(42,54,52,.1), 0 64px 128px 0 rgba(42,54,52,.1);
+  /* border: 1px solid #222; */
+  color: white;
+  font-weight: 700;
+  cursor: pointer;
+  /* transform: perspective(1px) translateZ(0); */
+  transition: transform .2s;
+  display: inline-block;
+  padding: 1em 4em;
+  margin-bottom: 2em;
+  color: white !important;
+  text-decoration: none !important;
+}
+
+.homepage-button:hover {
+  transform: scale(1.1); /* (150% zoom - Note: if the zoom is too large, it will go outside of the viewport) */
+}
+
+.homepage-box {
+  background: linear-gradient(45deg, rgb(106, 120, 209), rgb(0, 164, 189));
+  max-width: 30em;
+  border-radius: 5px;
+  margin: 0 auto;
+  min-height: 10em;
+  box-shadow: 0 0 10px;
+  text-align: center;
+}
+
+/* Slides */
+
+.slides-nav {
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 10px;
+}
+
+/* Slide summary list */
+
+@media (min-width: 800px) {
+  .slide-summary {
+    display: flex;
+    justify-content: space-between;
+  }
+  .slide-summary .slide-image {
+    width: 50%;
+    margin-bottom: 0;
+  }
+  .slide-summary .slide-notes {
+    width: 46%;
+  }
+}
+
+/* Slide summary */
+
+.slide-summary {
+  /* display:flex; */
+  /* flex-wrap:wrap; */
+  /* justify-content:space-between; */
+  border-bottom: 1px solid #CCC;
+  padding: 2em 0;
+}
+
+.slide-image img {
+  width:100%;
+  /* max-width:512px; */
+  /* max-width:100%; */
+  border-radius:5px;
+  border: 2px solid rgba(0,0,0,0.1);
+}
+
+.slide-notes {
+  /* max-width:496px; */
+}
+
+.slide-notes p {
+  margin-block-start: 0;
+}
+
+/* Slide thumbnails */
+
+.slide-thumbnail {
+  width: 6em;
+  height: 4.5em;
+  border-radius: 2px;
+  /* max-width: 10%; */
+  /* max-height:20vh; */
+}
