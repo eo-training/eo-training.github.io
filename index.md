@@ -3,7 +3,7 @@ layout: home
 title: Home
 ---
 
-<div class="homepage-intro" style="margin:1em auto;">
+<div class="homepage-intro animate__animated animate__pulse" style="margin:1em auto;">
     Welcome to the Election Officer Training website!
 </div>
 
