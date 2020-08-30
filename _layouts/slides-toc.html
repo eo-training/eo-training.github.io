@@ -1,0 +1,25 @@
+---
+layout: page
+---
+
+{{ content }}
+
+<div>
+
+{% for class in site.collections %}
+{% if class.label == page.collection %}
+
+<ul>
+{% for item in class.docs %}
+{% if item.slug contains '0' %}
+  <li>
+      {{ item.slug }}. <a href="{{ item.url | relative_url }}">{{ item.title }}</a>
+  </li>
+{% endif %}  
+{% endfor %}
+</ul>
+
+{% endif %}  
+{% endfor %}
+
+</div>

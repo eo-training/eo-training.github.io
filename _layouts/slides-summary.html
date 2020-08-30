@@ -1,0 +1,38 @@
+---
+layout: page
+---
+
+{{ content }}
+
+<div>
+
+{% for class in site.collections %}
+{% if class.label == page.collection %}
+
+{% for item in class.docs %}
+{% if item.slug contains '0' %}
+
+  <div class="slide-summary">
+
+      <div class="slide-image">
+        <a href="{{ item.url | relative_url }}">
+            <img src="/{{ page.collection }}/images/{{ item.slug }}.png">
+        </a>
+    </div>
+    <div class="slide-notes">
+        
+        <p><strong>{{ item.slug }}. {{ item.title }}</strong></p>
+
+        {{ item.content }}
+
+    </div>
+
+</div>
+
+{% endif %}  
+{% endfor %}
+
+{% endif %}  
+{% endfor %}
+
+</div>

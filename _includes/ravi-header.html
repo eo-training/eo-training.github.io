@@ -7,15 +7,25 @@
 			<div class="ravi-menubar-homelink">
 				<a href="{{ site.url }}"><i class="fa fa-home"></i></a>
 				<a href="{{ site.url }}">/</a>
+				{% if page.collection %}
+					{% for class in site.collections %}
+					{% if class.label == page.collection %}
+					<a href="/{{ page.collection }}">{{ class.title }}</a>
+					{% endif %}
+					{% endfor %}
+				{% else %}
 				<a href="{{ site.url }}">{{ site.title }}</a>
+				{% endif %}
 			</div>
 
 			<div class="ravi-menubar-menu">
+				{% if page.collection %}
 				<ul>
-					<li><a href="./toc">Table of Contents</a></li>
-					<li><a href="./thumbnails">Thumbnails</a></li>
-					<li><a href="./summary">Summary</a></li>
+					<li><a href="/{{ page.collection }}/toc">Table of Contents</a></li>
+					<li><a href="/{{ page.collection }}/thumbnails">Thumbnails</a></li>
+					<li><a href="/{{ page.collection }}/summary">Summary</a></li>
 				</ul>
+				{% endif %}
 			</div>
 
 		</div>
