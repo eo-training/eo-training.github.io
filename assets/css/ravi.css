@@ -117,7 +117,7 @@ body {
 
 .cards {
   display: flex;
-  /* justify-content: space-around; */
+   justify-content: space-between; 
   flex-wrap: wrap;
 }
 
@@ -130,8 +130,8 @@ body {
   border: 1px solid black;
   max-width: 20rem;
   background: #eee;
-  margin-bottom: 1em;
-  margin-right: 1em;
+  margin-bottom: 2em;
+  /*margin-right: 1em;*/
 }
 
 .card:hover {

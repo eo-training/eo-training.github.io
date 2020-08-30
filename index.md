@@ -13,22 +13,6 @@ title: Home
 
 <hr />
 
-These classes were made for the June 2020 election and do not contain the most updated information for later elections. However, we are keeping them online as a helpful reference until the new classes are ready for the November 2020 election.
-
-<h2>Election Officer classes for June 2020 Election</h2>
-
-<div class="class-button">
-
-    <a href="http://training.electionofficers.com/2020-06-new-eo" style="background:royalblue;">New Election Officer</a>
-
-    <a href="http://training.electionofficers.com/2020-06-new-chief" style="background:crimson;">New Chief & Asst Chief</a>
-
-    <a href="http://training.electionofficers.com/2020-06-chiefs-briefing" style="background:#666;">Chiefs Briefing</a>
-
-</div>
-
-<hr />
-
 We are currently creating and updating online training classes for the November 2020 election. Most classes will be available by mid-September. The Chiefs Briefing and PPE Specialist classes will be available in late October.
 
 <h2>Election Officer classes for the November 2020 election</h2>
@@ -156,6 +140,22 @@ We are currently creating and updating online training classes for the November 
       </div>
     </a>
     </div>
+
+</div>
+
+<hr />
+
+These classes were made for the June 2020 election and do not contain the most updated information for later elections. However, we are keeping them online as a helpful reference until the new classes are ready for the November 2020 election.
+
+<h2>Election Officer classes for June 2020 Election</h2>
+
+<div class="class-button">
+
+    <a href="http://training.electionofficers.com/2020-06-new-eo" style="background:royalblue;">New Election Officer</a>
+
+    <a href="http://training.electionofficers.com/2020-06-new-chief" style="background:crimson;">New Chief & Asst Chief</a>
+
+    <a href="http://training.electionofficers.com/2020-06-chiefs-briefing" style="background:#666;">Chiefs Briefing</a>
 
 </div>
 
