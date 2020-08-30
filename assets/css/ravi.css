@@ -113,6 +113,71 @@ body {
   display: none;
 }
 
+/* Homepage cards */
+
+.cards {
+  display: flex;
+  /* justify-content: space-around; */
+  flex-wrap: wrap;
+}
+
+.card {
+  box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+  transition: 0.3s;
+  width: 40%;
+  border-radius: 25px;
+  overflow: hidden;
+  border: 1px solid black;
+  max-width: 20rem;
+  background: #eee;
+  margin-bottom: 1em;
+  margin-right: 1em;
+}
+
+.card:hover {
+  box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
+  transform: scale(1.05);
+}
+
+.card:hover .card-image {
+  transform: scale(1.2);
+}
+
+.card a {
+  text-decoration: none;
+}
+
+.card img {
+  border-radius: 0;
+}
+
+.card-image-container {
+  overflow: hidden;
+  width: 100%;
+  height: 10em;
+  border-bottom: 1px solid black;
+  background-color: lavender;
+}
+
+.card-image {
+  background-image: url('/assets/img/coming-soon-neon-sign.jpg');
+  background-position: center;
+  background-size: cover;
+  width: 100%;
+  height: 10em;
+  transition: all 0.5s;
+}
+
+.card-text {
+  padding: 8px 16px;
+  /*background: #222;*/
+  color: black;
+  font-size: 2rem;
+  font-weight: 700;
+  margin: -10px;
+  text-align: center;
+}
+
 /* Class Pages */
 
 .hero-image {

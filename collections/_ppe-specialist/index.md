@@ -6,7 +6,7 @@ title: Home
 <img class="hero-image" src="{{ site.url }}/assets/img/coming-soon-neon-sign.jpg">
 
 <div class="homepage-intro">
-This class is currently under construction. It will be available in late October.
+This class is currently under construction.
 </div>
 
 <div>
