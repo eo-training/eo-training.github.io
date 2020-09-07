@@ -68,7 +68,7 @@
     		canvas.height = H;
     	});
 
-        setTimeout(DeactivateConfetti, 4000);
+        setTimeout(DeactivateConfetti, 5000);
 
     });
 
