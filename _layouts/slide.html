@@ -29,6 +29,15 @@ layout: default
 	</audio>
 </div>
 
+<script>
+var x = document.getElementById("audioplayer");
+let audioState = localStorage.getItem("autoPlayAudio");
+
+if (audioState == "disabled") {
+	audioplayer.pause();
+}
+
+</script>
 
 
 <h1>
