@@ -1,3 +1,5 @@
+// All credit goes to the original: http://jsfiddle.net/Javalsu/vxP5q/743/
+
 (function () {
     // globals
     var canvas;

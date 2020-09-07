@@ -26,34 +26,38 @@ layout: default
 		<source src="../audio/{{ page.slug }}.m4a" type="audio/mp4">
 			<!-- <source src="horse.mp3" type="audio/mpeg"> -->
 				<!-- Your browser does not support the audio tag. -->
-			</audio>
-
-			<script>
-				var audio = document.getElementById('audioplayer');
-
-				function redirectHandler() {
-					window.location.href = '{{page.next.url | relative_url }}';
-				}
-
-				function delayRedirect() {
-					window.setTimeout(redirectHandler,2000);
-
-				}
-
-				audio.addEventListener('ended', delayRedirect, false);
-			</script>
-
-		</div>
+	</audio>
+</div>
 
 
-		<h1>
-			{{ page.title }}
-		</h1>
 
-		<div>
-			{{ content }}
-		</div>
+<h1>
+	{{ page.title }}
+</h1>
 
-{% if page.confetti %}
+<div>
+	{{ content }}
+</div>
+
+
+{% if page.lastSlide %}
+	
 	{% include ravi-confetti.html %}
+
+{% else %}
+
+	<script>
+		var audio = document.getElementById('audioplayer');
+
+		function redirectHandler() {
+			window.location.href = '{{page.next.url | relative_url }}';
+		}
+
+		function delayRedirect() {
+			window.setTimeout(redirectHandler,2000);
+		}
+
+		audio.addEventListener('ended', delayRedirect, false);
+	</script>
+
 {% endif %}
