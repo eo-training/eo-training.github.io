@@ -3,24 +3,25 @@ layout: home
 title: Home
 ---
 
-<div class="homepage-intro animate__animated animate__pulse" style="margin:1em auto;">
+<div class="homepage-intro animate__animated animate__pulse" style="margin:1em auto; display:none;">
     Welcome to the Election Officer Training website!
 </div>
 
-<p>Online training for election officers is now available. Click to view the class you would like to take. When you are done, return to the Election Officer Portal to take a quiz to indicate class completion. You need to go to the main Training page and look in the bottom right for the &quot;Take Quiz&quot; link. You must get at least 80% to pass the quiz or you will have to re-take it.</p>
-
-<p style="text-align: center;">If you need help, call us at 703-324-4735. Thank you!</p>
-
-<hr />
-
-We are currently creating and updating online training classes for the November 2020 election. Most classes will be available by mid-September. The Chiefs Briefing and PPE Specialist classes will be available in late October.
+<p style="
+    background: lightyellow;
+    padding: 0.8em;
+    box-shadow: 5px 5px 3px grey;
+    border-radius: 1px;
+    border: 1px solid black;
+    margin-bottom: 3em;
+"><strong>Fairfax County Election Officer Training</strong>: We are currently creating and updating online training classes for the November 2020 election. Most classes will be available by mid-September. The Chiefs Briefing and PPE Specialist classes will be available in late October. If you need help, call us at 703-324-4735.</p>
 
 <h2>Election Officer classes for the November 2020 election</h2>
 
 <div class="cards">
 
     <div class="card">
-    <a href="/new-eo">
+    <a href="/coming-soon">
       <div class="card-image-container">
         <div class="card-image" style="background-image: url('/assets/img/new-eos.png')"></div>
       </div>
@@ -31,18 +32,18 @@ We are currently creating and updating online training classes for the November 
     </div>
 
     <div class="card">
-    <a href="/new-laws">
+    <a href="/coming-soon">
       <div class="card-image-container">
         <div class="card-image" style="background-image: url('/assets/img/new-eo-thumbnails.png')"></div>
       </div>
       <div class="card-text">
-        <p>New Laws (for Experienced Officers)</p>
+        <p>Changes to Virginia Election Laws</p>
       </div>
     </a>
     </div>
 
     <div class="card">
-    <a href="/new-chief">
+    <a href="/coming-soon">
       <div class="card-image-container">
         <div class="card-image" style="background-image: url('/assets/img/chiefs-briefing-small.jpg')"></div>
       </div>
@@ -53,7 +54,7 @@ We are currently creating and updating online training classes for the November 
     </div>
 
     <div class="card">
-    <a href="/chiefs-briefing">
+    <a href="/coming-soon">
       <div class="card-image-container">
         <div class="card-image" style="background-image: url('/assets/img/chiefs-briefing-small.jpg')"></div>
       </div>
@@ -64,7 +65,7 @@ We are currently creating and updating online training classes for the November 
     </div>
 
     <div class="card">
-    <a href="/non-routine-specialist">
+    <a href="/coming-soon">
       <div class="card-image-container">
         <div class="card-image" style="background-image: url('/assets/img/what-ifs.png')"></div>
       </div>
@@ -75,7 +76,7 @@ We are currently creating and updating online training classes for the November 
     </div>
 
     <div class="card">
-    <a href="/ppe-specialist">
+    <a href="/coming-soon">
       <div class="card-image-container">
         <div class="card-image" style="background-image: url('/assets/img/coming-soon-neon-sign.jpg')"></div>
       </div>
@@ -92,7 +93,7 @@ We are currently creating and updating online training classes for the November 
 <div class="cards">
 
     <div class="card">
-    <a href="/cap-eo">
+    <a href="/coming-soon">
       <div class="card-image-container">
         <div class="card-image" style="background-image: url('/assets/img/fairfax-county-govt-center.png')"></div>
       </div>
@@ -103,7 +104,7 @@ We are currently creating and updating online training classes for the November 
     </div>
 
     <div class="card">
-    <a href="/cap-ballot-check-in">
+    <a href="/coming-soon">
       <div class="card-image-container">
         <div class="card-image" style="background-image: url('/assets/img/fairfax-county-govt-center.png')"></div>
       </div>
@@ -114,7 +115,7 @@ We are currently creating and updating online training classes for the November 
     </div>
 
     <div class="card">
-    <a href="/cap-preprocessing">
+    <a href="/coming-soon">
       <div class="card-image-container">
         <div class="card-image" style="background-image: url('/assets/img/fairfax-county-govt-center.png')"></div>
       </div>
