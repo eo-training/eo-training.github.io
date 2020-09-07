@@ -53,3 +53,7 @@ layout: default
 		<div>
 			{{ content }}
 		</div>
+
+{% if page.confetti %}
+	{% include ravi-confetti.html %}
+{% endif %}

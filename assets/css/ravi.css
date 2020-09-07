@@ -8,6 +8,16 @@ body {
   margin-bottom: 0;
 }
 
+#confetti {
+  /*display: block;*/
+  /*position: relative;*/
+  position: absolute;
+  top: 0;
+  left: 0;
+  z-index: 100;
+  pointer-events: none;
+}
+
 .ravi-header {
  background: #222;
  margin: -8px;
@@ -117,7 +127,7 @@ body {
 
 .cards {
   display: flex;
-   justify-content: space-between; 
+  justify-content: space-between; 
   flex-wrap: wrap;
 }
 

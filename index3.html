@@ -1,0 +1,62 @@
+<head>
+</head>
+
+<style>
+	* {
+		margin: 0;
+		padding: 0;
+	}
+
+	body {
+		/*You can use any kind of background here.*/
+		background: transparent;
+	}
+
+	canvas {
+		display: block;
+		position: relative;
+		z-index: 1;
+		pointer-events: none;
+	}
+
+	#content {
+		text-align: center;
+		width: 500px;
+		height: 300px;
+		position: absolute;
+		top: 50%;
+		left: 50%;
+		margin-left: -250px;
+		margin-top: -150px;
+		color: silver;
+		font-family: verdana;
+		font-size: 45px;
+		font-weight: bold;
+	}
+
+	.buttonContainer {
+		display: inline-block;
+	}
+
+	button {
+		padding: 5px 10px;
+		font-size: 20px;
+	}
+
+</style>
+
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+<script src="/assets/js/ravi-confetti.js"></script>
+
+<div id="content">
+	Hello World
+	<br /> I love confetti!
+	<br />
+	<div class="buttonContainer">
+		<button id="startButton">Start Confetti</button>
+		<button id="stopButton">Stop Confetti</button>
+	</div>
+</div>
+<canvas id="canvas"></canvas>
+
+
