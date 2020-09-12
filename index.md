@@ -21,7 +21,7 @@ title: Home
 <div class="cards">
 
     <div class="card">
-    <a href="/coming-soon">
+    <a href="/new-eo">
       <div class="card-image-container">
         <div class="card-image" style="background-image: url('/assets/img/new-eos.png')"></div>
       </div>
