@@ -34,7 +34,7 @@ title: Home
     <div class="card">
     <a href="/coming-soon">
       <div class="card-image-container">
-        <div class="card-image" style="background-image: url('/assets/img/new-eo-thumbnails.png')"></div>
+        <div class="card-image" style="background-image: url('/assets/img/id-checklist.png')"></div>
       </div>
       <div class="card-text">
         <p>Changes to Virginia Election Laws</p>
