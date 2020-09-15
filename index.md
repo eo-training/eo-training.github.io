@@ -27,6 +27,7 @@ title: Home
       </div>
       <div class="card-text">
         <p>New Election Officer</p>
+        <p class="card-coming-soon" style="color:green;">Now available!</p>
       </div>
     </a>
     </div>
@@ -154,22 +155,6 @@ title: Home
 
 <hr />
 
-These classes were made for the June 2020 election and do not contain the most updated information for later elections. However, we are keeping them online as a helpful reference until the new classes are ready for the November 2020 election.
-
-<h2>Election Officer classes for June 2020 Election</h2>
-
-<div class="class-button">
-
-    <a href="http://training.electionofficers.com/2020-06-new-eo" style="background:royalblue;">New Election Officer</a>
-
-    <a href="http://training.electionofficers.com/2020-06-new-chief" style="background:crimson;">New Chief & Asst Chief</a>
-
-    <a href="http://training.electionofficers.com/2020-06-chiefs-briefing" style="background:#666;">Chiefs Briefing</a>
-
-</div>
-
-<hr />
-
 <p style="text-align: center; font-weight:bold;"><span style="color:#FF0000;">If you have any questions or issues regarding training, call us at 703-324-4735 or<br />
  email <a href="mailto:ElectionOfficerTraining@fairfaxcounty.gov">ElectionOfficerTraining@fairfaxcounty.gov</a>. We are here to help!</span></p>
 
@@ -193,6 +178,22 @@ function hideDIV() {
 </script>
 
 <div id="hideText">
+
+<hr />
+
+These classes were made for the June 2020 election and do not contain the most updated information for later elections. However, we are keeping them online as a helpful reference until the new classes are ready for the November 2020 election.
+
+<h2>Election Officer classes for June 2020 Election</h2>
+
+<div class="class-button">
+
+    <a href="http://training.electionofficers.com/2020-06-new-eo" style="background:royalblue;">New Election Officer</a>
+
+    <a href="http://training.electionofficers.com/2020-06-new-chief" style="background:crimson;">New Chief & Asst Chief</a>
+
+    <a href="http://training.electionofficers.com/2020-06-chiefs-briefing" style="background:#666;">Chiefs Briefing</a>
+
+</div>
 
 <hr />
 
