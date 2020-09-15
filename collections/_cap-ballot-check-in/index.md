@@ -10,7 +10,7 @@ Welcome to the CAP Returned Ballot Check-In online training!
 </div>
 
 <div>
-<a class="homepage-button" href="{{ site.github.url }}/slides/001">Start training</a>
+<a class="homepage-button" href="./slides/001">Start training</a>
 </div>
 
 **Questions?** Call 703-324-7739 or email CentralAbsentee@fairfaxcounty.gov. We are here to help!
