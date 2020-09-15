@@ -38,6 +38,7 @@ title: Home
       </div>
       <div class="card-text">
         <p>Changes to Virginia Election Laws</p>
+        <p class="card-coming-soon">Coming soon!</p>
       </div>
     </a>
     </div>
@@ -45,10 +46,11 @@ title: Home
     <div class="card">
     <a href="/coming-soon">
       <div class="card-image-container">
-        <div class="card-image" style="background-image: url('/assets/img/chiefs-briefing-small.jpg')"></div>
+        <div class="card-image" style="background-image: url('/assets/img/chiefs-notebook-cropped.png')"></div>
       </div>
       <div class="card-text">
         <p>New Chief and Assistant Chief</p>
+        <p class="card-coming-soon">Coming soon!</p>
       </div>
     </a>
     </div>
@@ -60,6 +62,7 @@ title: Home
       </div>
       <div class="card-text">
         <p>Chiefs Briefing</p>
+        <p class="card-coming-soon">Available late October!</p>
       </div>
     </a>
     </div>
@@ -71,6 +74,7 @@ title: Home
       </div>
       <div class="card-text">
         <p>Non-Routine Specialist</p>
+        <p class="card-coming-soon">Coming soon!</p>
       </div>
     </a>
     </div>
@@ -78,10 +82,11 @@ title: Home
     <div class="card">
     <a href="/coming-soon">
       <div class="card-image-container">
-        <div class="card-image" style="background-image: url('/assets/img/coming-soon-neon-sign.jpg')"></div>
+        <div class="card-image" style="background-image: url('/assets/img/ppe-specialist-cropped.png')"></div>
       </div>
       <div class="card-text">
         <p>PPE Specialist</p>
+        <p class="card-coming-soon">Available late October!</p>
       </div>
     </a>
     </div>
@@ -99,6 +104,7 @@ title: Home
       </div>
       <div class="card-text">
         <p>CAP Election Officer Training</p>
+        <p class="card-coming-soon">Coming soon!</p>
       </div>
     </a>
     </div>
@@ -110,6 +116,7 @@ title: Home
       </div>
       <div class="card-text">
         <p>CAP Returned Ballot Check-In</p>
+        <p class="card-coming-soon">Coming soon!</p>
       </div>
     </a>
     </div>
@@ -121,6 +128,7 @@ title: Home
       </div>
       <div class="card-text">
         <p>CAP Preprocessing</p>
+        <p class="card-coming-soon">Coming soon!</p>
       </div>
     </a>
     </div>

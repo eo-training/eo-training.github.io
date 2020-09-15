@@ -227,6 +227,13 @@ body {
   text-align: center;
 }
 
+.card-coming-soon {
+    color: dimgray;
+    font-size: 0.5em;
+    font-style: italic;
+    margin-top: -1rem;
+}
+
 /* Class Pages */
 
 .hero-image {
