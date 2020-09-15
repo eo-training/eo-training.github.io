@@ -10,7 +10,7 @@ Welcome to the CAP Election Officer online training!
 </div>
 
 <div>
-<a class="homepage-button" href="{{ site.github.url }}/slides/001">Start training</a>
+<a class="homepage-button" href="./slides/001">Start training</a>
 </div>
 
 **Questions?** Call 703-324-7739 or email CentralAbsentee@fairfaxcounty.gov. We are here to help!
@@ -24,9 +24,9 @@ Note that audio narration plays automatically for each slide. At the end of each
 ---
 
 Links:
-* <a href="{{ site.github.url }}/slides/">Table of Contents</a>
-* <a href="{{ site.github.url }}/slides-thumbnails/">Slides Thumbnails</a>
-* <a href="{{ site.github.url }}/slides-summary/">Slides Summary</a>
+* <a href="./toc">Table of Contents</a>
+* <a href="./thumbnails">Slides Thumbnails</a>
+* <a href="./summary">Slides Summary</a>
 
 After reviewing the slides, you must take a quiz in the Election Officer Portal to receive credit and be eligible to serve as a CAP election officer.
 
