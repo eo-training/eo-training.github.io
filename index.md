@@ -59,18 +59,6 @@ title: Home
     <div class="card">
     <a href="/coming-soon">
       <div class="card-image-container">
-        <div class="card-image" style="background-image: url('/assets/img/chiefs-briefing-small.jpg')"></div>
-      </div>
-      <div class="card-text">
-        <p>Chiefs Briefing</p>
-        <p class="card-coming-soon">Available late October!</p>
-      </div>
-    </a>
-    </div>
-
-    <div class="card">
-    <a href="/coming-soon">
-      <div class="card-image-container">
         <div class="card-image" style="background-image: url('/assets/img/what-ifs.png')"></div>
       </div>
       <div class="card-text">
@@ -83,10 +71,22 @@ title: Home
     <div class="card">
     <a href="/coming-soon">
       <div class="card-image-container">
-        <div class="card-image" style="background-image: url('/assets/img/ppe-specialist-cropped.png')"></div>
+        <div class="card-image" style="background-image: url('/assets/img/ppe-face-masks.jpg')"></div>
       </div>
       <div class="card-text">
         <p>PPE Specialist</p>
+        <p class="card-coming-soon">Available late October!</p>
+      </div>
+    </a>
+    </div>
+
+    <div class="card">
+    <a href="/coming-soon">
+      <div class="card-image-container">
+        <div class="card-image" style="background-image: url('/assets/img/chiefs-briefing-small.jpg')"></div>
+      </div>
+      <div class="card-text">
+        <p>Chiefs Briefing</p>
         <p class="card-coming-soon">Available late October!</p>
       </div>
     </a>
