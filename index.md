@@ -14,7 +14,7 @@ title: Home
     border-radius: 1px;
     border: 1px solid black;
     margin-bottom: 3em;
-"><strong>Fairfax County Election Officer Training</strong>: We are currently creating and updating online training classes for the November 2020 election. Most classes will be available by mid-September. The Chiefs Briefing and PPE Specialist classes will be available in late October. If you need help, call us at 703-324-4735.</p>
+"><strong>Fairfax County Election Officer Training</strong>: We are currently creating and updating online training classes for the November 2020 election. Most classes will be available by late September. The Chiefs Briefing and PPE Specialist classes will be available in late October. If you need help, call us at 703-324-4735.</p>
 
 <h2>Election Officer classes for the November 2020 election</h2>
 
