@@ -225,7 +225,7 @@ We are currently creating and updating online training classes for the November 
 
         <a href="/cap-preprocessing">CAP Preprocessing</a>
 
-        <a href="/cap-other">CAP Other</a>
+        <a href="/cap-ballot-check-in">CAP Ballot Check-In</a>
 
     </div>
 
