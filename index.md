@@ -99,37 +99,37 @@ title: Home
 <div class="cards">
 
     <div class="card">
-    <a href="/coming-soon">
+    <a href="/cap-eo">
       <div class="card-image-container">
         <div class="card-image" style="background-image: url('/assets/img/fairfax-county-govt-center.png')"></div>
       </div>
       <div class="card-text">
         <p>CAP Election Officer Training</p>
-        <p class="card-coming-soon">Coming soon!</p>
+        <p class="card-coming-soon" style="color:green;">Now available!</p>
       </div>
     </a>
     </div>
 
     <div class="card">
-    <a href="/coming-soon">
+    <a href="/cap-ballot-check-in">
       <div class="card-image-container">
         <div class="card-image" style="background-image: url('/assets/img/fairfax-county-govt-center.png')"></div>
       </div>
       <div class="card-text">
         <p>CAP Returned Ballot Check-In</p>
-        <p class="card-coming-soon">Coming soon!</p>
+        <p class="card-coming-soon" style="color:green;">Now available!</p>
       </div>
     </a>
     </div>
 
     <div class="card">
-    <a href="/coming-soon">
+    <a href="/cap-preprocessing">
       <div class="card-image-container">
         <div class="card-image" style="background-image: url('/assets/img/fairfax-county-govt-center.png')"></div>
       </div>
       <div class="card-text">
         <p>CAP Preprocessing</p>
-        <p class="card-coming-soon">Coming soon!</p>
+        <p class="card-coming-soon" style="color:green;">Now available!</p>
       </div>
     </a>
     </div>
