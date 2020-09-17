@@ -147,6 +147,7 @@ title: Home
       </div>
       <div class="card-text">
         <p>High School Page</p>
+        <p class="card-coming-soon" style="color:green;">Now available!</p>
       </div>
     </a>
     </div>
