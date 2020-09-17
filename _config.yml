@@ -48,7 +48,7 @@ collections:
     # permalink: /new-eo/:path
   new-laws:
     output: true
-    title: "New Laws Training"
+    title: "Changes to Virginia Election Laws"
     # permalink: /new-laws/:path
   new-chief:
     output: true
