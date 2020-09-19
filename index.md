@@ -33,13 +33,13 @@ title: Home
     </div>
 
     <div class="card">
-    <a href="/coming-soon">
+    <a href="/new-laws">
       <div class="card-image-container">
         <div class="card-image" style="background-image: url('/assets/img/id-checklist.png')"></div>
       </div>
       <div class="card-text">
         <p>Changes to Virginia Election Laws</p>
-        <p class="card-coming-soon">Coming soon!</p>
+        <p class="card-coming-soon" style="color:green;">Now available!</p>
       </div>
     </a>
     </div>
