@@ -94,48 +94,6 @@ title: Home
 
 </div>
 
-<h2>Central Absentee Precinct classes for the November 2020 election</h2>
-
-<div class="cards">
-
-    <div class="card">
-    <a href="/cap-eo">
-      <div class="card-image-container">
-        <div class="card-image" style="background-image: url('/assets/img/fairfax-county-govt-center.png')"></div>
-      </div>
-      <div class="card-text">
-        <p>CAP Election Officer Training</p>
-        <p class="card-coming-soon" style="color:green;">Now available!</p>
-      </div>
-    </a>
-    </div>
-
-    <div class="card">
-    <a href="/cap-ballot-check-in">
-      <div class="card-image-container">
-        <div class="card-image" style="background-image: url('/assets/img/fairfax-county-govt-center.png')"></div>
-      </div>
-      <div class="card-text">
-        <p>CAP Returned Ballot Check-In</p>
-        <p class="card-coming-soon" style="color:green;">Now available!</p>
-      </div>
-    </a>
-    </div>
-
-    <div class="card">
-    <a href="/cap-preprocessing">
-      <div class="card-image-container">
-        <div class="card-image" style="background-image: url('/assets/img/fairfax-county-govt-center.png')"></div>
-      </div>
-      <div class="card-text">
-        <p>CAP Preprocessing</p>
-        <p class="card-coming-soon" style="color:green;">Now available!</p>
-      </div>
-    </a>
-    </div>
-
-</div>
-
 <h2>High School Page classes for the November 2020 election</h2>
 
 <div class="cards">
@@ -182,6 +140,50 @@ function hideDIV() {
 
 <hr />
 
+<h2>Central Absentee Precinct classes for the November 2020 election</h2>
+
+<div class="cards">
+
+    <div class="card">
+    <a href="/cap-eo">
+      <div class="card-image-container">
+        <div class="card-image" style="background-image: url('/assets/img/fairfax-county-govt-center.png')"></div>
+      </div>
+      <div class="card-text">
+        <p>CAP Election Officer Training</p>
+        <p class="card-coming-soon" style="color:green;">Now available!</p>
+      </div>
+    </a>
+    </div>
+
+    <div class="card">
+    <a href="/cap-ballot-check-in">
+      <div class="card-image-container">
+        <div class="card-image" style="background-image: url('/assets/img/fairfax-county-govt-center.png')"></div>
+      </div>
+      <div class="card-text">
+        <p>CAP Returned Ballot Check-In</p>
+        <p class="card-coming-soon" style="color:green;">Now available!</p>
+      </div>
+    </a>
+    </div>
+
+    <div class="card">
+    <a href="/cap-preprocessing">
+      <div class="card-image-container">
+        <div class="card-image" style="background-image: url('/assets/img/fairfax-county-govt-center.png')"></div>
+      </div>
+      <div class="card-text">
+        <p>CAP Preprocessing</p>
+        <p class="card-coming-soon" style="color:green;">Now available!</p>
+      </div>
+    </a>
+    </div>
+
+</div>
+
+<hr />
+
 These classes were made for the June 2020 election and do not contain the most updated information for later elections. However, we are keeping them online as a helpful reference until the new classes are ready for the November 2020 election.
 
 <h2>Election Officer classes for June 2020 Election</h2>
@@ -198,45 +200,7 @@ These classes were made for the June 2020 election and do not contain the most u
 
 <hr />
 
-We are currently creating and updating online training classes for the November 2020 election. Most classes will be available by mid-September. The Chiefs Briefing and PPE Specialist classes will be available in late October.
 
-<h2>Election Officer classes for November 2020 Election</h2>
-
-    <div class="class-button">
-
-        <a href="/new-eo" style="background-image: url('/assets/img/slide-thumbnails.png')">New Election Officer</a>
-
-        <a href="/new-laws">New Laws (for Experienced Officers)</a>
-
-        <a href="/new-chief">New Chief & Asst Chief</a>
-
-        <a href="/chiefs-briefing" style="background-image: url('/assets/img/chiefs-briefing-small.jpg')">Chiefs Briefing</a>
-
-        <a href="/non-routine-specialist">Non-Routine Specialist</a>
-
-        <a href="/ppe-specialist">PPE Specialist</a>
-
-    </div>
-
-<h2>Central Absentee Precinct classes for November 2020 Election</h2>
-
-    <div class="class-button">
-
-        <a href="/cap-eo" style="background-image: url('/assets/img/fairfax-county-govt-center.png')">CAP Officer</a>
-
-        <a href="/cap-preprocessing">CAP Preprocessing</a>
-
-        <a href="/cap-ballot-check-in">CAP Ballot Check-In</a>
-
-    </div>
-
-<h2>High School Page classes for November 2020 Election</h2>
-
-    <div class="class-button">
-
-        <a href="/hs-page" style="background-image: url('/assets/img/high-school-pages-small.jpg')">High School Page</a>
-
-    </div>
 
 
 </div>
