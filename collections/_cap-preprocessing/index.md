@@ -6,7 +6,7 @@ title: Home
 <img class="hero-image" src="{{ site.url }}/assets/img/cap-preprocessing-011.png">
 
 <div class="homepage-intro">
-Welcome to the CAP Preprocessing online training!
+Welcome to the CAP Pre-Processing online training!
 </div>
 
 <div>
