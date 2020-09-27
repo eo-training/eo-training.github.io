@@ -28,6 +28,4 @@ Links:
 * <a href="./thumbnails">Slides Thumbnails</a>
 * <a href="./summary">Slides Summary</a>
 
-After reviewing the slides, you must take a quiz in the Election Officer Portal to receive credit and be eligible to serve as a CAP election officer.
-
 Again, please contact us if you have any questions. Thank you!
