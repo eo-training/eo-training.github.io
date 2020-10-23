@@ -51,7 +51,7 @@ title: Home
       </div>
       <div class="card-text">
         <p>New Chief and Assistant Chief</p>
-        <p class="card-coming-soon">Available mid-October!</p>
+        <p class="card-coming-soon">Available October 26!</p>
       </div>
     </a>
     </div>
@@ -63,7 +63,7 @@ title: Home
       </div>
       <div class="card-text">
         <p>Non-Routine Specialist</p>
-        <p class="card-coming-soon">Available mid-October!</p>
+        <p class="card-coming-soon">Available October 26!</p>
       </div>
     </a>
     </div>
@@ -75,7 +75,7 @@ title: Home
       </div>
       <div class="card-text">
         <p>PPE Specialist</p>
-        <p class="card-coming-soon">Available late October!</p>
+        <p class="card-coming-soon">Available October 26!</p>
       </div>
     </a>
     </div>
@@ -87,7 +87,7 @@ title: Home
       </div>
       <div class="card-text">
         <p>Chiefs Briefing</p>
-        <p class="card-coming-soon">Available late October!</p>
+        <p class="card-coming-soon">Available October 26!</p>
       </div>
     </a>
     </div>
