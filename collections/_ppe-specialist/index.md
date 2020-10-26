@@ -3,7 +3,7 @@ layout: home
 title: "PPE Specialist Training"
 ---
 
-<img class="hero-image" src="{{ site.url }}/assets/img/new-eos-2.png">
+<img class="hero-image" src="{{ site.url }}/assets/img/social-distancing-signs.jpg">
 
 <div class="homepage-intro">
 Welcome to the PPE Specialist online training class!

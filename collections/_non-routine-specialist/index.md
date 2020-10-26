@@ -3,7 +3,7 @@ layout: home
 title: "Non-Routine Specialist Training"
 ---
 
-<img class="hero-image" src="{{ site.url }}/assets/img/new-eos-2.png">
+<img class="hero-image" src="{{ site.url }}/assets/img/nrs.png">
 
 <div class="homepage-intro">
 Welcome to the Non-Routine Specialist online training class!
