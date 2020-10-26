@@ -27,7 +27,6 @@ title: Home
       </div>
       <div class="card-text">
         <p>New Election Officer</p>
-        <p class="card-coming-soon" style="color:green;">Now available!</p>
       </div>
     </a>
     </div>
@@ -39,7 +38,6 @@ title: Home
       </div>
       <div class="card-text">
         <p>Changes to Virginia Election Laws</p>
-        <p class="card-coming-soon" style="color:green;">Now available!</p>
       </div>
     </a>
     </div>
@@ -87,7 +85,7 @@ title: Home
       </div>
       <div class="card-text">
         <p>Chiefs Briefing</p>
-        <p class="card-coming-soon">Available October 26!</p>
+        <p class="card-coming-soon" style="color:green;">Now available!</p>
       </div>
     </a>
     </div>
