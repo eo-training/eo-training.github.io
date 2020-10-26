@@ -54,7 +54,7 @@ title: Home
     </div>
 
     <div class="card">
-    <a href="/coming-soon">
+    <a href="/non-routine-specialist/">
       <div class="card-image-container">
         <div class="card-image" style="background-image: url('/assets/img/what-ifs.png')"></div>
       </div>
@@ -65,7 +65,7 @@ title: Home
     </div>
 
     <div class="card">
-    <a href="/coming-soon">
+    <a href="/ppe-specialist/">
       <div class="card-image-container">
         <div class="card-image" style="background-image: url('/assets/img/ppe-face-masks.jpg')"></div>
       </div>
@@ -76,7 +76,7 @@ title: Home
     </div>
 
     <div class="card">
-    <a href="/coming-soon">
+    <a href="/chiefs-briefing/">
       <div class="card-image-container">
         <div class="card-image" style="background-image: url('/assets/img/chiefs-briefing-small.jpg')"></div>
       </div>
