@@ -43,7 +43,7 @@ title: Home
     </div>
 
     <div class="card">
-    <a href="/">
+    <a href="/new-chief">
       <div class="card-image-container">
         <div class="card-image" style="background-image: url('/assets/img/chiefs-notebook-cropped.png')"></div>
       </div>
