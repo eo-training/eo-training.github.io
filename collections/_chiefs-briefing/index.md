@@ -10,7 +10,7 @@ Welcome to the online Chiefs Briefing!
 </div>
 
 <div>
-<a class="homepage-button" href="./slides/001">Start briefing</a>
+<a class="homepage-button" href="./slides/0001">Start briefing</a>
 </div>
 
 **Questions?** Call 703-324-4735 or email ElectionOfficerTraining@fairfaxcounty.gov. We are here to help!
