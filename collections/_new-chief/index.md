@@ -3,7 +3,7 @@ layout: home
 title: "New Chief Training"
 ---
 
-<img class="hero-image" src="{{ site.url }}/assets/img/voter-referral-worksheet-what-ifs-2020.png">
+<img class="hero-image" src="{{ site.url }}/assets/img/voter-referral-worksheet-what-ifs-5.png">
 
 <div class="homepage-intro">
 Welcome to the New Chief online training class!
