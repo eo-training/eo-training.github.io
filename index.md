@@ -14,7 +14,7 @@ title: Home
     border-radius: 1px;
     border: 1px solid black;
     margin-bottom: 3em;
-"><strong>Fairfax County Election Officer Training</strong>: Online training classes are being published on a rolling basis in September and October. If you need help, email us at ElectionOfficerTraining@fairfaxcounty.gov or call 703-324-4735. Thanks!</p>
+"><strong>Fairfax County Election Officer Training</strong>: The online training classes below were published for the November 2020 General and Special Elections. Updated classes will be available in 2021 for future elections. If you have any questions, <a href="mailto:ElectionOfficerTraining@fairfaxcounty.gov">email us</a> or call 703-324-4735. Thank you!</p>
 
 <h2>Election Officer classes for the November 2020 election</h2>
 
