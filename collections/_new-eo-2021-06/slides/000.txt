@@ -730,7 +730,7 @@ layout: slide
 
 Each precinct receives 1 iSync drive, which is a small "thumb drive" that must be inserted into each Poll Pad individually to update them. The iSync drive contains the most current list of registered voters and absentee voters.
 
-You may ask, why do we need to use an iSync drive? Poll Pads must be prepared 2 weeks before election day so we can send them to your polling place in time, but do not include the final absentee voters or last-minute changes to voter registration. iSync drives are prepared 2 days before election day, after voter registration and in-person absentee voting have ended. That's why it's so important to use the iSync drive to update your Poll Pads in the morning!
+You may ask, why do we need to use an iSync drive? Poll Pads must be prepared *2 weeks* before election day so we can send them to your polling place in time, but do not include the final absentee voters or last-minute changes to voter registration. iSync drives are prepared *2 days* before election day, after voter registration and in-person absentee voting have ended. That's why it's so important to use the iSync drive to update your Poll Pads in the morning!
 
 During opening procedures, insert your iSync drive into each Poll Pad to update it. If a precinct forgets to update a Poll Pad, it will have an older list of voters and it can take the Office of Elections up to 4 hours to reconcile the data for each Poll Pad.
 
@@ -745,21 +745,21 @@ layout: slide
 
 <INSERT VIDEO HERE>
 
-We will now demonstrate the iSync import process on a Poll Pad. On election day, you will repeat with EACH Poll Pad.
+**We will now demonstrate the iSync import process on a Poll Pad. On election day, you will repeat with EACH Poll Pad.**
 
 Once the Poll Pad has powered on and is on the home screen, insert the iSync drive into the Lightning Connector on the right side of the tablet. Now you are ready to import information from the iSync.
 
-Step 1: When the pop-up menu appears, tap “Import Voter File.”
+**Step 1**: When the pop-up menu appears, tap “Import Voter File.”
 
-Step 2: You will see the pop-up ‘flip’ and show “Ready to import.” Tap “Import Voter File” at the bottom of the pop-up.
+**Step 2**: You will see the pop-up ‘flip’ and show “Ready to import.” Tap “Import Voter File” at the bottom of the pop-up.
 
-Step 3: Once the data import is complete, touch OK and remove the iSync drive. The file will continue to initialize. This process may take a few minutes.
+**Step 3**: Once the data import is complete, touch OK and **remove the iSync** drive. The file will continue to initialize. This process may take a few minutes.
 
-Step 4: Touch “OK” when the “Import Finished” pop-up appears. The Poll Pad application will restart.
+**Step 4:** Touch “OK” when the “Import Finished” pop-up appears. The Poll Pad application will restart.
 
-Step 5: The Poll Pad application should open to the home screen. Verify that the current date/time displays in the screen header under the election title. 
+**Step 5:** The Poll Pad application should open to the home screen. Verify that the current date/time displays in the screen header under the election title. 
 
-Repeat steps 1-5 on every Poll Pad. Give the iSync drive to the Chief once you’re done.
+**Repeat steps 1-5 on every Poll Pad**. Give the iSync drive to the Chief once you’re done.
 
 
 
@@ -772,19 +772,19 @@ layout: slide
 
 Your Poll Pads are now ready for voters! Let’s go through the home screen.
 
-TOP LEFT: The "Last Imported" date should be the day of the election, if you correctly imported the updated voter file from the iSync drive.
+**TOP LEFT**: The "Last Imported" date should be the day of the election, if you correctly imported the updated voter file from the iSync drive.
 
-TOP RIGHT: The "Sync menu" indicates whether the Poll Pad is wirelessly synchronizing with the other Poll Pads in the precinct. You can open this on election day for more detailed information.
+**TOP RIGHT**: The "Sync menu" indicates whether the Poll Pad is wirelessly synchronizing with the other Poll Pads in the precinct. You can open this on election day for more detailed information.
 
-IMPORTANT: Poll Pads now wirelessly communicate with each other using Bluetooth. Keep your Poll Pads within 30 feet of each other for the best sync performance. If they stop synchronizing, bring them closer together or call the Chief.
+**IMPORTANT: Poll Pads now wirelessly communicate with each other using Bluetooth. Keep your Poll Pads within** ***30 feet*** **of each other for the best sync performance. If they stop synchronizing, bring them closer together or call the Chief.**
 
-IN TAN BANNER:
+**IN TAN BANNER**:
 
-Precinct Records: This shows how many registered voters there are in your precinct. On election day, this will show approximately 1,000-5,000 voters in your precinct.
+- **Precinct Records**: This shows how many registered voters there are in your precinct. On election day, this will show approximately 1,000-5,000 voters in your precinct.
 
-Checkins: This shows how many voters you have checked in on this Poll Pad. As you check in voters on election day, this number will increase. (The number of voters checked-in across all Poll Pads is accessible in the Summary Report.)
+- **Checkins**: This shows how many voters you have checked in on this Poll Pad. As you check in voters on election day, this number will increase. (The number of voters checked-in across all Poll Pads is accessible in the Summary Report.)
 
-Countywide Records: Shows how many registered voters there are in the county. On election day, this will show 700,000+ voters.
+- **Countywide Records**: Shows how many registered voters there are in the county. On election day, this will show 700,000+ voters.
 
 Remember to plug the Poll Pads into the power strips and ensure that no cables are a tripping hazard. The battery indicator in the tablet’s top right corner should turn green. Keep the Poll Pads charged throughout the day. In the event of a power outage, they can run on battery power.
 
@@ -834,11 +834,11 @@ layout: slide
 
 Now let’s talk about the DS200 digital scanner. It's actually a very simple machine:
 
-There is a Scanner at the top, which scans and counts each ballot.
+- There is a **Scanner** at the top, which scans and counts each ballot.
 
-The ballots then drop into the Ballot Compartment below.
+- The ballots then drop into the **Ballot Compartment** below.
 
-There is also an Auxiliary Compartment on the front. If the DS200's scanner malfunctions or jams, the Chief can unlock this compartment and voters can temporarily insert ballots here instead. At the end of the day, election officers would remove these ballots and insert them into the scanner (if it is now working) or hand-count them.
+- There is also an **Auxiliary Compartment** on the front. If the DS200's scanner malfunctions or jams, the Chief can unlock this compartment and voters can temporarily insert ballots here instead. At the end of the day, election officers would remove these ballots and insert them into the scanner (if it is now working) or hand-count them.
 
 
 
@@ -849,7 +849,7 @@ title: "Image of slide number 51"
 layout: slide
 ---
 
-This is the Machine Certification Form. As you open and close your DS200s on election day, you will need to use this form.
+This is the **Machine Certification Form**. As you open and close your DS200s on election day, you will need to use this form.
 
 During opening procedures, election officers will compare the pre-printed seal and counter numbers in the green table to those on the DS200 to ensure they match. If the numbers do not match, stop and notify your Chief, who will contact our office for next steps.
 
@@ -862,13 +862,13 @@ title: "Image of slide number 52"
 layout: slide
 ---
 
-Let's go through the steps for opening a DS200. As this is an online class, we know it will be difficult to understand all of these steps without practicing with an actual machine. But don't worry! The Chief, Assistant Chief, and many other officers will have had experience doing this before. The Chief will provide election officers assigned to open the DS200 with printed instructions, the Machine Certification Form, the keys, scissors, and a password card.
+**Let's go through the steps for opening a DS200**. As this is an online class, we know it will be difficult to understand all of these steps without practicing with an actual machine. But don't worry! The Chief, Assistant Chief, and many other officers will have had experience doing this before. The Chief will provide election officers assigned to open the DS200 with printed instructions, the Machine Certification Form, the keys, scissors, and a password card.
 
-STEP 1: The DS200 will be closed and secured with a green zip-tie seal. An election officer will confirm the seal number matches the Machine Certification Form. If it matches, cut the seal and give to the Chief. If it does not match, contact the Chief immediately,
+- **STEP 1**: The DS200 will be closed and secured with a green zip-tie seal. An election officer will confirm the seal number matches the Machine Certification Form. If it matches, cut the seal and give to the Chief. If it does not match, contact the Chief immediately,
 
-STEP 2: An election officer will unlock the Auxiliary Compartment. Look inside to verify the compartment is empty (there should be no ballots inside), then re-lock it. (Be sure to put the metal flap back in the ‘up’ position when re-locking the compartment, so voters don’t accidentally insert ballots here!)
+- **STEP 2**: An election officer will unlock the Auxiliary Compartment. Look inside to verify the compartment is empty (there should be no ballots inside), then re-lock it. (Be sure to put the metal flap back in the ‘up’ position when re-locking the compartment, so voters don’t accidentally insert ballots here!)
 
-STEP 3: An election officer will unlock the Ballot Compartment at the bottom. Again, look inside to verify the compartment is empty, then re-lock it.
+- **STEP 3**: An election officer will unlock the Ballot Compartment at the bottom. Again, look inside to verify the compartment is empty, then re-lock it.
 
 
 
@@ -881,11 +881,11 @@ layout: slide
 
 Let's continue the steps to open a DS200.
 
-STEP 4: On the back of the DS200, open the Power Cord Compartment. There is a silver bar which helps guide ballots into the proper compartment. Verify it is in the locked-down position. It starts that way at our warehouse but can sometimes become dislodged during transport. If all looks well, remove the power cord and plug it in. Remember to always use a surge protector between the power cord and the wall outlet! Leave this compartment open during the day.
+- **STEP 4**: On the back of the DS200, open the **Power Cord Compartment**. There is a silver bar which helps guide ballots into the proper compartment. Verify it is in the locked-down position. It starts that way at our warehouse but can sometimes become dislodged during transport. If all looks well, remove the power cord and plug it in. Remember to always use a surge protector between the power cord and the wall outlet! Leave this compartment open during the day.
 
-STEP 5: Unlock and open the black machine lid.
+- **STEP 5**: Unlock and open the black machine lid.
 
-STEP 6: Unlock and lift up the screen. The scanner will automatically power on.
+- **STEP 6**: Unlock and lift up the screen. The scanner will automatically power on.
 
 
 
@@ -898,9 +898,9 @@ layout: slide
 
 Let's continue the steps to open a DS200.
 
-STEP 7: Carefully enter the election code from the password card. This code is case-sensitive and the process works best when one officer slowly reads the password from the card and another officer enters the code. A configuration report will print. Do not tear off this report yet.
+- **STEP 7**: Carefully enter the election code from the password card. This code is case-sensitive and the process works best when one officer slowly reads the password from the card and another officer enters the code. A configuration report will print. Do not tear off this report yet.
 
-STEP 8: Press the green OPEN POLL button to print the Zero Totals Report, which verifies no votes have been cast on the machine. Tear off the entire tape. Two officers must sign the tape and give it to the Chief.
+- **STEP 8**: Press the green OPEN POLL button to print the Zero Totals Report, which verifies no votes have been cast on the machine. Tear off the entire tape. Two officers must sign the tape and give it to the Chief.
 
 
 
@@ -913,9 +913,9 @@ layout: slide
 
 We're almost done opening a DS200!
 
-STEP 9: Verify that the "Public Count" at the top of the screen is zero. The Public Count indicates the number of votes cast in the current election on this machine - at the start of the day, it will always be zero! Also verify the "Protected Count" matches the number pre-printed in the green table on the Machine Certification Form. This number is like a car odometer - it tells you how many ballots have been cast in the lifetime of this machine, across all elections. If the numbers do not match, call the Chief.
+- **STEP 9**: Verify that the "Public Count" at the top of the screen is zero. The Public Count indicates the number of votes cast in the current election on this machine - at the start of the day, it will always be zero! Also verify the "Protected Count" matches the number pre-printed in the green table on the Machine Certification Form. This number is like a car odometer - it tells you how many ballots have been cast in the lifetime of this machine, across all elections. If the numbers do not match, call the Chief.
 
-STEP 10: At 6:00 AM on election day, press the green "Go to Voting Mode" button. The DS200 is now ready to accept ballots!
+- **STEP 10**: At 6:00 AM on election day, press the green "Go to Voting Mode" button. The DS200 is now ready to accept ballots!
 
 You will complete these steps for each DS200 being used for the election.
 
@@ -986,7 +986,7 @@ layout: slide
 
 First, the Poll Pad always begins on the home screen.
 
--
+
 
 When you tap "Get Started" on the Poll Pad's home screen, it brings you to this screen.
 
@@ -994,23 +994,22 @@ You can tap "Scan Barcode" to scan a voter's driver's license. This is how you w
 
 You can tap "Manual Entry" to search for a voter by name. This is how you will check in voters who present a valid form of ID that is not a driver's license.
 
--
 
-If you cannot scan a voter's ID, you will need to search for them manually. When doing a "Manual Entry," always search for 2 letters of the voter's last name and 1 letter of the voter's first name. If you type more than this, it will take longer and lead to more mistakes. It is okay to leave the address field blank!
+If you cannot scan a voter's ID, you will need to search for them manually. When doing a "Manual Entry," always search for *2 letters of the voter's last name and 1 letter of the voter's first name*. If you type more than this, it will take longer and lead to more mistakes. It is okay to leave the address field blank!
 
 When the list of voters is displayed, tap on the name of the voter whom you are checking in. Be careful not to select the wrong person, such as John Smith Jr. instead of John Smith Sr.
 
--
+
 
 If you cannot find a voter by name, try searching for them by their house number and street name. Tap ‘Search’ when you are ready for results. 
 
--
+
 
 When you select a voter to check in, you will need to advance through TWO screens.
 
 First, you will be presented with their voter information. If there are no restrictive codes or warning messages, repeat only the voter’s name in an audible voice and check in the voter by touching “Accept.”
 
--
+
 
 Second, you will then be taken to this page, where you will be presented with multiple possible check-in “flags”. We will explain these flags shortly.
 
@@ -1018,7 +1017,7 @@ This is also the final opportunity to confirm you are checking in the right vote
 
 When you’re ready, press the “Submit” button.
 
--
+
 
 When you press "Submit" to officially check in a voter, you will be presented with this screen. Wait about 3 seconds for the Poll Pad to automatically return to the home screen.
 
@@ -1035,17 +1034,17 @@ layout: slide
 
 As we mentioned, when you select a voter to check-in, you will be presented with three possible "flags":
 
-ASSISTED flag: If a voter requires assistance in marking their ballot, send them to the Chief. The voter and their assistant must complete a "Request for Assistance" form. The Chief may check in the voter themselves, or ask you to check them in and select this flag.
+- **ASSISTED flag**: If a voter requires assistance in marking their ballot, send them to the Chief. The voter and their assistant must complete a "Request for Assistance" form. The Chief may check in the voter themselves, or ask you to check them in and select this flag.
 
-CURBSIDE flag: If the Chief asks you to check in a "curbside voter", select this flag. A curbside voter is someone who is disabled or 65+ years of age and requests to stay in their car and vote outside the polls. They will call the Chief’s cell phone number and the Chief will send two officers to go outside and help them. (Do not question someone if they ask to vote curbside.)
+- **CURBSIDE flag**: If the Chief asks you to check in a "curbside voter", select this flag. A curbside voter is someone who is disabled or 65+ years of age and requests to stay in their car and vote outside the polls. They will call the Chief’s cell phone number and the Chief will send two officers to go outside and help them. (Do not question someone if they ask to vote curbside.)
 
-VOTER SIGNED OATH flag: This flag is used in two different situations.
+- **VOTER SIGNED OATH flag**: This flag is used in two different situations.
 
-If someone is an "Inactive voter", send them to the Chief who may select this flag. Someone may become Inactive if they moved and did not update their voter registration. If they are permitted to vote normally, they must complete an Affirmation of Eligibility form.
+  1. If someone is an "Inactive voter", send them to the Chief who may select this flag. Someone may become Inactive if they moved and did not update their voter registration. If they are permitted to vote normally, they must complete an Affirmation of Eligibility form.
 
-If someone does not have an acceptable ID, send them to the Chief. If the voter chooses to complete an ID Confirmation Statement, this flag must be selected.
+  2. If someone does not have an acceptable ID, send them to the Chief. If the voter chooses to complete an ID Confirmation Statement, this flag must be selected.
 
-You may notice the “Provisional” flag has been removed with the new Poll Pad software update. As in past elections, if someone is a Provisional voter, you NEVER check them in on the Poll Pad; instead, immediately refer them to the Chief.
+You may notice the “Provisional” flag has been removed with the new Poll Pad software update. As in past elections, if someone is a Provisional voter, you ***NEVER*** check them in on the Poll Pad; instead, immediately refer them to the Chief.
 
 
 
@@ -1058,17 +1057,17 @@ layout: slide
 
 Now that you know which IDs are acceptable and how to use a Poll Pad, it's important to understand the full order of steps to checking in a voter.
 
-Ask the voter for their ID. Remember, if a voter provides a different valid form of ID, you cannot ask for their driver's license.
+- **Ask the voter for their ID**. Remember, if a voter provides a different valid form of ID, you cannot ask for their driver's license.
 
-Find the voter on the Poll Pad. Scan their driver's license or do a manual search.
+- **Find the voter on the Poll Pad**. Scan their driver's license or do a manual search.
 
-Ask voter to provide name & address. Most voters will provide this information orally, but they also have the option of providing this information in writing or simply pointing to their ID. And remember, you always use the address the voter provided during check-in when looking at the Poll Pad.
+- **Ask voter to provide name & address**. Most voters will provide this information orally, but they also have the option of providing this information in writing or simply pointing to their ID. And remember, you always use the address the voter provided during check-in when looking at the Poll Pad.
 
-Confirm the name & address match the Poll Pad, then repeat only the name audibly. The Code of Virginia requires us to state this information out loud.
+- **Confirm the name & address match the Poll Pad, then repeat** ***only*** **the name audibly**. The Code of Virginia requires us to state this information out loud.
 
-If the election is a dual-party primary, ask if the voter wants a ballot for the Democratic primary or Republican primary. Never ask a voter if they are a Democrat or Republican! In Virginia, voters do not register by party and are eligible to vote in either party's primary.
+- **If the election is a dual-party primary, ask if the voter wants a ballot for the Democratic primary or Republican primary**. Never ask a voter if they are a Democrat or Republican! In Virginia, voters do not register by party and are eligible to vote in either party's primary.
 
-Finally, check in the voter. Hand them a ballot or a Voter Permit Card. (A Voter Permit Card is exchanged for a ballot at the Ballot Table.)
+- **Finally, check in the voter**. Hand them a ballot or a Voter Permit Card. (A Voter Permit Card is exchanged for a ballot at the Ballot Table.)
 
 
 
@@ -1083,17 +1082,17 @@ Remember, MOST check-ins are very simple. For the ones that aren't, just refer t
 
 Issues that may require the Chief’s attention include:
 
-If the voter's name is misspelled in the pollbook or they had a name change,
+- If the voter's name is misspelled in the pollbook or they had a name change,
 
-If the voter has moved or is in the wrong precinct,
+- If the voter has moved or is in the wrong precinct,
 
-If the voter has no acceptable ID,
+- If the voter has no acceptable ID,
 
-If the voter cannot be found in the pollbook,
+- If the voter cannot be found in the pollbook,
 
-If the voter requested an absentee ballot but is at the polling place,
+- If the voter requested an absentee ballot but is at the polling place,
 
-And, of course, anything related to provisional ballots.
+- And, of course, anything related to provisional ballots.
 
 
 
