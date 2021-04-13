@@ -1,0 +1,1599 @@
+
+
+---
+section: "TKTKTK"
+title: "TKTKTK"
+title: "Image of slide number 1"
+layout: slide
+---
+
+Welcome to the **New & Experienced Election Officer** online training class!
+
+This class will go over all information you need to know before your first election. If you are a returning election officer, this class will help satisfy the state-mandated training requirement for the new two-year appointment term that began in 2021. And pay attention - there have been a lot of changes over the past year!
+
+
+
+---
+section: "TKTKTK"
+title: "TKTKTK"
+title: "Image of slide number 2"
+layout: slide
+---
+
+Review all information in these slides and notes at your own pace. You can click the ‘pause’ button anytime; there is also a written transcription below each slide. When you’re done, you can also view all slides and text on one page by clicking the “Slide Summary” link in the top right.
+
+We will go over all information you need to know for any election, including basic information for all election officers, acceptable IDs, procedures for opening the polls on election day, how to use the Poll Pads to check in voters, how to use the ExpressVote for voters needing help with accessibility, how to use the DS200 ballot scanner, and procedures for closing the polls on election day.
+
+If there are election-specific updates, we will notify you of those by email before election day.
+
+At the end, you must complete a quiz to receive credit for this class.
+
+
+
+---
+section: "TKTKTK"
+title: "TKTKTK"
+title: "Image of slide number 3"
+layout: slide
+---
+
+There are some notable changes for the June 2021 Party Primary Election:
+
+* The biggest new change this year: the Poll Pads now run updated software. It looks a bit different, but you’ll soon notice that most things are in the same place. Don’t worry, we’ll cover it all in this training!
+
+* Last year, there were significant changes to which IDs were acceptable for voting. This year, there are some minor changes regarding student IDs and driver privilege cards.
+
+* Remember the absentee ballot drop-off boxes at all polling places last year? Those are now a permanent part of the voting process in Virginia. Each precinct will have a drop-off box for returning voted absentee ballots.
+
+* Finally, we will continue to observe all appropriate safety procedures, as documented in our Contingency Response Plan for COVID-19.
+
+
+
+---
+section: "TKTKTK"
+title: "TKTKTK"
+title: "Image of slide number 4"
+layout: slide
+---
+
+If you are reviewing this material before the June 2021 Party Primary Election, note that we are continuing to prepare and execute our Contingency Response Plan for COVID-19. The plan will be similar to what we did for the June 2020 Primary Elections and November 2020 General and Special Elections, which were well-received by more than 95% of all officers according to post-election surveys.
+
+Chiefs and Assistant Chiefs will receive more detailed procedures during their pre-election briefing the week before election day. All election officers will be provided with more information about our Contingency Response Plan for COVID-19 closer to election day.
+
+
+
+---
+section: "TKTKTK"
+title: "TKTKTK"
+title: "Image of slide number 5"
+layout: slide
+---
+
+The Contingency Response Plan for COVID-19 currently includes the following measures:
+
+1. Provide each polling place with face masks, face shields, gloves, disinfecting wipes, and hand sanitizer for election officers. (You may bring and wear your own face mask.)
+
+2. Provide each polling place with clear acrylic “sneeze guards” to place at each check-in table and other areas.
+
+3. Require all election officers to wear a face mask or face shield at all times in the voting area.
+
+4. Limit the number of voters in the voting room.
+
+5. Require voters to maintain a 6-foot distance from each other and from election officers.
+
+6. Provide all training online.
+
+7. If any election officer is ill before election day, we will replace them immediately.
+
+8. If any election officer appears ill on election day, we will send them home immediately.
+
+
+
+---
+section: "TKTKTK"
+title: "TKTKTK"
+title: "Image of slide number 6"
+layout: slide
+---
+
+We will now go over the Basic Information you need to know to be an election officer.
+
+
+
+---
+section: "TKTKTK"
+title: "TKTKTK"
+title: "Image of slide number 7"
+layout: slide
+---
+
+As we plan for and conduct each election, we follow four guiding principles.
+
+These guide each step and action we take and it is important for you to read, understand, and embody these principles as well.
+
+
+
+---
+section: "TKTKTK"
+title: "TKTKTK"
+title: "Image of slide number 8"
+layout: slide
+---
+
+**WORKING HOURS**: Election officers should be inside the polling place and ready to go by 5:00 AM. The day ends *when all work is complete & you are released by the Chief*. Voting ends at 7:00 PM and it takes most precincts 1-2 hours to finish closing the polling place.
+
+**COMPENSATION**: You are paid $175 for a full day of service. Officers who arrive late (after 5:00 AM) may be penalized $25 or dismissed immediately. We strongly encourage you to set multiple alarms so this doesn't happen!
+
+**WHAT TO BRING**: You should bring all food, medicine, and reading material you need for the day. Note that reading material may not be politically-oriented, such as a newspaper. You may bring electronic devices such as a phone or tablet, but you may not use them while assisting voters.
+
+**WHAT TO WEAR**: Dress should be business casual. Clean, unripped jeans are acceptable. The temperature can vary at polling places and it can change during the day, so wear layers! Of course, clothing should not be politically-oriented or offensive in nature. And wear comfortable shoes; it’s a long day!
+
+**DURING THE DAY**: You may not comment on candidates or political issues, current or past. It's very important to note that *you can't leave the polling place premises during the day*, so again, make sure to bring everything you need with you for the day. You can, of course, go get something from your car or have a friend or family member drop off items to you.
+
+
+
+---
+section: "TKTKTK"
+title: "TKTKTK"
+title: "Image of slide number 9"
+layout: slide
+---
+
+This is the timeline before, on, and after election day.
+
+- **PRE-ELECTION**: We strongly encourage all officers to vote absentee, especially if you are not assigned to your home precinct (Virginia law requires you to vote in your registered precinct on election day). The week before the election, the Chief will contact each officer to go over precinct-specific information, such as the building entrance and voting room you are using. The Chief and Assistant Chief will also usually do initial setup of the voting room the day before the election or the week before the election - if possible, you should try to attend and help. This will also give you a chance to review the route to your polling place if you are not assigned to your home precinct.
+
+- **DURING THE DAY**: Make sure to arrive no later than 5:00 AM and help with setup. During the day, you will assist voters and refer any issues to the Chief. In the evening, you will help with closing procedures and must sign some required forms.
+
+- **POST-ELECTION**: If you forget to sign a required form, you will have to come to our office within 2 days to sign! After the election, you will be asked to complete a post-election survey. Due to Fairfax County's rolling pay schedule, you will receive payment 4-6 weeks after election day.
+
+
+
+---
+section: "TKTKTK"
+title: "TKTKTK"
+title: "Image of slide number 10"
+layout: slide
+---
+
+Who are the people in the polling place?
+
+- **CHIEF AND ASSISTANT CHIEF**: Work together as a team to manage the polling place. They assign and rotate election officers throughout the day. Most importantly, they are trained to handle all non-routine voter situations.
+
+- **ELECTION OFFICERS**: Throughout the day, regular election officers greet voters, check in voters, issue ballots, and direct voters to mark & cast ballots. Some precincts may have Language Officers, who perform all regular officer duties and may also assist voters who speak a different language, such as Spanish, Vietnamese, or Korean. (All election officers who have been assessed for their language skills will receive a special badge.)
+
+- **HIGH SCHOOL PAGES**: Only serve in November elections. They may help in many ways, but they *are not registered voters* and *may not operate or supervise use of voting equipment*. However, the Code of Virginia does allow Pages to help set up voting equipment before polls open and to count unmarked ballots.
+
+
+
+---
+section: "TKTKTK"
+title: "TKTKTK"
+title: "Image of slide number 11"
+layout: slide
+---
+
+Your precinct will be assigned at least one **PPE Specialist**. This officer will receive special training on social distancing requirements and PPE supplies (Personal Protective Equipment).
+
+This officer will be responsible for ensuring that all social distancing signs are posted, extra tables are placed in front of each check-in table for social distancing, social distancing signs are posted on the floor, and that all election officers and party observers wear a face covering or face mask at all times when they are at their work station and/or in the voting room.
+
+This officer will also be responsible for managing the use of PPE supplies and ensuring that items such as single-use pens and single-use privacy folders are not re-circulated or used by a second voter.
+
+This officer will also be responsible for sanitizing voting booths, check-in tables, and all other surfaces throughout the day.
+
+
+
+---
+section: "TKTKTK"
+title: "TKTKTK"
+title: "Image of slide number 12"
+layout: slide
+---
+
+Based on a new law, Absentee Ballot Drop-Off Boxes are now a permanent part of the voting process in Virginia. On election day, all polling places will have an Absentee Ballot Drop-Off Box, where voters can return completed absentee ballots without waiting in the main voting line.
+
+Your precinct may be assigned two **Absentee Ballot Collectors**. During the day, these officers will perform all regular election officer duties. But immediately after polls close at 7:00 PM, these officers will secure and drive all absentee ballots from the Drop-Off box to the Office of Elections at the Fairfax County Government Center, then go home.
+
+
+
+---
+section: "TKTKTK"
+title: "TKTKTK"
+title: "Image of slide number 13"
+layout: slide
+---
+
+These are the 3 types of voting equipment used in the polling place. We will go into more detail about each type of voting equipment later in this training.
+
+- **POLL PAD**: This is an iPad-based tablet device used to check in each voter. It is also sometimes called an electronic pollbook.
+
+- **EXPRESSVOTE**: This is a ballot marking device. It's like a big pen! It prints a marked ballot card that voters can then scan themselves. This device is especially helpful for voters who are visually impaired or have difficulty marking a regular ballot.
+
+- **DS200 SCANNER**: This is the device voters use to cast their ballot. It automatically scans and counts all votes.
+
+
+
+---
+section: "TKTKTK"
+title: "TKTKTK"
+title: "Image of slide number 14"
+layout: slide
+---
+
+During the day, election officers may rotate among these main duties.
+
+- **VOTER INFORMATION OFFICER**: This officer is stationed near the voting room entrance. They greet voters and confirm they are in the right polling place, remind voters to have their ID out and ready, and direct voters to review the sample ballot before checking-in. This person should also answer any voter questions before they get to the check-in table.
+
+- **POLLBOOK OFFICERS**: These officers are stationed at the check-in tables and check in voters on the Poll Pads. There is usually one Pollbook Officer per Poll Pad.
+
+- **BALLOT OFFICER**: After a voter is checked in, they move to the Ballot Table, where a Ballot Officer issues them a ballot in a privacy folder and provides instructions on how to mark the ballot.
+
+- **VOTING BOOTH OFFICER**: This officer stands near the voting booths and directs voters to an open voting booth. If a voter has questions about how to mark their ballot, they may ask this officer.
+
+- **VOTING MACHINE OFFICER**: This officer guides the voter in casting their ballot and ensures the DS200 has accepted the ballot before the voter leaves. They stand at least 5 feet away from the scanner at all times for the privacy of voters and should not look at a voter’s ballot for any reason. They also maintain the line and direct voters to the exit after they cast their ballot.
+
+- **DROP-OFF BOX OFFICER**: Remember, all precincts have an Absentee Ballot Drop-Off Box and there must be an election officer stationed there at all times from 6:00 AM to 7:00 PM. Another officer may relieve the officer who is monitoring the Drop-Off Box, but you must ensure that the first officer does not leave until their replacement arrives so the Drop-Off Box is never unattended. IMPORTANT: This duty should not be confused with the Absentee Ballot Collectors position. *All* officers may rotate through this position, not just the two officers designated as Absentee Ballot Collectors (who will drive absentee ballots to the Government Center after polls close).
+
+- **PPE SPECIALIST**: This individual is responsible for ensuring ___________. Any officers who have completed the PPE Specialist training may rotate through this duty.
+
+As you rotate through these duties, remember that your job is to efficiently process routine voters, which are more than 95% of all voters. The Chief and Assistant Chief will handle non-routine voters.
+
+
+
+---
+section: "TKTKTK"
+title: "TKTKTK"
+title: "Image of slide number 15"
+layout: slide
+---
+
+This is a sample room layout to give you an idea of the flow inside a voting room.
+
+- In this room, the voter enters, asks any questions of the Voter Information Officer, and then proceeds to the check-in table with the Poll Pads.
+
+- If there are any issues checking in the voter, they would be directed to the Chief's Table, where the Chief or Assistant Chief may help resolve the issue.
+
+- After the voter is checked in, they move to the Ballot Table where they will receive their ballot. Each ballot is inserted in a privacy folder.
+
+- After receiving a ballot, the voter goes to the voting tables and sits in a vacant privacy booth to mark their ballot.
+
+- If the voter chooses to use the ExpressVote accessible marking device, an officer should guide them there. Note that the ExpressVote also has a privacy booth around it.
+
+- Lastly, the voter moves to the DS200, scans their ballot, and exits the room.
+
+The voting room should be set up to have the voter move in a circular fashion, without crossing paths of other voters, and with an election officer at each station to help guide them.
+
+Remember that one officer will also be stationed at the Absentee Ballot Drop-Off Box at all times. The Absentee Ballot Drop-Off Box should be placed outside the voting room entrance, so voters may quickly drop off their completed absentee ballots without waiting in line.
+
+
+
+---
+section: "TKTKTK"
+title: "TKTKTK"
+title: "Image of slide number 16"
+layout: slide
+---
+
+As an election officer, it is vitally important to always be professional and polite in the polling place. Always ask before assisting a voter - sometimes, they may not want assistance. Be mindful of your communication at all times.
+
+<strong><span style="color:red;">NOTE: For the June 2021 Party Primary Election, you should also always exercise social distancing and keep 6 feet between yourself and all others in the voting room. You will also have face masks, face shields, gloves, sanitizer, and other materials as part of our Contingency Response Plan for COVID-19.</span></strong>
+
+You should never tell a voter that they cannot vote; instead, direct them to the Chief or Assistant Chief, who can offer them a provisional ballot. Do not touch voters without their permission. Avoid all political topics, especially anything that may be on the ballot, whether or not voters are present in the room.
+
+Perception is everything, so always be aware of your words and actions. You are representing Fairfax County! If you have any questions or are unsure of what is acceptable, contact us before or on election day.
+
+
+
+---
+section: "TKTKTK"
+title: "TKTKTK"
+title: "Image of slide number 17"
+layout: slide
+---
+
+**POLL WATCHERS**: Authorized representatives of a party or candidate. Poll Watchers are allowed anywhere inside a polling place as long as they don't impede voters or touch voting equipment. Poll Watchers may stay and observe closing procedures; but if they do, they cannot leave the room or report results early.
+
+**NEWS MEDIA & INTERVIEWS**: If someone wants to conduct an interview, call the Chief! They may provide basic facts (e.g. number of voters checked in), but cannot give opinions or forecasts. For anything further, call the Office of Elections.
+
+**ELECTRONICS**: Voters ARE allowed to use personal electronic devices inside a polling place to take photos, make calls, etc. They are also allowed to take a "selfie" of themselves and/or their ballot. If they want to take a photo that includes other voters, they must ask for and receive permission from those voters first.
+
+
+
+---
+section: "TKTKTK"
+title: "TKTKTK"
+title: "Image of slide number 18"
+layout: slide
+---
+
+Outside the polling place, there is a **40-Foot Prohibited Area**, which provides voters unimpeded access to the building.
+
+State law does not permit loitering, congregating, or electioneering within 40 feet of a polling place entrance (i.e. the *building entrance*, NOT the voting room entrance). Restricted activities include, but are not limited to, **campaigning**, **handing out flyers**, and **bake sales**.
+
+These activities are permitted outside of the 40-foot Prohibited Area.
+
+
+
+---
+section: "TKTKTK"
+title: "TKTKTK"
+title: "Image of slide number 19"
+layout: slide
+---
+
+We will now go over the list of acceptable IDs for voting purposes.
+
+
+
+---
+section: "TKTKTK"
+title: "TKTKTK"
+title: "Image of slide number 20"
+layout: slide
+---
+
+We are about to go over which IDs are acceptable and which IDs are not acceptable for voting.
+
+But don’t worry! On election day, you will have plenty of copies of a 1-page list of all acceptable IDs. You will keep these at your check-in table and reference them as needed.
+
+
+
+---
+section: "TKTKTK"
+title: "TKTKTK"
+title: "Image of slide number 21"
+layout: slide
+---
+
+There are many IDs that are acceptable for voting purposes:
+
+- A Virginia driver’s license.
+
+- A United States passport.
+
+- A Virginia voter ID card.
+
+- A voter confirmation document (e.g. Official Voter Registration Notice postcard). 
+
+- Other IDs issued by the federal government, the state of Virginia government, or local Virginia government.
+
+- An employer ID, which must have a photo.
+
+- A Virginia high school ID card.
+
+- A college/university ID from schools with a campus anywhere in Virginia (the Chief has a list on election day).
+
+- Any other US college/university ID *with photo*. **IMPORTANT: As of Jan 1, 2021, the Code of Virginia now requires non-Virginia college/university IDs to include a photo**.
+
+- A copy of a *current* utility bill, bank statement, government check, paycheck, or any other government document containing the name and address of the voter. (“Current” is considered as within the last 12 months.)
+
+
+
+---
+section: "TKTKTK"
+title: "TKTKTK"
+title: "Image of slide number 22"
+layout: slide
+---
+
+There are also many IDs that you cannot accept for voting.
+
+- A Virginia driver’s license is OK, but an out-of-state driver’s license is not.
+
+- A US passport is OK, but a foreign passport is not.
+
+- A photo ID from a person’s employer is OK, but IDs from other organizations—such as a credit card or Costco membership card—are not OK.
+
+- Driver privilege cards are not accepted for voting. **IMPORTANT: On January 1, 2021, the Commonwealth of Virginia began issuing driver privilege cards to non-citizens. These look similar to driver’s licenses, but are NOT acceptable for voting purposes. The Virginia Department of Elections verifies that individuals with driver privilege cards are not in the registered voter database, so you will not encounter any issues on election day**.
+
+
+
+---
+section: "TKTKTK"
+title: "TKTKTK"
+title: "Image of slide number 23"
+layout: slide
+---
+
+Here are some samples of valid IDs. It includes:
+
+- Virginia driver’s license
+
+- Virginia identification card (sometimes referred to as a “walker’s license”)
+
+- Virginia voter ID (note that it has an *issue date*, not an expiration date)
+
+- US passport or US passport card
+
+- US federal or military ID
+
+- Work ID *with photo*
+
+- College/University ID (located in Virginia)
+
+- Government ID from a government located in Virginia
+
+Note that many of these IDs do not have an address or expiration date, but they are still valid for voting.
+
+
+
+---
+section: "TKTKTK"
+title: "TKTKTK"
+title: "Image of slide number 24"
+layout: slide
+---
+
+Here are some additional samples of documents that are valid for voting purposes:
+
+- A current bank statement (with voter name and address)
+
+- A current utility bill (with voter name and address)
+
+- A current government check (with voter name and address)
+
+- A current government document (with voter name and address)
+
+Note that the Code of Virginia states that all of these documents must be “current” - this is considered as issued within the last 12 months.
+
+If you’re unsure about a particular ID, ask your Chief or Assistant Chief! They receive additional training on how to handle non-routine voter situations.
+
+
+
+---
+section: "TKTKTK"
+title: "TKTKTK"
+title: "Image of slide number 25"
+layout: slide
+---
+
+Voters may show you an electronic version of some IDs in lieu of a physical version. For example, they could show you one of these documents on their smartphone.
+
+An electronic form of the following documents is acceptable for voting purposes: a current utility bill, bank statement, government check, paycheck, or other government document containing the name and address of the voter.
+
+
+
+---
+section: "TKTKTK"
+title: "TKTKTK"
+title: "Image of slide number 26"
+layout: slide
+---
+
+Let’s talk about the photos on various IDs.
+
+Until June 2020, ALL IDs had to have a photo to be valid for voting purposes. This has now changed. The only IDs that are explicitly required to have a photo are an employee ID and a college/university ID, if it is from a school located outside Virginia.
+
+IMPORTANT: Although some IDs may have a photo, you should not question the appearance of the voter (their hair may be shorter or longer, they may have changed their hair color, they may have gained or lost weight, etc.) and you must ***NEVER*** ask a voter to remove a face mask or religious face-covering to verify their identity.
+
+
+
+---
+section: "TKTKTK"
+title: "TKTKTK"
+title: "Image of slide number 27"
+layout: slide
+---
+
+What about the address on a voter’s ID? You should disregard it.
+
+You must instead always use the address that the voter provides orally or in writing during the check-in process.
+
+
+
+---
+section: "TKTKTK"
+title: "TKTKTK"
+title: "Image of slide number 28"
+layout: slide
+---
+
+One piece of information that is on some IDs but not others is the expiration date. How do you handle this?
+
+For most IDs, if it does not have an expiration date, that’s OK. As long as it is a valid form of ID for voting, you can automatically accept it. If the ID does have an expiration date listed, then it can be used for up to 12 months past the expiration date. After that, it is no longer valid for voting.
+
+There is one major exception to this rule. The Code of Virginia now specifically says that a driver’s license may be used for voting, regardless of when it expired.
+
+In terms of the documents that can be accepted for voting purposes, note that a utility bill, bank statement, government check, paycheck, or other government document must not be more than 12 months old. Don’t forget to look for a date on these documents!
+
+
+
+---
+section: "TKTKTK"
+title: "TKTKTK"
+title: "Image of slide number 29"
+layout: slide
+---
+
+If a voter does not present an acceptable form of ID, you should always call the Chief or Assistant Chief! They are trained on alternatives, including:
+
+- **The voter can complete an ID Confirmation Statement**. This is a form that allows the voter to attest to who they are and then vote normally on election day.
+
+- **The voter always has the option to complete a Provisional Ballot and submit their ID later**. If a voter casts a provisional ballot, that is their one vote for the day and they cannot return and vote normally. NOTE: Some people think provisional ballots are only counted in close elections. Actually, the Electoral Board reviews ALL provisional ballots and every ballot they accept is included in the official results of the election.
+
+- **The voter can return with an acceptable ID**. However, many voters who say they will return later often do not, which is why we require Chiefs to always offer an ID Confirmation Statement or a provisional ballot in this situation.
+
+
+
+---
+section: "TKTKTK"
+title: "TKTKTK"
+title: "Image of slide number 30"
+layout: slide
+---
+
+This is an example of the ID Confirmation statement. As you can see, it’s a quick form to fill out!
+
+By completing this short form, a voter would be allowed to vote *normally*. That means you would issue them a regular ballot, they would mark it at the polling place, and they would deposit it in a DS200 ballot scanner.
+
+
+
+---
+section: "TKTKTK"
+title: "TKTKTK"
+title: "Image of slide number 31"
+layout: slide
+---
+
+A few additional notes:
+
+The name on someone’s ID does *not* have to exactly match how it appears on the electronic pollbook. For example, someone’s ID may say “Bill” but the pollbook says “William”. As long as you can reasonably confirm the person in front of you is the person in the pollbook, you may check them in.
+
+Also, if someone provides you a different form of ID, you may not ask for their driver’s license instead just because it’s easier to scan on the Poll Pads. **This is against the law!** In fact, we often receive calls in the office when this happens. If you notice a fellow officer doing this on election day, alert the Chief or our office.
+
+Lastly, you may sometimes get voters who are 17-years-old in a primary election. If they are registered and listed in the Poll Pad, they are permitted to vote! The law says that any registered voter who will be 18 years old by the date of a general election may vote in its corresponding primary.
+
+
+
+---
+section: "TKTKTK"
+title: "TKTKTK"
+title: "Image of slide number 32"
+layout: slide
+---
+
+If you’re not sure how to handle a situation, send the voter to the Chief or Assistant Chief! The Chief and Assistant Chief are trained to handle non-routine voters and other issues. If they can’t figure it out, they will call our office for assistance.
+
+
+
+---
+section: "TKTKTK"
+title: "TKTKTK"
+title: "Image of slide number 33"
+layout: slide
+---
+
+Let’s do a quick review. Which of these IDs is acceptable? Which is not? Why? Take a moment to think about these questions before you read the answer below.
+
+- **TOP LEFT**: This is a work ID, but it does not have a photo. That means it is <span style="color:red; font-weight: bold;">not acceptable.</span>
+
+- **TOP RIGHT**: This is a Maryland driver’s license. This is an out-of-state license, which is not on the list of valid IDs. Therefore, it is <span style="color:red; font-weight: bold;">not acceptable.</span>
+
+- **BOTTOM LEFT**: This is a school ID from the University of North Florida. As this is a United States university and has a photo, it is <span style="color:green; font-weight: bold;">acceptable.</span>
+
+- **BOTTOM RIGHT**: This is a voter ID. You may see the 2014 date and think that automatically disqualifies it. However, remember the date that is listed is an issue date, not an expiration date. So this ID is <span style="color:green; font-weight: bold;">acceptable</span> for voting.
+
+
+
+---
+section: "TKTKTK"
+title: "TKTKTK"
+title: "Image of slide number 34"
+layout: slide
+---
+
+Let’s look at two driver’s licenses. One expired in 2016 and one expires in 2025. Which of these is valid for voting?
+
+It’s a trick question: both of these can be used to vote! Remember, you should completely disregard the expiration date on driver’s licenses. This is the only form of ID that can be used more than 12 months past the expiration date (as specifically written in the Code of Virginia).
+
+
+
+---
+section: "TKTKTK"
+title: "TKTKTK"
+title: "Image of slide number 35"
+layout: slide
+---
+
+We will now go over how to open the polls on election day.
+
+
+
+---
+section: "TKTKTK"
+title: "TKTKTK"
+title: "Image of slide number 36"
+layout: slide
+---
+
+We strongly encourage all officers to vote absentee, especially if you are not assigned to your home precinct (Virginia law requires you to vote in your registered precinct on election day).
+
+The week before the election, the Chief will contact each officer to go over precinct-specific information, such as the building entrance and voting room you are using. Make sure to respond to your Chief promptly; if your Chief does not hear back from you, they may think you’re no longer able to serve and ask us to replace you.
+
+The Chief and Assistant Chief will also usually do initial setup of the voting room the day before the election or the week before the election - if possible, you should try to attend and help. You can meet your fellow officers, help arrange tables, assemble privacy booths, post indoor signs, set up the clear acrylic sneeze guards, and set up the Absentee Ballot Drop-Off Box. Every task you take care of before election day will make election morning a more relaxed and stress-free experience!
+
+(Helping with pre-election setup will also give you a chance to review the route to your polling place if you are not assigned to your home precinct.)
+
+
+
+---
+section: "TKTKTK"
+title: "TKTKTK"
+title: "Image of slide number 37"
+layout: slide
+---
+
+At 5:00 AM, the Chief will swear in all officers. Then, the Chief will divide you into teams to complete the following tasks before 6:00 AM, when polls open:
+
+- Open and set up Poll Pads
+
+- Open and set up the ExpressVote
+
+- Open and set up DS200 scanners
+
+- Open and count the first 2 packs of ballots, and
+
+- Post all signs, inside and outside, and mark the 40-foot Prohibited Area.
+
+
+
+---
+section: "TKTKTK"
+title: "TKTKTK"
+title: "Image of slide number 38"
+layout: slide
+---
+
+All election officers must sign two documents during Opening Procedures.
+
+- **OATH**: After the Chief swears you in at 5:00 AM, sign the Oath form. Remember which numbered line you signed on - this will be where you sign on all required documents throughout the day. For example, if you signed in as officer #4, you should sign on line #4 for the Compensation Sheet, Statement of Results, and other documents.
+
+- **COMPENSATION SHEET**: During Opening Procedures or at the earliest feasible time, fill out and sign the Compensation Sheet. Without this, we cannot pay you! And remember to sign on the same numbered row as you did on the Oath form (e.g. as officer #4).
+
+
+
+---
+section: "TKTKTK"
+title: "TKTKTK"
+title: "Image of slide number 39"
+layout: slide
+---
+
+The Chief has a list indicating which signs must be posted inside the polling place and which signs must be posted outside the polling place.
+
+There is one sign that’s a bit tricky - that’s the Prohibited Area and Activities sign. It describes activities that are not permitted inside the polling place, but it must be posted in a place that is always visible from OUTSIDE the polling place. We suggest posting it on the door to the polling place. If the door is propped open, be sure the sign is clearly visible to the approaching voters.
+
+Finally, if you’re the officer designated to post the outside signs, you may also be asked to mark the 40-foot Prohibited Area line outside the entrance to the polling place building. Don’t worry, the Chief will have a rope with measured increments, chalk, and safety tape to help you mark the 40-foot Prohibited Area properly. Be sure to mark the area early, before campaigners and bake sales get set up.
+
+
+
+---
+section: "TKTKTK"
+title: "TKTKTK"
+title: "Image of slide number 40"
+layout: slide
+---
+
+We will now go over the steps to set up the voting equipment. But don’t worry, you don’t need to memorize anything! On election day, the Chief will have one-page guides instructing you on how to set up the Poll Pads, DS200 scanners, and ExpressVote.
+
+
+
+---
+section: "TKTKTK"
+title: "TKTKTK"
+title: "Image of slide number 41"
+layout: slide
+---
+
+We will now go over how to open and set up the Poll Pads on election morning.
+
+
+
+---
+section: "TKTKTK"
+title: "TKTKTK"
+title: "Image of slide number 42"
+layout: slide
+---
+
+In Fairfax County, we use **Poll Pads** as our electronic pollbooks. These are iPad-based devices used to check in voters. They synchronize with each other wirelessly over Bluetooth and do not connect to the Internet.
+
+It’s a lot easier than having to check people in on paper, like we used to do!
+
+
+
+---
+section: "TKTKTK"
+title: "TKTKTK"
+title: "Image of slide number 43"
+layout: slide
+---
+
+Poll Pads arrive in your polling place in two separate cases.
+
+- The green case holds up to 6 Poll Pads, power cables, styluses, and a printer.
+
+- The gray bin holds the stands, driver’s license trays, extension cords, power strips, and other various parts.
+
+Assemble the Poll Pads by inserting the swivel attachment into the base and gently attaching the ID holder to the back of the tablet. Do not press down on the top of the Poll Pad tablet; it may break off the stand if you do.
+
+If this doesn’t make sense, don’t worry! Every precinct will have experienced election officers who are familiar with setting up the Poll Pads and other equipment that can help you.
+
+
+
+---
+section: "TKTKTK"
+title: "TKTKTK"
+title: "Image of slide number 44"
+layout: slide
+---
+
+Each precinct receives 1 iSync drive, which is a small "thumb drive" that must be inserted into each Poll Pad individually to update them. The iSync drive contains the most current list of registered voters and absentee voters.
+
+You may ask, why do we need to use an iSync drive? Poll Pads must be prepared 2 weeks before election day so we can send them to your polling place in time, but do not include the final absentee voters or last-minute changes to voter registration. iSync drives are prepared 2 days before election day, after voter registration and in-person absentee voting have ended. That's why it's so important to use the iSync drive to update your Poll Pads in the morning!
+
+During opening procedures, insert your iSync drive into each Poll Pad to update it. If a precinct forgets to update a Poll Pad, it will have an older list of voters and it can take the Office of Elections up to 4 hours to reconcile the data for each Poll Pad.
+
+
+
+---
+section: "TKTKTK"
+title: "TKTKTK"
+title: "Image of slide number 45"
+layout: slide
+---
+
+<INSERT VIDEO HERE>
+
+We will now demonstrate the iSync import process on a Poll Pad. On election day, you will repeat with EACH Poll Pad.
+
+Once the Poll Pad has powered on and is on the home screen, insert the iSync drive into the Lightning Connector on the right side of the tablet. Now you are ready to import information from the iSync.
+
+Step 1: When the pop-up menu appears, tap “Import Voter File.”
+
+Step 2: You will see the pop-up ‘flip’ and show “Ready to import.” Tap “Import Voter File” at the bottom of the pop-up.
+
+Step 3: Once the data import is complete, touch OK and remove the iSync drive. The file will continue to initialize. This process may take a few minutes.
+
+Step 4: Touch “OK” when the “Import Finished” pop-up appears. The Poll Pad application will restart.
+
+Step 5: The Poll Pad application should open to the home screen. Verify that the current date/time displays in the screen header under the election title. 
+
+Repeat steps 1-5 on every Poll Pad. Give the iSync drive to the Chief once you’re done.
+
+
+
+---
+section: "TKTKTK"
+title: "TKTKTK"
+title: "Image of slide number 46"
+layout: slide
+---
+
+Your Poll Pads are now ready for voters! Let’s go through the home screen.
+
+TOP LEFT: The "Last Imported" date should be the day of the election, if you correctly imported the updated voter file from the iSync drive.
+
+TOP RIGHT: The "Sync menu" indicates whether the Poll Pad is wirelessly synchronizing with the other Poll Pads in the precinct. You can open this on election day for more detailed information.
+
+IMPORTANT: Poll Pads now wirelessly communicate with each other using Bluetooth. Keep your Poll Pads within 30 feet of each other for the best sync performance. If they stop synchronizing, bring them closer together or call the Chief.
+
+IN TAN BANNER:
+
+Precinct Records: This shows how many registered voters there are in your precinct. On election day, this will show approximately 1,000-5,000 voters in your precinct.
+
+Checkins: This shows how many voters you have checked in on this Poll Pad. As you check in voters on election day, this number will increase. (The number of voters checked-in across all Poll Pads is accessible in the Summary Report.)
+
+Countywide Records: Shows how many registered voters there are in the county. On election day, this will show 700,000+ voters.
+
+Remember to plug the Poll Pads into the power strips and ensure that no cables are a tripping hazard. The battery indicator in the tablet’s top right corner should turn green. Keep the Poll Pads charged throughout the day. In the event of a power outage, they can run on battery power.
+
+
+
+---
+section: "TKTKTK"
+title: "TKTKTK"
+title: "Image of slide number 47"
+layout: slide
+---
+
+We will now go over how to open and set up the ExpressVote on election morning.
+
+
+
+---
+section: "TKTKTK"
+title: "TKTKTK"
+title: "Image of slide number 48"
+layout: slide
+---
+
+The ExpressVote accessible marking device is the easiest piece of equipment to set up in the polling place. All you have to do is remove it from its case, unlock it, and turn it on. It’s that simple.
+
+Again, you will have a one-page guide with step-by-step instructions.
+
+
+
+---
+section: "TKTKTK"
+title: "TKTKTK"
+title: "Image of slide number 49"
+layout: slide
+---
+
+We will now go over how to open and set up the DS200 ballot scanner on election morning.
+
+
+
+---
+section: "TKTKTK"
+title: "TKTKTK"
+title: "Image of slide number 50"
+layout: slide
+---
+
+Now let’s talk about the DS200 digital scanner. It's actually a very simple machine:
+
+There is a Scanner at the top, which scans and counts each ballot.
+
+The ballots then drop into the Ballot Compartment below.
+
+There is also an Auxiliary Compartment on the front. If the DS200's scanner malfunctions or jams, the Chief can unlock this compartment and voters can temporarily insert ballots here instead. At the end of the day, election officers would remove these ballots and insert them into the scanner (if it is now working) or hand-count them.
+
+
+
+---
+section: "TKTKTK"
+title: "TKTKTK"
+title: "Image of slide number 51"
+layout: slide
+---
+
+This is the Machine Certification Form. As you open and close your DS200s on election day, you will need to use this form.
+
+During opening procedures, election officers will compare the pre-printed seal and counter numbers in the green table to those on the DS200 to ensure they match. If the numbers do not match, stop and notify your Chief, who will contact our office for next steps.
+
+
+
+---
+section: "TKTKTK"
+title: "TKTKTK"
+title: "Image of slide number 52"
+layout: slide
+---
+
+Let's go through the steps for opening a DS200. As this is an online class, we know it will be difficult to understand all of these steps without practicing with an actual machine. But don't worry! The Chief, Assistant Chief, and many other officers will have had experience doing this before. The Chief will provide election officers assigned to open the DS200 with printed instructions, the Machine Certification Form, the keys, scissors, and a password card.
+
+STEP 1: The DS200 will be closed and secured with a green zip-tie seal. An election officer will confirm the seal number matches the Machine Certification Form. If it matches, cut the seal and give to the Chief. If it does not match, contact the Chief immediately,
+
+STEP 2: An election officer will unlock the Auxiliary Compartment. Look inside to verify the compartment is empty (there should be no ballots inside), then re-lock it. (Be sure to put the metal flap back in the ‘up’ position when re-locking the compartment, so voters don’t accidentally insert ballots here!)
+
+STEP 3: An election officer will unlock the Ballot Compartment at the bottom. Again, look inside to verify the compartment is empty, then re-lock it.
+
+
+
+---
+section: "TKTKTK"
+title: "TKTKTK"
+title: "Image of slide number 53"
+layout: slide
+---
+
+Let's continue the steps to open a DS200.
+
+STEP 4: On the back of the DS200, open the Power Cord Compartment. There is a silver bar which helps guide ballots into the proper compartment. Verify it is in the locked-down position. It starts that way at our warehouse but can sometimes become dislodged during transport. If all looks well, remove the power cord and plug it in. Remember to always use a surge protector between the power cord and the wall outlet! Leave this compartment open during the day.
+
+STEP 5: Unlock and open the black machine lid.
+
+STEP 6: Unlock and lift up the screen. The scanner will automatically power on.
+
+
+
+---
+section: "TKTKTK"
+title: "TKTKTK"
+title: "Image of slide number 54"
+layout: slide
+---
+
+Let's continue the steps to open a DS200.
+
+STEP 7: Carefully enter the election code from the password card. This code is case-sensitive and the process works best when one officer slowly reads the password from the card and another officer enters the code. A configuration report will print. Do not tear off this report yet.
+
+STEP 8: Press the green OPEN POLL button to print the Zero Totals Report, which verifies no votes have been cast on the machine. Tear off the entire tape. Two officers must sign the tape and give it to the Chief.
+
+
+
+---
+section: "TKTKTK"
+title: "TKTKTK"
+title: "Image of slide number 55"
+layout: slide
+---
+
+We're almost done opening a DS200!
+
+STEP 9: Verify that the "Public Count" at the top of the screen is zero. The Public Count indicates the number of votes cast in the current election on this machine - at the start of the day, it will always be zero! Also verify the "Protected Count" matches the number pre-printed in the green table on the Machine Certification Form. This number is like a car odometer - it tells you how many ballots have been cast in the lifetime of this machine, across all elections. If the numbers do not match, call the Chief.
+
+STEP 10: At 6:00 AM on election day, press the green "Go to Voting Mode" button. The DS200 is now ready to accept ballots!
+
+You will complete these steps for each DS200 being used for the election.
+
+Be sure to return all materials to the Chief, including the signed tapes, scissors, cut green zip-tie seal, printed instructions, password card, Machine Certification Form, and the DS200 keys.
+
+
+
+---
+section: "TKTKTK"
+title: "TKTKTK"
+title: "Image of slide number 56"
+layout: slide
+---
+
+During opening procedures, it is important to open and count at least 2 packs of ballots - you want to be ready for your morning rush of voters!
+
+The best practice is to count ballots and set them aside in groups of 10. Have two officers each count the ballots to minimize errors.
+
+Each pack should have exactly 100 ballots. If a pack does not contain exactly 100 ballots, notify your Chief immediately.
+
+
+
+---
+section: "TKTKTK"
+title: "TKTKTK"
+title: "Image of slide number 57"
+layout: slide
+---
+
+We will now go over everything you need to know during the day of the election, including how to use the Poll Pads to check in voters, how to help voters use the DS200 scanners, and how to use the ExpressVote and ensure accessibility in the polling place.
+
+
+
+---
+section: "TKTKTK"
+title: "TKTKTK"
+title: "Image of slide number 58"
+layout: slide
+---
+
+We will now go over how to use the Poll Pads to check in voters on election day.
+
+
+
+---
+section: "TKTKTK"
+title: "TKTKTK"
+title: "Image of slide number 59"
+layout: slide
+---
+
+For the vast majority of voters, you will simply scan their driver’s license.
+
+Scanning a voter's driver license is very easy! You simply place the license in the scanning tray, which is attached to the back of the Poll Pad. Make sure the barcode is facing the Poll Pad camera. Then the Poll Pad will scan the barcode and open the voter's record automatically.
+
+If this does not work or the voter provides a different form of acceptable ID, you can find them using a manual search.
+
+
+
+---
+section: "TKTKTK"
+title: "TKTKTK"
+title: "Image of slide number 60"
+layout: slide
+---
+
+<INSERT VIDEO HERE>
+
+First, the Poll Pad always begins on the home screen.
+
+-
+
+When you tap "Get Started" on the Poll Pad's home screen, it brings you to this screen.
+
+You can tap "Scan Barcode" to scan a voter's driver's license. This is how you will check in most voters.
+
+You can tap "Manual Entry" to search for a voter by name. This is how you will check in voters who present a valid form of ID that is not a driver's license.
+
+-
+
+If you cannot scan a voter's ID, you will need to search for them manually. When doing a "Manual Entry," always search for 2 letters of the voter's last name and 1 letter of the voter's first name. If you type more than this, it will take longer and lead to more mistakes. It is okay to leave the address field blank!
+
+When the list of voters is displayed, tap on the name of the voter whom you are checking in. Be careful not to select the wrong person, such as John Smith Jr. instead of John Smith Sr.
+
+-
+
+If you cannot find a voter by name, try searching for them by their house number and street name. Tap ‘Search’ when you are ready for results. 
+
+-
+
+When you select a voter to check in, you will need to advance through TWO screens.
+
+First, you will be presented with their voter information. If there are no restrictive codes or warning messages, repeat only the voter’s name in an audible voice and check in the voter by touching “Accept.”
+
+-
+
+Second, you will then be taken to this page, where you will be presented with multiple possible check-in “flags”. We will explain these flags shortly.
+
+This is also the final opportunity to confirm you are checking in the right voter.
+
+When you’re ready, press the “Submit” button.
+
+-
+
+When you press "Submit" to officially check in a voter, you will be presented with this screen. Wait about 3 seconds for the Poll Pad to automatically return to the home screen.
+
+Congratulations, you’ve now checked in a voter!
+
+
+
+---
+section: "TKTKTK"
+title: "TKTKTK"
+title: "Image of slide number 61"
+layout: slide
+---
+
+As we mentioned, when you select a voter to check-in, you will be presented with three possible "flags":
+
+ASSISTED flag: If a voter requires assistance in marking their ballot, send them to the Chief. The voter and their assistant must complete a "Request for Assistance" form. The Chief may check in the voter themselves, or ask you to check them in and select this flag.
+
+CURBSIDE flag: If the Chief asks you to check in a "curbside voter", select this flag. A curbside voter is someone who is disabled or 65+ years of age and requests to stay in their car and vote outside the polls. They will call the Chief’s cell phone number and the Chief will send two officers to go outside and help them. (Do not question someone if they ask to vote curbside.)
+
+VOTER SIGNED OATH flag: This flag is used in two different situations.
+
+If someone is an "Inactive voter", send them to the Chief who may select this flag. Someone may become Inactive if they moved and did not update their voter registration. If they are permitted to vote normally, they must complete an Affirmation of Eligibility form.
+
+If someone does not have an acceptable ID, send them to the Chief. If the voter chooses to complete an ID Confirmation Statement, this flag must be selected.
+
+You may notice the “Provisional” flag has been removed with the new Poll Pad software update. As in past elections, if someone is a Provisional voter, you NEVER check them in on the Poll Pad; instead, immediately refer them to the Chief.
+
+
+
+---
+section: "TKTKTK"
+title: "TKTKTK"
+title: "Image of slide number 62"
+layout: slide
+---
+
+Now that you know which IDs are acceptable and how to use a Poll Pad, it's important to understand the full order of steps to checking in a voter.
+
+Ask the voter for their ID. Remember, if a voter provides a different valid form of ID, you cannot ask for their driver's license.
+
+Find the voter on the Poll Pad. Scan their driver's license or do a manual search.
+
+Ask voter to provide name & address. Most voters will provide this information orally, but they also have the option of providing this information in writing or simply pointing to their ID. And remember, you always use the address the voter provided during check-in when looking at the Poll Pad.
+
+Confirm the name & address match the Poll Pad, then repeat only the name audibly. The Code of Virginia requires us to state this information out loud.
+
+If the election is a dual-party primary, ask if the voter wants a ballot for the Democratic primary or Republican primary. Never ask a voter if they are a Democrat or Republican! In Virginia, voters do not register by party and are eligible to vote in either party's primary.
+
+Finally, check in the voter. Hand them a ballot or a Voter Permit Card. (A Voter Permit Card is exchanged for a ballot at the Ballot Table.)
+
+
+
+---
+section: "TKTKTK"
+title: "TKTKTK"
+title: "Image of slide number 63"
+layout: slide
+---
+
+Remember, MOST check-ins are very simple. For the ones that aren't, just refer the voter to the Chief.
+
+Issues that may require the Chief’s attention include:
+
+If the voter's name is misspelled in the pollbook or they had a name change,
+
+If the voter has moved or is in the wrong precinct,
+
+If the voter has no acceptable ID,
+
+If the voter cannot be found in the pollbook,
+
+If the voter requested an absentee ballot but is at the polling place,
+
+And, of course, anything related to provisional ballots.
+
+
+
+---
+section: "TKTKTK"
+title: "TKTKTK"
+title: "Image of slide number 64"
+layout: slide
+---
+
+We will now go over how to use the ExpressVote and accessibility on election day.
+
+
+
+---
+section: "TKTKTK"
+title: "TKTKTK"
+title: "Image of slide number 65"
+layout: slide
+---
+
+Until now, you have likely only been familiar with the regular ballot.
+
+But remember, if a voter chooses to use the ExpressVote accessible marking device, it prints a marked ballot card that voters can then scan themselves. This printed ballot card is equivalent to a regular ballot.
+
+To be counted, either of these ballot types must then be inserted into a DS200 scanner.
+
+
+
+---
+section: "TKTKTK"
+title: "TKTKTK"
+title: "Image of slide number 66"
+layout: slide
+---
+
+The ExpressVote is an accessible marking device. It marks and prints a ballot for the voter, who then inserts the printed ballot card into a DS200 to be scanned and counted. So it's like a large pen!
+
+The ExpressVote is ADA-compliant and offers voters multiple options, including displaying the ballot in multiple languages. The voter can use the touchscreen, audio cues, or the Braille directional pad to make vote selections.
+
+Any voter may choose to use the ExpressVote! Do not question someone's disability or motivation for using an ExpressVote.
+
+
+
+---
+section: "TKTKTK"
+title: "TKTKTK"
+title: "Image of slide number 67"
+layout: slide
+---
+
+Watch this video to understand how a voter can use an ExpressVote: https://youtu.be/4NNn7NcpaOU
+
+Summary:
+
+STEP 1: Insert a blank ballot card into the ExpressVote. Align the corner-cut on the card with the corner-cut on the machine.
+
+STEP 2: Make selections. The voter selects a candidate or option for each contest. Press the "Next" button to go to the next contest. To enter a write-in candidate, press the "Write-In" button to reveal a keyboard. If you have visual limitations, you can press the "Contrast" button to change the screen to high-contrast black-and-white. Press the "Zoom" button to make the ballot appear larger on the screen. You can also display the ballot in different languages or use a physical keypad to make selections.
+
+STEP 3: Review selections. After you have made your selections, you can review them before printing your ballot card. You can make changes if needed.
+
+STEP 4: Print marked ballot. Press the "Print Card" button and your printed card will be returned to you.
+
+STEP 5: Scan ballot. Insert your marked ballot card in the DS200 scanner to have your ballot counted.
+
+
+
+---
+section: "TKTKTK"
+title: "TKTKTK"
+title: "Image of slide number 68"
+layout: slide
+---
+
+REQUEST FOR ASSISTANCE: If a voter needs help in the voting booth, there is a procedure in place for that which the Chief handles. The voter selects an assistant and both must sign the Request for Assistance form. The assistant can be a family member or friend with them. The assistant can also be an election officer such as you! Note that if the assistant is 15 or younger, no form is required.
+
+LANGUAGE SERVICES: If voters need help in another language, we offer multiple services. For example, many precincts are assigned Language Officers, who have been assessed for their language skills and can help translate (if a Language Officer assists a voter in the voting booth, they would complete a Request for Assistance form). There is also a phone translation service for more than 100 languages. All signs and documents are also translated into 4 languages: English, Spanish, Vietnamese, and Korean.
+
+VOTERS WITH DISABILITIES: If a voter appears to have a disability, be respectful and always ask before assisting them. If a voter has limited vision or limited motor skills, you can inform them they can use the ExpressVote to mark their ballot.
+
+
+
+---
+section: "TKTKTK"
+title: "TKTKTK"
+title: "Image of slide number 69"
+layout: slide
+---
+
+We will now go over using the DS200 digital scanner and types of ballots.
+
+
+
+---
+section: "TKTKTK"
+title: "TKTKTK"
+title: "Image of slide number 70"
+layout: slide
+---
+
+When a voter inserts a regularly marked ballot, the DS200 will accept and scan it. Voters should be encouraged to wait at the machine until the "Thank You" screen is displayed.
+
+The voter will also see this screen if they have an under-voted ballot. This means the voter voted for fewer candidates or contests than they were allowed. For example, in a presidential election, some voters will only vote for president and no other contests on the ballot. Again, in this case, the DS200 will accept the ballot without issue and the "Thank You" screen is displayed.
+
+
+
+---
+section: "TKTKTK"
+title: "TKTKTK"
+title: "Image of slide number 71"
+layout: slide
+---
+
+Most ballots should be accepted by the scanner without issue. However, there are a few cases when the scanner will ask for additional confirmation before accepting the ballot.
+
+One situation is if the voter inserts a blank ballot. This may happen if the voter accidentally does not mark their ballot or perhaps wishes to cast a blank ballot as a protest vote. In this case, the DS200 will confirm they want to cast a blank ballot or give them the option to return the ballot and allow them another opportunity to mark it.
+
+Another situation is an over-voted ballot. This happens when a voter filled in too many ovals in one or more contests. For example, they were only supposed to select one candidate for Mayor, but they couldn't decide and filled in ovals for two candidates. The DS200 will give them the option to cast the ballot as it is, informing the voter that the over-voted contests will not be counted (other properly-voted contests will be counted). Or the DS200 can return the ballot to the voter, which they can SPOIL and exchange for a new ballot.
+
+In both of these situations, the “Thank You” screen will not appear. Clear visual and audio cues will indicate the scanner did not accept the ballot. If you're not sure how to handle them, remember your favorite word: "Chief!"
+
+
+
+---
+section: "TKTKTK"
+title: "TKTKTK"
+title: "Image of slide number 72"
+layout: slide
+---
+
+Finally, some ballots may be rejected entirely by the DS200.
+
+The most common situation is a mismarked ballot. This is when a voter has made erroneous marks outside the ovals which prevent the scanner from properly reading their selections. In this case, the DS200 will return the ballot, make a loud beeping sound, and display an error screen.
+
+If this happens, ask the voter to first turn the ballot over and insert it again. If it continues to happen, stay at the machine and call the Chief or Assistant Chief. They will review the situation and likely help the voter SPOIL the ballot and issue them a new ballot.
+
+
+
+---
+section: "TKTKTK"
+title: "TKTKTK"
+title: "Image of slide number 73"
+layout: slide
+---
+
+If a voter makes an error on their ballot, they may ask for a new ballot. First, if the voter made selections in any contests, ask them to fill in all bubbles in those contests so no one knows who they intended to vote for. Next, write SPOILED in large letters across the face of the ballot. Give the spoiled ballot to the Chief and issue a new ballot to the voter.
+
+If a voter marked outside of the bubbles or made erroneous marks on the ballot, the DS200 scanner may reject it because it is unreadable. In this situation, you would follow the same steps to SPOIL the ballot and issue a new ballot to the voter.
+
+If a voter has repeated issues marking a ballot correctly, you may want to suggest using the ExpressVote accessible marking device.
+
+There is one other situation in which a ballot may be spoiled: If a voter requested a mailed absentee ballot, but then wants to vote in-person on election day. The voter can bring their absentee ballot (marked or unmarked), spoil it, and surrender it in exchange for a new ballot on election day. In this case, you would write “ABSENTEE SPOILED” across the face of the ballot because it must be accounted for differently during Closing Procedures.
+
+
+
+---
+section: "TKTKTK"
+title: "TKTKTK"
+title: "Image of slide number 74"
+layout: slide
+---
+
+Sometimes, a voter does not complete the process of voting. If a voter leaves their ballot in the polling place, they are a FLEEING VOTER.
+
+If the voter left the ballot on the DS200 scanner, you may cast it for them. If it will not scan, the ballot should be put in the DS200 scanner’s Auxiliary Compartment and hand-counted at the end of the day.
+
+Otherwise, if the voter left the ballot anywhere else in the polling place, such as in a voting booth, call for the Chief. They will write VOID in large letters across the face of the ballot and must return it with other election materials at the end of the day.
+
+
+
+---
+section: "TKTKTK"
+title: "TKTKTK"
+title: "Image of slide number 75"
+layout: slide
+---
+
+We will now go over how to close the polls on election day.
+
+
+
+---
+section: "TKTKTK"
+title: "TKTKTK"
+title: "Image of slide number 76"
+layout: slide
+---
+
+At 7:00 PM (or after the last voter leaves), the Chief will lock the voting room and begin closing procedures. The following tasks must be completed before you can leave:
+
+Fill out all required documents, including the Statement of Results and the Machine Certification Form.
+
+Close and pack the Poll Pads.
+
+Close and pack the ExpressVote.
+
+Close and pack the DS200 scanners.
+
+Secure all voted ballots and unvoted ballots, and
+
+Remove and pack all signs and PPE Supplies.
+
+NOTE: Remember that the two Absentee Ballot Collector officers will secure absentee ballots from the Drop-Off Box and immediately drive them to the Government Center. They are the only officers who will leave the polling place early.
+
+
+
+---
+section: "TKTKTK"
+title: "TKTKTK"
+title: "Image of slide number 77"
+layout: slide
+---
+
+The most important document during closing procedures is the Statement of Results (SOR). This is the record of all votes in your precinct. Usually the Chief and Assistant Chief will fill this out, possibly with help from other officers.
+
+Do not leave the polling place without signing the SOR and the SOR copy!
+
+
+
+---
+section: "TKTKTK"
+title: "TKTKTK"
+title: "Image of slide number 78"
+layout: slide
+---
+
+During closing procedures, use the Machine Certification Form again.
+
+Election officers must record all required numbers in the red table on the form, including the Public and Protected Counter numbers from the DS200 scanners and numbers from red zip-tie seals used to secure various equipment.
+
+Any two officers may sign the bottom of the form.
+
+
+
+---
+section: "TKTKTK"
+title: "TKTKTK"
+title: "Image of slide number 79"
+layout: slide
+---
+
+We will now go over some of the steps to close the voting equipment. But again, don’t worry! You don’t need to memorize anything.
+
+On election day, the Chief will have one-page guides with full instructions on how to close and pack the Poll Pads, DS200 scanners, and ExpressVote.
+
+
+
+---
+section: "TKTKTK"
+title: "TKTKTK"
+title: "Image of slide number 80"
+layout: slide
+---
+
+We will now go over closing the Poll Pads.
+
+
+
+---
+section: "TKTKTK"
+title: "TKTKTK"
+title: "Image of slide number 81"
+layout: slide
+---
+
+Remember your iSync drive? Just as you used it during opening procedures, you will need to use it again during closing procedures.
+
+During closing procedures, insert your iSync drive in each Poll Pad to export the final voter list. If your Poll Pads do not wirelessly synchronize properly during the day, we can reconcile the data using the exports on the iSync drive.
+
+
+
+---
+section: "TKTKTK"
+title: "TKTKTK"
+title: "Image of slide number 82"
+layout: slide
+---
+
+After the last voter has voted, you must complete a pink Poll Pad Certification form. You will need to retrieve some numbers from each Poll Pad, beginning with the Chief’s admin Poll Pad. When this is complete, you may begin closing your Poll Pads.
+
+To start, insert your iSync drive into each Poll Pad to export the final voter list. 
+
+Step 1: On the pop-up screen touch the third option, “Export Checkins.”
+
+Step 2: As during import, the pop-up will ‘flip’ and you should touch “Export Checkins” at the bottom of the pop-up.
+
+Step 3: When the export is complete, remove the iSync drive and touch Done in the top right-hand corner of the pop-up.
+
+Repeat steps 1-3 on all Poll Pads! After each Poll Pad is done exporting, you will need to power it off by holding down the Sleep/Wake button and the Home button simultaneously.
+
+
+
+---
+section: "TKTKTK"
+title: "TKTKTK"
+title: "Image of slide number 83"
+layout: slide
+---
+
+Disassemble and pack the Poll Pads back into the carrying case and seal the Poll Pad case.
+
+Finally, two officers should seal the Poll Pad case with a red zip-tie seal, record the seal number on the Machine Certification Form, and sign the Machine Certification Form.
+
+
+
+---
+section: "TKTKTK"
+title: "TKTKTK"
+title: "Image of slide number 84"
+layout: slide
+---
+
+We will now go over closing the ExpressVote.
+
+
+
+---
+section: "TKTKTK"
+title: "TKTKTK"
+title: "Image of slide number 85"
+layout: slide
+---
+
+The ExpressVote accessible marking device will be very easy to close and pack.
+
+All you have to do is power it down, remove a USB flash drive, and return it to its case. It’s that simple.
+
+Again, you will have a one-page guide with step-by-step instructions.
+
+
+
+---
+section: "TKTKTK"
+title: "TKTKTK"
+title: "Image of slide number 86"
+layout: slide
+---
+
+We will now go over closing the DS200 digital scanner.
+
+
+
+---
+section: "TKTKTK"
+title: "TKTKTK"
+title: "Image of slide number 87"
+layout: slide
+---
+
+Now let's go through all the steps for CLOSING a DS200 scanner. The Chief, Assistant Chief, and many other officers will have had experience doing this before. The Chief will provide election officers assigned to close the DS200 with printed instructions, the Machine Certification Form, the DS200 keys, a red zip-tie seal, and empty voted ballot boxes.
+
+STEP 1: Always open the Auxiliary Compartment and look for any ballots, even if you don't think it was used during the day. If there are any ballots inside, call the Chief, who will guide you through scanning them properly. Otherwise, re-lock it.
+
+STEP 2: Look on the DS200 screen for the "Protected Count" and "Public Count" of ballots cast. Record these numbers in the red table on the Machine Certification Form. If your precinct received a second DS200 but did not use it, you would write "Not used" in this area on the Machine Certification Form.
+
+STEP 3: There is a red barcoded sticker seal covering the printer access door on the DS200. Remove this sticker seal and place it on the Machine Certification Form.
+
+
+
+---
+section: "TKTKTK"
+title: "TKTKTK"
+title: "Image of slide number 88"
+layout: slide
+---
+
+Let's continue the steps to close a DS200.
+
+STEP 4: Now that you have removed the red sticker seal on the DS200's printer access door, unlock and open it. Inside, there is a physical button labeled "Close Poll". Press it.
+
+STEP 5: The DS200 screen will update and ask for confirmation that you want to close polls. Press the red "Close Poll" button on the screen. Multiple reports will now print. After all reports have printed, tear them off in one piece. Two officers must sign at the bottom of each of the three copies of the Voting Results Report, then give them to the Chief.
+
+
+
+---
+section: "TKTKTK"
+title: "TKTKTK"
+title: "Image of slide number 89"
+layout: slide
+---
+
+Let's continue the steps to close a DS200.
+
+STEP 6: After all reports have printed, press the red "Finished - Turn Off" button on the screen.
+
+STEP 7: Unplug the power cord from the wall. Close and re-lock the power cord compartment on the back of the DS200.
+
+STEP 8: After the DS200 powers off, remove the memory stick in the Printer Compartment (which is in front of the screen) and remove the memory stick in the Battery Compartment (which is behind the screen).
+
+
+
+---
+section: "TKTKTK"
+title: "TKTKTK"
+title: "Image of slide number 90"
+layout: slide
+---
+
+You’re almost done! Now it’s time to seal up the machine.
+
+STEP 9: Close and re-lock the DS200 screen. Then close & re-lock the black outer machine lid.
+
+STEP 10: Seal the machine with a red zip-tie seal. Record the seal number in the red table on the Machine Certification Form.
+
+
+
+---
+section: "TKTKTK"
+title: "TKTKTK"
+title: "Image of slide number 91"
+layout: slide
+---
+
+The last step is to unlock and open the DS200 Ballot Compartment. With multiple officers present, carefully move all voted ballots into the voted ballot boxes and seal them. The ballots must be removed from each DS200 separately and packed into separate boxes. The Chief will have more detailed instructions for this task.
+
+Similarly, you will also pack all unvoted ballots into boxes and seal them. This is because all ballots, whether voted or not, must be secured. The Chief will return all voted and unvoted ballots on election night and they will be transported to the courthouse for safekeeping.
+
+Finally, be sure to return all materials to the Chief, including the signed tapes, all memory sticks, the printed instructions, the Machine Certification Form, and the DS200 keys.
+
+
+
+---
+section: "TKTKTK"
+title: "TKTKTK"
+title: "Image of slide number 92"
+layout: slide
+---
+
+When all work is complete (usually around 9:00 PM), the Chief will dismiss all election officers.
+
+However, before you leave, make sure to confirm with your Chief that you have signed all required documents. If you do not sign a required document, you will have to come to the Office of Elections within 2 days to sign it.
+
+These documents include:
+
+OATH: You should have signed this at 5:00 AM before beginning your service for the day.
+
+COMPENSATION SHEET: You typically sign this during opening procedures. Without this, we cannot pay you!
+
+STATEMENT OF RESULTS: Remember, this is the unofficial record of votes in your precinct. Once it is filled out during closing procedures, all officers must sign at the bottom of the front page.
+
+STATEMENT OF RESULTS (COPY): There are two copies of the SOR. Make sure to sign both!
+
+YELLOW RETURN SHEET: The Chief will provide you with this document during closing procedures.
+
+VOTED BALLOT BOXES: There is a secure yellow label that is placed on each box of voted ballots. All officers must sign each of these labels.
+
+There may also be other documents you are asked to sign, especially if you help close the Poll Pads or DS200s, but the above documents are the ones that ALL officers must sign before leaving the polling place.
+
+
+
+---
+section: "TKTKTK"
+title: "TKTKTK"
+title: "Image of slide number 93"
+layout: slide
+---
+
+The morning after the election, we will send out a post-election survey by email. It only takes 5 minutes to complete and really helps us identify any issues to address and make improvements for future elections. Make sure to complete it as soon as possible, while your memories of election day are fresh, but no later than the weekend after election day.
+
+Due to Fairfax County Government's rolling pay schedule, you will receive payment 4 to 6 weeks after election day. All election officers are now required to enroll in direct deposit, so the payment will automatically show up in your selected bank account. We will email you when the payments have been deposited.
+
+Finally, on behalf of the Fairfax County Office of Elections, we want to thank you for taking this training and being willing to serve as an election officer. We could not conduct successful elections without amazing people like you - so thank you!
+
+
+
+---
+section: "TKTKTK"
+title: "TKTKTK"
+title: "Image of slide number 94"
+layout: slide
+---
+
+We will now go over the final information that you will need to complete this class.
+
+
+
+---
+section: "TKTKTK"
+title: "TKTKTK"
+title: "Image of slide number 95"
+layout: slide
+---
+
+If you need to contact us anytime, call 703-324-4735 or email us.
+
+If you would like to review more training resources, you can find handouts and videos on our website at the displayed link.
+
+And finally, you can use the Election Officer Portal to indicate your availability each election, enroll in training, and check your precinct assignment.
+
+
+
+---
+section: "TKTKTK"
+title: "TKTKTK"
+title: "Image of slide number 96"
+layout: slide
+---
+
+Congratulations! You have now completed the online training class for new and experienced election officers.
+
+To receive credit for this class, you must still take and pass the quiz. You can find the quiz in the Election Officer Portal. Go to the Training tab, scroll down, and look in the bottom-right for a link labeled "Quiz". If you do not pass the quiz the first time, you can take it again. If you need any help, don't hesitate to call or email us.
+
+This class is now complete. Thank you and we know you will do great on election day!
