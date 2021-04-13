@@ -10,21 +10,29 @@
 				{% if page.collection %}
 					{% for class in site.collections %}
 					{% if class.label == page.collection %}
-					<a href="/{{ page.collection }}">{{ class.title }}</a>
+					<!-- <a href="/{{ page.collection }}">{{ class.title }}</a> -->
+					<a href="{{ site.url }}{{ site.baseurl}}{{ class.url }}">{{ class.title }}</a>
 					{% endif %}
 					{% endfor %}
 				{% else %}
-				<a href="{{ site.url }}">{{ site.title }}</a>
+				<a href="{{ site.url }}{{ site.baseurl }}">{{ site.title }}</a>
 				{% endif %}
 			</div>
 
 			<div class="ravi-menubar-menu">
 				{% if page.collection %}
-				<ul>
-					<li><a href="/{{ page.collection }}/toc">Table of Contents</a></li>
-					<li><a href="/{{ page.collection }}/thumbnails">Thumbnails</a></li>
-					<li><a href="/{{ page.collection }}/summary">Summary</a></li>
-				</ul>
+					{% for class in site.collections %}
+					{% if class.label == page.collection %}
+					<ul>
+						<li><a href="{{ site.url }}{{ site.baseurl}}{{ class.url }}/toc">Table of Contents</a></li>
+						<li><a href="{{ site.url }}{{ site.baseurl}}{{ class.url }}/thumbnails">Thumbnails</a></li>
+						<li><a href="{{ site.url }}{{ site.baseurl}}{{ class.url }}/summary">Summary</a></li>
+						<!-- <li><a href="/{{ page.collection }}/toc">Table of Contents</a></li> -->
+						<!-- <li><a href="/{{ page.collection }}/thumbnails">Thumbnails</a></li> -->
+						<!-- <li><a href="/{{ page.collection }}/summary">Summary</a></li> -->
+					</ul>
+					{% endif %}
+					{% endfor %}
 				{% else %}
 				<ul>
 					<li><a href="https://www.vote4fairfax.com">Election Officer Portal &rarr;</a></li>

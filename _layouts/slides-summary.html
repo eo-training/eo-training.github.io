@@ -23,7 +23,7 @@ layout: page
         
         <p><strong>{{ item.slug }}. {{ item.title }}</strong></p>
 
-        {{ item.content }}
+        {{ item.content | markdownify }}
 
     </div>
 

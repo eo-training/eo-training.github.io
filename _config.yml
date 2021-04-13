@@ -11,13 +11,13 @@
 #   sort_reverse: true
 
 # jekyll-paginate configuration
-paginate:            5
+# paginate:            5
 
 # Build settings
 markdown:            kramdown
 highlighter:         rouge
 # permalink:           none
-plugins:             [jekyll-paginate, jekyll-sitemap, jekyll-feed, jekyll-seo-tag]
+plugins:             [jekyll-sitemap, jekyll-seo-tag]
 
 # Customise atom feed settings (this is where Jekyll-Feed gets configuration information)
 title:		           'Election Officer Training'
@@ -44,44 +44,45 @@ collections:
   #   permalink: /chiefs-briefing/:path
   new-eo:
     output: true
-    title: "New Election Officer Training"
-    # permalink: /new-eo/:path
-  new-laws:
-    output: true
-    title: "Changes to Virginia Election Laws"
-    # permalink: /new-laws/:path
-  new-chief:
-    output: true
-    title: "New Chiefs and Assistant Chief Training"
-    # permalink: /new-chief/:path
-  chiefs-briefing:
-    output: true
-    title: "Chiefs Briefing"
-    # permalink: /chiefs-briefing/:path
-  ppe-specialist:
-    output: true
-    title: "PPE Specialist Training"
-    # permalink: /ppe-specialist/:path
-  non-routine-specialist:
-    output: true
-    title: "Non-Routine Specialist Training"
-    # permalink: /non-routine-specialist/:path
-  cap-ballot-check-in:
-    output: true
-    title: "CAP Returned Ballot Check-In Training"
-    # permalink: /cap-ballot-check-in/:path
-  cap-eo:
-    output: true
-    title: "CAP Election Officer Training"
-    # permalink: /cap-eo/:path
-  cap-preprocessing:
-    output: true
-    title: "CAP Preprocessing Training"
-    # permalink: /cap-preprocessing/:path
-  hs-page:
-    output: true
-    title: "High School Page Training"
-    # permalink: /hs-page/:path
+    title: "New and Experienced Election Officer Training"
+    permalink: /jun-2021/new-eo/:path
+    url: /jun-2021/new-eo
+  # new-laws:
+  #   output: true
+  #   title: "Changes to Virginia Election Laws"
+  #   # permalink: /new-laws/:path
+  # new-chief:
+  #   output: true
+  #   title: "New Chiefs and Assistant Chief Training"
+  #   # permalink: /new-chief/:path
+  # chiefs-briefing:
+  #   output: true
+  #   title: "Chiefs Briefing"
+  #   # permalink: /chiefs-briefing/:path
+  # ppe-specialist:
+  #   output: true
+  #   title: "PPE Specialist Training"
+  #   # permalink: /ppe-specialist/:path
+  # non-routine-specialist:
+  #   output: true
+  #   title: "Non-Routine Specialist Training"
+  #   # permalink: /non-routine-specialist/:path
+  # cap-ballot-check-in:
+  #   output: true
+  #   title: "CAP Returned Ballot Check-In Training"
+  #   # permalink: /cap-ballot-check-in/:path
+  # cap-eo:
+  #   output: true
+  #   title: "CAP Election Officer Training"
+  #   # permalink: /cap-eo/:path
+  # cap-preprocessing:
+  #   output: true
+  #   title: "CAP Preprocessing Training"
+  #   # permalink: /cap-preprocessing/:path
+  # hs-page:
+  #   output: true
+  #   title: "High School Page Training"
+  #   # permalink: /hs-page/:path
 
 
 # Permalinks
