@@ -1,6 +1,7 @@
 ---
 layout: slide-video
-videoID: "yAkXDcs4jzA"
+videoID: "4NNn7NcpaOU"
+slug: "067"
 ---
 
 This is a test.
