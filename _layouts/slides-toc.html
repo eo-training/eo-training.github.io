@@ -13,7 +13,7 @@ layout: page
 {% for item in class.docs %}
 {% if item.slug contains '0' %}
   <li>
-      {{ item.slug }}. <a href="{{ item.url | relative_url }}">{{ item.title }}</a>
+      {{ item.slug }}. {{ item.section }}: <a href="{{ item.url | relative_url }}">{{ item.title }}</a>
   </li>
 {% endif %}  
 {% endfor %}
