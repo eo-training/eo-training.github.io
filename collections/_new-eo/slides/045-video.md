@@ -7,8 +7,6 @@ videoID: "yAkXDcs4jzA"
 slug: "045"
 ---
 
-INSERT VIDEO HERE
-
 **We will now demonstrate the iSync import process on a Poll Pad. On election day, you will repeat with EACH Poll Pad.**
 
 Once the Poll Pad has powered on and is on the home screen, insert the iSync drive into the Lightning Connector on the right side of the tablet. Now you are ready to import information from the iSync.
