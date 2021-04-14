@@ -13,7 +13,7 @@ layout: page
 {% if item.slug contains '0' %}
 
 <a href="{{ item.url | relative_url }}">
-<img class="slide-thumbnail" src="/{{ page.collection }}/images/{{ item.slug }}.png">
+<img class="slide-thumbnail" src="{{ site.url }}{{ site.baseurl }}{{ class.url }}/images/{{ item.slug }}.png">
 </a>
 
 {% endif %}  

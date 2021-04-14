@@ -17,7 +17,7 @@
 markdown:            kramdown
 highlighter:         rouge
 # permalink:           none
-plugins:             [jekyll-sitemap, jekyll-seo-tag]
+# plugins:             [jekyll-sitemap, jekyll-seo-tag]
 
 # Customise atom feed settings (this is where Jekyll-Feed gets configuration information)
 title:		           'Election Officer Training'

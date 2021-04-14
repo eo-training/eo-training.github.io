@@ -126,7 +126,7 @@ title: Home
 These classes were made for past elections and contain outdated information and references. However, we are keeping them online as a helpful reference.
 
 - [Classes for the November 2020 General and Special Elections]({{site.url}}{{site.baseurl}}/nov-2020/)
-- [Classes for the June 2020 Party Primary Elections]({{site.url}}{{site.baseurl}}/nov-2020/)
+- [Classes for the June 2020 Party Primary Elections]({{site.url}}{{site.baseurl}}/jun-2020/)
 
 ---
 

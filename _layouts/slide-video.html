@@ -1,0 +1,99 @@
+---
+layout: default
+---
+
+<div class="slides-nav">
+	<div>
+		{% if page.previous.url %}
+		<a href="{{page.previous.url | relative_url }}">&laquo;&nbsp;{{page.previous.slug}}</a>
+		{% endif %}
+	</div>
+	<div>
+		<a href="../toc">Table of Contents</a>
+	</div>
+	<div class="slides-nav-next">
+		{% if page.next.url %}
+		<a href="{{page.next.url | relative_url }}">{{page.next.slug}}&nbsp;&raquo;</a>
+		{% endif %}
+	</div>
+</div>
+
+
+<!-- <img src="../images/{{ page.slug }}.png" style="max-width:100%; border-radius:10px; max-height:85vh; margin: 0 auto; display:block;box-shadow: 0 0 10px 5px rgba(0,0,0,.35);"> -->
+
+<div style="position: relative; padding-bottom: 75%; height: 0; max-width:100%; border-radius:10px; max-height:85vh; margin:0 auto; display:block; box-shadow: 0 0 10px 5px rgba(0,0,0,.35);">
+
+	<iframe id="embedVideo" style="position: absolute; top:0; left: 0; width: 100%; height: 100%;" width="1024" height="768" src="https://www.youtube.com/embed/{{ page.videoID }}?modestbranding=1&autoplay=1&enablejsapi=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+</div>
+
+<!-- removed audio player -->
+
+<script>
+	var x = document.getElementById("audioplayer");
+	let audioState = localStorage.getItem("autoPlayAudio");
+
+	if (audioState == "disabled") {
+		audioplayer.pause();
+	}
+
+</script>
+
+
+<h1>
+	{{ page.title }}
+</h1>
+
+<div>
+	{{ content }}
+</div>
+
+
+{% if page.lastSlide %}
+
+{% include ravi-confetti.html %}
+
+{% else %}
+
+<script type="text/javascript"> 
+
+	var audio = document.getElementById('audioplayer');
+
+	function redirectHandler() {
+		window.location.href = '{{page.next.url | relative_url }}';
+	}
+
+	function delayRedirect() {
+		window.setTimeout(redirectHandler,2000);
+	}
+
+	audio.addEventListener('ended', delayRedirect, false);
+
+</script>
+
+
+<script type="text/javascript"> 
+    var tag = document.createElement('script'); 
+    tag.src = "https://www.youtube.com/iframe_api"; 
+    var firstScript = document.getElementsByTagName('script')[0]; 
+    firstScript.parentNode.insertBefore(tag, firstScript); 
+    function onYouTubeIframeAPIReady() { 
+        new YT.Player('embedVideo', { 
+            events: { 
+                'onStateChange': function(evt) { 
+                    if (evt.data === YT.PlayerState.ENDED) { 
+					  window.location.href = '{{page.next.url | relative_url }}';
+                    } 
+                    else if (evt.data === YT.PlayerState.PLAYING) { 
+					  alert("Video is playing!");
+                    }
+                    else if (evt.data === YT.PlayerState.PAUSED) { 
+					  alert("Video is paused!");
+                    }
+                 } 
+             } 
+        }); 
+    } 
+</script>
+
+{% endif %}
