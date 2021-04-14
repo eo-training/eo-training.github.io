@@ -1,12 +1,12 @@
 ---
 layout: home
-title: "New Election Officer Training"
+title: "New and Experienced Election Officer Training"
 ---
 
 <img class="hero-image" src="{{ site.url }}/assets/img/new-eos-2.png">
 
 <div class="homepage-intro">
-Welcome to the New Election Officer online training class!
+Welcome to the New and Experienced Election Officer online training class!
 </div>
 
 <div>
