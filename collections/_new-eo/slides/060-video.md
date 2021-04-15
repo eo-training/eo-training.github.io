@@ -7,41 +7,24 @@ videoID: "UA8VCr2SslQ"
 slug: "060"
 ---
 
-First, the Poll Pad always begins on the home screen.
+Let's demonstrate how to search for voters on the new Poll Pad software.
 
+First, the Poll Pad always begins on the home screen. Tap "Get Started" at the bottom.
 
+If the voter offers you a driver's license, you can tap "Scan Barcode". This is how you will find most voters.
 
-When you tap "Get Started" on the Poll Pad's home screen, it brings you to this screen.
+If the license will not scan or the voter simply offers you another form of ID, tap "Manual Entry" to manually search for the voter.
 
-You can tap "Scan Barcode" to scan a voter's driver's license. This is how you will check in most voters.
+When doing a manual search, always search for *2 letters of the voter's last name and 1 letter of the voter's first name*. If you type more than this, it will take longer and lead to more mistakes. Leave the address fields blank unless you cannot find the voter by name only. Tap "Search".
 
-You can tap "Manual Entry" to search for a voter by name. This is how you will check in voters who present a valid form of ID that is not a driver's license.
+When the list of voters is displayed, look for the name of the voter you are checking in. Be careful not to select the wrong person, such as John Smith instead of John Smith, Jr. When you've found the voter, tap on their name.
 
+Now, you will need to advance through TWO screens, which is different than in past years.
 
-If you cannot scan a voter's ID, you will need to search for them manually. When doing a "Manual Entry," always search for *2 letters of the voter's last name and 1 letter of the voter's first name*. If you type more than this, it will take longer and lead to more mistakes. It is okay to leave the address field blank!
+On the first screen, you will be presented with the voter's information in large text. This is helpful to verify that you have selected the correct voter. Remember, you must repeat the voter's name out loud. For example, "I am checking in Jean Smith". Then, tap "Accept".
 
-When the list of voters is displayed, tap on the name of the voter whom you are checking in. Be careful not to select the wrong person, such as John Smith Jr. instead of John Smith Sr.
+On the second screen, you will be presented with multiple possible check-in “flags” indluding "Assistance Required" and "Curbside". On election day, you will also have a third flag, "Voter Signed Oath". We will explain these flags shortly. But some of you may remember our old Poll Pad software had a "Provisional" flag, which we could not disable - it is now thankfully gone. Remember, we never check provisional voters in on the Poll Pad.
 
+When you’re ready, tap the “Submit” button. You will hear a "ding" and see a confirmation screen.
 
-
-If you cannot find a voter by name, try searching for them by their house number and street name. Tap ‘Search’ when you are ready for results. 
-
-
-
-When you select a voter to check in, you will need to advance through TWO screens.
-
-First, you will be presented with their voter information. If there are no restrictive codes or warning messages, repeat only the voter’s name in an audible voice and check in the voter by touching “Accept.”
-
-
-
-Second, you will then be taken to this page, where you will be presented with multiple possible check-in “flags”. We will explain these flags shortly.
-
-This is also the final opportunity to confirm you are checking in the right voter.
-
-When you’re ready, press the “Submit” button.
-
-
-
-When you press "Submit" to officially check in a voter, you will be presented with this screen. Wait about 3 seconds for the Poll Pad to automatically return to the home screen.
-
-Congratulations, you’ve now checked in a voter!
+Congratulations, you’ve now checked in a voter! We can see at the top of the screen that the "Checkins" count has also increased by 1.
