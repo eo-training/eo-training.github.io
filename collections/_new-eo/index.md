@@ -28,8 +28,8 @@ After reviewing the slides, you must take a quiz in the Election Officer Portal 
 
 Helpful links:
 
-* <a href="./toc"><strong>Table of Contents</strong></a> (view all slide titles and jump to a slide quickly)
-* <a href="./thumbnails"><strong>Slides Thumbnails</strong></a> (view all slide images and jump to a slide quickly)
-* <a href="./summary"><strong>Slides Summary</strong></a> (view all slide images and text side-by-side on one page)
+* [Table of Contents]("./toc") - all slide titles on one page
+* [Slides Thumbnails]("./thumbnails") - all slide images on one screen
+* [Slides Summary]("./summary") - all slide images and text side-by-side on one page
 
 **Questions?** Call 703-324-4735 or email ElectionOfficerTraining@fairfaxcounty.gov. We are here to help!
