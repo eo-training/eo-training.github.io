@@ -8,13 +8,13 @@ title: CAP Classes
 <div class="cards">
 
     <div class="card">
-    <a href="{{ site.url }}{{ site.baseurl }}/cap-ballot-check-in">
+    <a href="{{ site.url }}{{ site.baseurl }}/jun-2021/cap-ballot-check-in">
       <div class="card-image-container">
         <div class="card-image" style="background-image: url('/assets/img/fairfax-county-govt-center.png')"></div>
       </div>
       <div class="card-text">
         <p>CAP Returned Ballot Check-In</p>
-        <p class="card-coming-soon" style="color:green;">Coming soon!</p>
+        <p class="card-coming-soon" style="color:green;">Now available!</p>
       </div>
     </a>
     </div>
