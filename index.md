@@ -40,7 +40,7 @@ title: Home
       </div>
       <div class="card-text">
         <p>PPE Specialist</p>
-        <p class="card-coming-soon" style="color:green;">Available late May!</p>
+        <p class="card-coming-soon" style="color:green;">Available in May!</p>
       </div>
     </a>
     </div>
@@ -53,7 +53,7 @@ title: Home
       </div>
       <div class="card-text">
         <p>New Chief and Assistant Chief</p>
-        <p class="card-coming-soon" style="color:green;">Available late May!</p>
+        <p class="card-coming-soon" style="color:green;">Available in May!</p>
       </div>
     </a>
     </div>
