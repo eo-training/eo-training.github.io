@@ -5,12 +5,14 @@ title: "New and Experienced Election Officer Training"
 
 <!-- <img class="hero-image" src="{{ site.url }}/assets/img/new-eos-2.png"> -->
 
-<img src="images/001.png" style="
+<!-- <img src="images/001.png" style="
     max-width: 50%;
     float: right;
     margin-left: 2em;
     box-shadow: 0 0 10px 5px gray;
-">
+"> -->
+
+<a href="./slides/001"><img class="hero-image" src="images/001.png"></a>
 
 # Welcome to the **New and Experienced Election Officer** online training class!
 

@@ -244,8 +244,8 @@ body {
 @media (min-width: 800px) {
   .hero-image {
     float:right;
-    max-width: 60%;
-    margin-left: 1em;
+    max-width: 50%;
+    margin-left: 2em;
   }
 }
 
