@@ -1,6 +1,6 @@
 ---
 layout: slide
-itle: "Entry into VERIS database"
+title: "Entry into VERIS database"
 ---
 
 When checking B envelopes into VERIS we will be primarily using the ***batch*** method, which is scanning **no more** than 10 mailers at a time, thereby creating a ***batch***.  
