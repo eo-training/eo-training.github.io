@@ -1,0 +1,12 @@
+---
+layout: slide
+title: "Editing and Verifying the voter record"
+---
+
+The left side of this slide shows the items that need to be edited and verified.  We must ensure VERIS reflects the correct information for each voter for the current election.  
+
+Make sure the ***Ballot Received Date*** is the date stamped on the outside of the return mailer; adjust as necessary. The ***Received by Method” box defaults to ***Mail*** which means the return mailer was delivered by the post office or a commercial mail delivery service (UPS, FEDEX, DHL).  If the return mailer was received from a voter drop off location, ***Received by Method*** should be changed to ***Mail Non-USPS***.  
+
+Finally, change ***Ballot Status*** from ***Issued*** to ***Marked***.  This means the voter has made their choices and returned a voted ballot.  Click save.  VERIS will then return you to the voter’s absentee page which should reflect the correct data.  
+
+A ***saved*** record is shown on the right side of this slide.  Ensure ***Ballot Status*** is ***Marked*** and the ***Ballot Received Date*** is correct. Hover your mouse over ***Absentee*** at the top of the voter’s VERIS page and click ***Absentee Search*** so you can find the next voter’s record.

@@ -1,0 +1,10 @@
+---
+layout: slide
+title: "Error message while batching"
+---
+
+During scanning, VERIS periodically will show the “First Tuesday” server error.  When it appears, the B envelopes you just scanned have **not** been saved in the database.  This means you must rescan the batch of B envelopes you just scanned.  VERIS does not allow more than 10 B envelopes to be scanned as a batch. 
+
+After a while, you’ll learn how to clear this error.
+
+**If the B envelope will not scan or an error message pops up on the computer, go no further!!!!  Immediately contact your supervisor for further guidance.**

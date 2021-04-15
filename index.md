@@ -80,7 +80,7 @@ title: Home
 <div class="cards">
 
     <div class="card">
-    <a href="{{ site.url }}{{ site.baseurl }}/coming-soon">
+    <a href="{{ site.url }}{{ site.baseurl }}/jun-2021/cap-ballot-check-in">
       <div class="card-image-container">
         <div class="card-image" style="background-image: url('{{ site.url }}{{ site.baseurl }}/assets/img/fairfax-county-govt-center.png')"></div>
       </div>

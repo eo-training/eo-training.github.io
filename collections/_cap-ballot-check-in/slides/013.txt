@@ -1,0 +1,8 @@
+---
+layout: slide
+title: "UOCAVA email return mailer"
+---
+
+The last example is the UOCAVA email envelope.  A voter living overseas may request they receive their ballot by email. The voter uses templates in a PDF attachment to create their ballot, B envelope, and their return mailer.  The voted ballot must be inserted and sealed within the homemade B envelope and mailed back to the Office of Elections. The B envelope for this mailer does not have a VERIS generated voter information label. 
+
+The voter may mail their ballot back using either the Fairfax County envelope template received via the email link or a voter supplied envelope.

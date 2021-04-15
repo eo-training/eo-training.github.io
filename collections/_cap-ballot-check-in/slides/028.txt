@@ -1,0 +1,8 @@
+---
+layout: slide
+title: "UOCAVA name match"
+---
+
+The same process used to match information on the domestic return mailers also applies to verifying information on the UOCAVA return mailers. The name and address should match. However, UOCAVA voters are not required to complete the name field on the B envelope, so if the name line is blank just look for signatures. 
+
+As with the domestic return mailer, if the voter information label does not match the voter-supplied info on the B envelope, place that return mailer into your **black tray** for processing by another group.  

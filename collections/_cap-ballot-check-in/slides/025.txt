@@ -1,0 +1,10 @@
+---
+layout: slide
+title: "Date/Time Stamp, Open and Count Complete"
+---
+
+Sorting and counting of the return mailers is now complete!  This means that each return mailer has been transferred from the USPS gray mail trays in which they were delivered, to our red mail trays, and accurately organized by Vienna town election, and congressional district, delegate district within the CDs that are having primaries. All envelopes have been processed thru the Omation IM-410 which means each has a date/time stamp on the front, has been opened and counted; and the return mailer count has been recorded on the appropriate returned ballot count sheet.
+
+**Remember to keep all drop-off mail separate from USPS/other commercial delivered mail.** 
+
+Now we are ready to begin step three of our process:  comparing information on the VERIS-generated voter information label against the voter-provided information on the B envelope.

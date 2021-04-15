@@ -1,0 +1,6 @@
+---
+layout: slide
+title: "Before you can sort"
+---
+
+To help us be better sorters, we need to be familiar with the path of a return mailer. Beginning with delivery to the Office of Elections, to organizing mailers in mail trays, to ***marking*** and accurately recording their receipt in VERIS.

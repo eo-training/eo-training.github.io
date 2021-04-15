@@ -1,0 +1,16 @@
+---
+layout: slide
+title: "Domestic B Envelope New format"
+---
+ 
+The domestic B envelope holds the voter’s marked (voted) ballot. New this year, the B envelope now shows a voter information label in the upper left corner.  It’s used to help track receipt and entry of the voter’s returned absentee ballot into Virginia’s statewide voter data base, VERIS.  Information on the preprinted voter information label includes:
+
+A bar code specific to that voter
+- Voter ID number    
+- Voter name
+- Voter address
+The election that corresponds with the enclosed ballot
+Voter congressional district, precinct, and delegate district (as needed)
+Whether extra documentation is required (ID required or Needs Assistance)
+
+It is the voter’s responsibility to properly complete all highlighted areas on the B envelope.

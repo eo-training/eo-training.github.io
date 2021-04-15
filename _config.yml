@@ -67,10 +67,11 @@ collections:
   #   output: true
   #   title: "Non-Routine Specialist Training"
   #   # permalink: /non-routine-specialist/:path
-  # cap-ballot-check-in:
-  #   output: true
-  #   title: "CAP Returned Ballot Check-In Training"
-  #   # permalink: /cap-ballot-check-in/:path
+  cap-ballot-check-in:
+    output: true
+    title: "CAP Returned Ballot Check-In Training"
+    permalink: /jun-2021/cap-ballot-check-in/:path
+    url: /jun-2021/cap-ballot-check-in
   # cap-eo:
   #   output: true
   #   title: "CAP Election Officer Training"

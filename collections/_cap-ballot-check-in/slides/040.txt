@@ -1,0 +1,16 @@
+---
+layout: slide
+title: "Repeat scan"
+---
+
+Place the voter information barcode label in the sweet spot under scanner.  Listen closely for a ***beep*** each time you scan and make sure the name on the mailer appears on the computer screen.  As you scan each B envelope, you will see the ballot ***Status*** automatically show as ***Marked*** and ***Status Reason*** as ***Ballot Returned***.  This is an indication of a successful scan into the VERIS database.  **If the status shows ***Pre-processed***instead of ***Marked***, immediately contact your supervisor for further guidance!** 
+ 
+Once scanned, return the B envelope into the mailer and stack next to you.  By doing this you keep separate the mailers that have been scanned from those that are waiting to be scanned into the VERIS database.  
+
+**If the B envelope will not scan or an error message pops up on the computer, ***go no further***!!!!  Immediately contact your supervisor for further guidance.**
+
+After 10 B envelopes or ***one batch with fewer than 10 ballots*** are successfully scanned and before clicking Save verify: 1) the count in the upper right corner shows 10, 2) there are 10 names on your screen, 3) ***Status*** shows ***Marked***, 4) ***Status Reason*** shows ***Ballot Returned***.  Once you have verified those four pieces of information,  **click save**.  **This is a critical step.** 
+
+If a batch has fewer than 10 in that delegate district, or the set of scans for a batch is fewer than 10, stop and save. ***Do not combine batches!!!*** 
+
+When batch scanning, you need to focus on certain sights and sounds that should happen during the scanning process.   VERIS will not accept more than 10 scanned envelopes in any batch.

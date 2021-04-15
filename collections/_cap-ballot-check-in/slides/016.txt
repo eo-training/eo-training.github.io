@@ -1,0 +1,6 @@
+---
+layout: slide
+title: "Inside UOCAVA mailer"
+---
+
+After the UOCAVA voter marks (votes) their ballot, the ballot is sealed in their B envelope and then placed in a return mailer.  On the B envelope, the UOCAVA voter does not have to print their name, date, or supply their address.  The B envelope must include the voter and witness signature(s).

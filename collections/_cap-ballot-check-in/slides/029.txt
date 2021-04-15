@@ -1,0 +1,6 @@
+---
+layout: slide
+title: "But wait"
+---
+
+There’s a bit more to know about name verification requirements.  As noted on the slide, the names don’t have to match exactly but you **must** be reasonably sure the person whose name is written on the B envelope is the voter who was sent that absentee ballot. 

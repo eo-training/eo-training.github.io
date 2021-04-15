@@ -1,0 +1,6 @@
+---
+layout: slide
+title: "Finding voter record – two methods"
+---
+
+You can find the voter record by either scanning the VERIS-generated voter information label or by typing in the voter’s last and first name or their voter ID number.  The voter ID is the 9 digit number located at the top of the voter information label and on the address label on the return mailer.  When using the voter ID number you must change the Voter ID box to show ***ID*** by clicking on the arrow next to the box. After you enter the number or name, click ***Search***.

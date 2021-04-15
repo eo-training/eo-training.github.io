@@ -1,0 +1,6 @@
+---
+layout: slide
+title: "UOCAVA B envelope"
+---
+ 
+The UOCAVA B envelope is almost the same as the domestic B envelope. The most important difference is that the voter does not provide their address.  Note also the black UOCAVA identifier in the upper right corner.
