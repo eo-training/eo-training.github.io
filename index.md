@@ -27,7 +27,7 @@ title: Home
       </div>
       <div class="card-text">
         <p>New & Experienced Election Officer</p>
-        <p class="card-coming-soon" style="color:green;">Now available!</p>
+        <p class="card-coming-soon" style="color:green;">Coming soon!</p>
       </div>
     </a>
     </div>
@@ -80,7 +80,7 @@ title: Home
 <div class="cards">
 
     <div class="card">
-    <a href="{{ site.url }}{{ site.baseurl }}/jun-2021/cap-ballot-check-in">
+    <a href="{{ site.url }}{{ site.baseurl }}/coming-soon">
       <div class="card-image-container">
         <div class="card-image" style="background-image: url('{{ site.url }}{{ site.baseurl }}/assets/img/fairfax-county-govt-center.png')"></div>
       </div>
