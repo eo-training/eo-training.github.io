@@ -131,8 +131,8 @@ These classes were made for past elections and contain outdated information and 
 ---
 
 
-<p style="text-align: center; font-weight:bold;"><span style="color:#FF0000;">If you have any questions or issues regarding training, call us at 703-324-4735 or<br />
- email <a href="mailto:ElectionOfficerTraining@fairfaxcounty.gov">ElectionOfficerTraining@fairfaxcounty.gov</a>. We are here to help!</span></p>
+<p style="text-align: center; font-weight:bold;"><span style="color:#FF0000;">If you have any questions or issues regarding training, call us at 703-324-4735 or
+ email ElectionOfficerTraining@fairfaxcounty.gov. We are here to help!</span></p>
 
 
 
