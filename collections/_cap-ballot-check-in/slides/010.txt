@@ -9,8 +9,8 @@ A bar code specific to that voter
 - Voter ID number    
 - Voter name
 - Voter address
-The election that corresponds with the enclosed ballot
-Voter congressional district, precinct, and delegate district (as needed)
-Whether extra documentation is required (ID required or Needs Assistance)
+- The election that corresponds with the enclosed ballot
+- Voter congressional district, precinct, and delegate district (as needed)
+- Whether extra documentation is required (ID required or Needs Assistance)
 
 It is the voter’s responsibility to properly complete all highlighted areas on the B envelope.
