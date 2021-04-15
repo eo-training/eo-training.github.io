@@ -3,13 +3,13 @@ section: "OPENING PROCEDURES"
 title: "Slide 45"
 title: "iSync Import Video"
 layout: slide-video
-videoID: "yAkXDcs4jzA"
+videoID: "V0Plu6VCefg"
 slug: "045"
 ---
 
-**We will now demonstrate the iSync import process on a Poll Pad. On election day, you will repeat with EACH Poll Pad.**
+**We will now demonstrate the iSync import process on a Poll Pad. On election day, you will repeat this process with EACH Poll Pad.**
 
-Once the Poll Pad has powered on and is on the home screen, insert the iSync drive into the Lightning Connector on the right side of the tablet. Now you are ready to import information from the iSync.
+Once a Poll Pad has powered on and is on the home screen, insert the iSync drive into the Lightning Connector on the right side of the tablet.
 
 **Step 1**: When the pop-up menu appears, tap "Import Voter File."
 
@@ -21,12 +21,14 @@ Once the Poll Pad has powered on and is on the home screen, insert the iSync dri
 
 **Step 5**: When you receive the "File Transfer Complete" message, **remove the iSync drive** and then tap "OK". This process may take a few minutes.
 
-You will notice the new iSync import process takes longer than it used to. Remember, during the import process, the iSync is transmitting records of more than 750,000 voters around the county, not just the 5,000 or so in your precinct. As you wait, remember that you can take the iSync drive and start inserting it into each of the other Poll Pads in your precinct.
+You will notice the new iSync import process does takes longer than it used to. Remember, during the import process, the iSync is transmitting records of more than 750,000 voters around the county, not just the 5,000 or so in your precinct. As you wait, remember that you can take the iSync drive and start inserting it into each of the other Poll Pads in your precinct.
 
 Let me also take this opportunity to mention that the new Poll Pad software may appear different, but it functions very similarly to the version used in previous years. It's sort of like an app update on your phone - everything looks a little bit different and some buttons may have moved around, but after a few minutes, you'll quickly get used to it.
 
+Now, you can see things zipping along.
+
 **Step 6:** When the "Import Finished" window appears, tap "OK". If the Poll Pad application does not automatically restart, tap the "P" icon at the bottom of the screen.
 
-**Step 7:** The Poll Pad application should open to the home screen. Look in the top left corner, where it says "Menu" - verify that the "Last imported" date has been updated. In this case, this Poll Pad is configured for a mock election on December 1, 2021 and we see that is the "Last imported" date, so we're all set!
+**Step 7:** The Poll Pad application should open to the home screen. Look in the top left corner, next to where it says "Menu" - verify that the "Last imported" date has been updated. In this case, this Poll Pad is configured for a mock election on December 1, 2021 and we see that is the "Last imported" date, so we're all set!
 
-**Remember, you must repeat these steps on each Poll Pad**. When you're done, give the iSync drive to the Chief.
+**Remember, you must repeat all of these steps on each Poll Pad**. When you're done, give the iSync drive to the Chief.

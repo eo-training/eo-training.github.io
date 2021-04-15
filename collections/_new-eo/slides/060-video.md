@@ -3,7 +3,7 @@ section: "DURING THE DAY"
 title: "Slide 60"
 title: "Poll Pad Voter Search Video"
 layout: slide-video
-videoID: "UA8VCr2SslQ"
+videoID: "jNhPs0yak74"
 slug: "060"
 ---
 

@@ -3,13 +3,13 @@ section: "CLOSING PROCEDURES"
 title: "Slide 82"
 title: "Poll Pad iSync Export Video"
 layout: slide-video
-videoID: "yGCXKWrPfcw"
+videoID: "rO41FXYfaOU"
 slug: "082"
 ---
 
 After the last voter has voted and you have completed a pink Poll Pad Certification form, you may begin closing your Poll Pads.
 
-To start, insert your iSync drive into each Poll Pad to export the final voter list. 
+To start, insert your iSync drive into each Poll Pad. 
 
 **Step 1**: On the pop-up screen, touch the third option, “Export Checkins.”
 
