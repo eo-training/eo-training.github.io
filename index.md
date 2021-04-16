@@ -27,7 +27,7 @@ title: Home
       </div>
       <div class="card-text">
         <p>New & Experienced Election Officer</p>
-        <p class="card-coming-soon" style="color:green;">Coming soon!</p>
+        <p class="card-coming-soon" style="color:green;">Available now!</p>
       </div>
     </a>
     </div>
