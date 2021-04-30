@@ -321,6 +321,7 @@ body {
   /* justify-content:space-between; */
   border-bottom: 1px solid #CCC;
   padding: 2em 0;
+  page-break-after: always;
 }
 
 .slide-image img {
