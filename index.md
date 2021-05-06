@@ -73,50 +73,6 @@ title: Home
 
 </div>
 
----
-
-<h2>Central Absentee Precinct classes for the June 2021 election</h2>
-
-<div class="cards">
-
-    <div class="card">
-    <a href="{{ site.url }}{{ site.baseurl }}/coming-soon">
-      <div class="card-image-container">
-        <div class="card-image" style="background-image: url('{{ site.url }}{{ site.baseurl }}/assets/img/fairfax-county-govt-center.png')"></div>
-      </div>
-      <div class="card-text">
-        <p>CAP Returned Ballot Check-In</p>
-        <p class="card-coming-soon" style="color:green;">Coming soon!</p>
-      </div>
-    </a>
-    </div>
-
-    <div class="card">
-    <a href="{{ site.url }}{{ site.baseurl }}/coming-soon">
-      <div class="card-image-container">
-        <div class="card-image" style="background-image: url('{{ site.url }}{{ site.baseurl }}/assets/img/fairfax-county-govt-center.png')"></div>
-      </div>
-      <div class="card-text">
-        <p>CAP <br/>Preprocessing</p>
-        <p class="card-coming-soon" style="color:green;">Coming soon!</p>
-      </div>
-    </a>
-    </div>
-
-    <div class="card">
-    <a href="{{ site.url }}{{ site.baseurl }}/coming-soon">
-      <div class="card-image-container">
-        <div class="card-image" style="background-image: url('{{ site.url }}{{ site.baseurl }}/assets/img/fairfax-county-govt-center.png')"></div>
-      </div>
-      <div class="card-text">
-        <p>CAP Election Officer Training</p>
-        <p class="card-coming-soon" style="color:green;">Coming soon!</p>
-      </div>
-    </a>
-    </div>
-
-</div>
-
 
 ---
 
