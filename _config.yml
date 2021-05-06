@@ -33,24 +33,11 @@ author:              'Office of Elections'
 collections_dir: collections
 
 collections:
-  # 2020-06-new-eo:
-  #   output: true
-  #   permalink: /new-eo/:path
-  # 2020-06-new-chief:
-  #   output: true
-  #   permalink: /new-chief/:path
-  # 2020-06-chiefs-briefing:
-  #   output: true
-  #   permalink: /chiefs-briefing/:path
   new-eo:
     output: true
     title: "New and Experienced Election Officer Training"
     permalink: /jun-2021/new-eo/:path
     url: /jun-2021/new-eo
-  # new-laws:
-  #   output: true
-  #   title: "Changes to Virginia Election Laws"
-  #   # permalink: /new-laws/:path
   # new-chief:
   #   output: true
   #   title: "New Chiefs and Assistant Chief Training"
@@ -63,10 +50,6 @@ collections:
   #   output: true
   #   title: "PPE Specialist Training"
   #   # permalink: /ppe-specialist/:path
-  # non-routine-specialist:
-  #   output: true
-  #   title: "Non-Routine Specialist Training"
-  #   # permalink: /non-routine-specialist/:path
   cap-ballot-check-in:
     output: true
     title: "CAP Returned Ballot Check-In Training"
@@ -76,14 +59,15 @@ collections:
   #   output: true
   #   title: "CAP Election Officer Training"
   #   # permalink: /cap-eo/:path
+  cap-eo-handcount:
+    output: true
+    title: "CAP Election Officer Handcount Training"
+    permalink: /cap-eo-handcount/:path
+    url: /jun-2021/cap-eo-handcount
   # cap-preprocessing:
   #   output: true
   #   title: "CAP Preprocessing Training"
   #   # permalink: /cap-preprocessing/:path
-  # hs-page:
-  #   output: true
-  #   title: "High School Page Training"
-  #   # permalink: /hs-page/:path
 
 
 # Permalinks
