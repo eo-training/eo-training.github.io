@@ -1,0 +1,14 @@
+---
+layout: slide
+title: "Basic Information"
+---
+
+We will now go over the basic information you need to know to be a CAP handcount team member.
+
+There are two CAPs – CAP Absentee (processes and scans mailed-in and drop box absentee ballots) and CAP Early Voting (only reports data from all Early Voting digital scanners used by in person voters).   Handcounting primarily is used in CAP Absentee, but it may also be necessary in CAP Early Voting if damaged ballots are returned from an Early Voting location.
+
+
+
+
+
+

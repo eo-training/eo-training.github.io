@@ -1,0 +1,23 @@
+------
+layout: slide
+title: "Tallying Votes"
+---
+
+Votes are recorded by placing tally marks on the tally sheet for each vote read by the ballot official.  Tally marks are entered in groups of five.
+
+Make sure you put the tally mark in the box for the correct contest and candidate (or "Yes" or "No" for votes on issues).
+
+Votes for write-in candidates must be recorded for the correct contest, but NAMES of write-in candidates will be entered on the write-in certification sheet for that contest.
+
+Overvotes occur when a voter has chosen more names than allowed.  No candidate for that contest gets a vote and a tally mark is entered in the Overvote row.
+
+
+
+
+
+
+
+
+
+
+

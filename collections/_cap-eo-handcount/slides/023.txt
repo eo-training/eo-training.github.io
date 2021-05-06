@@ -1,0 +1,37 @@
+---
+layout: slide
+title: "Mini-Review"
+---
+
+1. What types of ballots are handcounted? Ballots that can’t be scanned, such as damaged or email ballots.
+
+2. How are ballots prepared for handcounting? They are unfolded, sorted by CD, counted and placed in batches.
+
+3. What is the communications oath?  The oath everyone must take before handcounting can begin.  You pledge that you will not transmit vote information before the polls close.
+
+4. What does a ballot officer do?  Counts ballots, announces the count, reads ballots one by one.
+
+5. What does a verifying officer do?  Verifies ballot counts, ensures all ballots are read, ensures all votes are correctly recorded.
+
+6. What do recording officers do?  Record votes with tally marks on tally sheets or write the names of write-in candidates on write-in certification sheets.
+
+7. Where do you record the number of ballots in a batch?  At the top of the first tally sheet.
+
+8. What does a recording officer do after they have recorded votes on a tally sheet or write-in certification sheet?  Repeat the name back to the ballot officer.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
