@@ -20,7 +20,7 @@ title: CAP Classes
     </div>
 
     <div class="card">
-    <a href="{{ site.url }}{{ site.baseurl }}/cap-preprocessing">
+    <a href="{{ site.url }}{{ site.baseurl }}/jun-2021/cap-preprocessing">
       <div class="card-image-container">
         <div class="card-image" style="background-image: url('/assets/img/fairfax-county-govt-center.png')"></div>
       </div>
@@ -32,7 +32,7 @@ title: CAP Classes
     </div>
 
     <div class="card">
-    <a href="{{ site.url }}{{ site.baseurl }}/cap-eo">
+    <a href="{{ site.url }}{{ site.baseurl }}/jun-2021/cap-eo">
       <div class="card-image-container">
         <div class="card-image" style="background-image: url('/assets/img/fairfax-county-govt-center.png')"></div>
       </div>
@@ -44,7 +44,7 @@ title: CAP Classes
     </div>
 
     <div class="card">
-    <a href="{{ site.url }}{{ site.baseurl }}/cap-eo-handcount">
+    <a href="{{ site.url }}{{ site.baseurl }}/jun-2021/cap-eo-handcount">
       <div class="card-image-container">
         <div class="card-image" style="background-image: url('/assets/img/fairfax-county-govt-center.png')"></div>
       </div>

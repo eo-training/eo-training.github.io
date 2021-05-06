@@ -62,7 +62,7 @@ collections:
   cap-eo-handcount:
     output: true
     title: "CAP Election Officer Handcount Training"
-    permalink: /cap-eo-handcount/:path
+    permalink: /jun-2021/cap-eo-handcount/:path
     url: /jun-2021/cap-eo-handcount
   # cap-preprocessing:
   #   output: true
