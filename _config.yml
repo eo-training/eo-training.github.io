@@ -55,19 +55,26 @@ collections:
     title: "CAP Returned Ballot Check-In Training"
     permalink: /jun-2021/cap-ballot-check-in/:path
     url: /jun-2021/cap-ballot-check-in
-  # cap-eo:
-  #   output: true
-  #   title: "CAP Election Officer Training"
-  #   # permalink: /cap-eo/:path
+  cap-preprocessing:
+    output: true
+    title: "CAP Preprocessing Training"
+    permalink: /jun-2021/cap-preprocessing/:path
+    url: /jun-2021/cap-preprocessing
   cap-eo-handcount:
     output: true
     title: "CAP Election Officer Handcount Training"
     permalink: /jun-2021/cap-eo-handcount/:path
     url: /jun-2021/cap-eo-handcount
-  # cap-preprocessing:
-  #   output: true
-  #   title: "CAP Preprocessing Training"
-  #   # permalink: /cap-preprocessing/:path
+  cap-eo-ab:
+    output: true
+    title: "CAP Election Officer Absentee Training"
+    permalink: /jun-2021/cap-eo-ab/:path
+    url: /jun-2021/cap-eo-ab
+  cap-eo-ev:
+    output: true
+    title: "CAP Election Officer Early Voting Training"
+    permalink: /jun-2021/cap-eo-ev/:path
+    url: /jun-2021/cap-eo-ev
 
 
 # Permalinks
