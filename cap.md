@@ -27,7 +27,7 @@ title: CAP Classes
       </div>
       <div class="card-text">
         <p>CAP EO Absentee Training</p>
-        <p class="card-coming-soon" style="color:green;">Coming soon!</p>
+        <p class="card-coming-soon" style="color:green;"></p>
       </div>
     </a>
     </div>
