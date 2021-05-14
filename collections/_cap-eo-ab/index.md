@@ -1,13 +1,13 @@
 ---
 layout: home
-title: "CAP Election Officer Handcount"
+title: "CAP Election Officer Training"
 ---
 
 <!-- <img class="hero-image" src="{{ site.url }}{{ site.baseurl }}/assets/img/cap-returned-ballot-check-in-001.png"> -->
 
 <a href="./slides/001"><img class="hero-image" src="./images/001.png"></a>
 
-# Welcome to the **CAP Election Officer Handcount** online training class!
+# Welcome to the **CAP Election Officer** online training class!
 
 It will take approximately **1 hour** to view this training class. You can pause anytime.
 
