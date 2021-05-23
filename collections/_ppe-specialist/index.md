@@ -9,7 +9,7 @@ title: "PPE Specialist Training"
 
 # Welcome to the **PPE Specialist** online training class!
 
-It will take approximately **30 minutes** to view this training class. You can pause anytime.
+It will take approximately **20 minutes** to view this training class. You can pause anytime.
 
 Audio narration plays automatically for each slide. At the end of each narration, you will advance to the next slide automatically.
 
