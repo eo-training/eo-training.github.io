@@ -1,13 +1,13 @@
 ---
 layout: home
-title: "CAP Election Officer Handcount"
+title: "__________ Training"
 ---
 
 <!-- <img class="hero-image" src="{{ site.url }}{{ site.baseurl }}/assets/img/cap-returned-ballot-check-in-001.png"> -->
 
 <a href="./slides/001"><img class="hero-image" src="./images/001.png"></a>
 
-# Welcome to the **CAP Election Officer Handcount** online training class!
+# Welcome to the **________________** online training class!
 
 It will take approximately **1 hour** to view this training class. You can pause anytime.
 
@@ -25,4 +25,4 @@ Helpful links:
 * [Slides Thumbnails](./thumbnails) - all slide images on one screen
 * [Slides Summary](./summary) - all slide images and text side-by-side on one page
 
-**Questions?** Call 703-324-7739 or email CentralAbsentee@fairfaxcounty.gov. We are here to help!
+**Questions?** Call 703-324-4735 or email ElectionOfficerTraining@fairfaxcounty.gov. We are here to help!
