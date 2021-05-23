@@ -1,13 +1,13 @@
 ---
 layout: home
-title: "__________ Training"
+title: "Chiefs Briefing"
 ---
 
 <!-- <img class="hero-image" src="{{ site.url }}{{ site.baseurl }}/assets/img/cap-returned-ballot-check-in-001.png"> -->
 
 <a href="./slides/001"><img class="hero-image" src="./images/001.png"></a>
 
-# Welcome to the **________________** online training class!
+# Welcome to the online **Chiefs Briefing**!
 
 It will take approximately **1 hour** to view this training class. You can pause anytime.
 

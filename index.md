@@ -14,7 +14,7 @@ title: Home
     border-radius: 1px;
     border: 1px solid black;
     margin-bottom: 3em;
-"><strong>Fairfax County Election Officer Training</strong>: Updated training classes for the June 2021 Democratic Party Primary Election will be available soon. If you have any questions, you can <a href="mailto:ElectionOfficerTraining@fairfaxcounty.gov">email us</a> or call 703-324-4735. Thank you!</p>
+"><strong>Fairfax County Election Officer Training</strong>: If you have any questions, you can <a href="mailto:ElectionOfficerTraining@fairfaxcounty.gov">email us</a> or call 703-324-4735. Thank you!</p>
 
 <h2>Election Officer classes for the June 2021 election</h2>
 
@@ -34,13 +34,13 @@ title: Home
 
 
     <div class="card">
-    <a href="{{ site.url }}{{ site.baseurl }}/coming-soon">
+    <a href="{{ site.url }}{{ site.baseurl }}/jun-2021/ppe-specialist/">
       <div class="card-image-container">
         <div class="card-image" style="background-image: url('{{ site.url }}{{ site.baseurl }}/assets/img/ppe-face-masks.jpg')"></div>
       </div>
       <div class="card-text">
         <p>PPE Specialist</p>
-        <p class="card-coming-soon" style="color:green;">Available in May!</p>
+        <p class="card-coming-soon" style="color:green;">Available now!</p>
       </div>
     </a>
     </div>
@@ -53,7 +53,7 @@ title: Home
       </div>
       <div class="card-text">
         <p>New Chief and Assistant Chief</p>
-        <p class="card-coming-soon" style="color:green;">Available in May!</p>
+        <p class="card-coming-soon" style="color:green;">Available May 27!</p>
       </div>
     </a>
     </div>
