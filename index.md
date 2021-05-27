@@ -47,13 +47,13 @@ title: Home
 
 
     <div class="card">
-    <a href="{{ site.url }}{{ site.baseurl }}/coming-soon">
+    <a href="{{ site.url }}{{ site.baseurl }}/jun-2021/new-chief/">
       <div class="card-image-container">
         <div class="card-image" style="background-image: url('{{ site.url }}{{ site.baseurl }}/assets/img/what-ifs.png')"></div>
       </div>
       <div class="card-text">
         <p>New Chief and Assistant Chief</p>
-        <p class="card-coming-soon" style="color:green;">Available May 27!</p>
+        <p class="card-coming-soon" style="color:green;">Available now!</p>
       </div>
     </a>
     </div>
