@@ -21,7 +21,7 @@ Once a Poll Pad has powered on and is on the home screen, insert the iSync drive
 
 **Step 5**: When you receive the "File Transfer Complete" message, **remove the iSync drive** and then tap "OK". This process may take a few minutes.
 
-You will notice the new iSync import process does takes longer than it used to. Remember, during the import process, the iSync is transmitting records of more than 750,000 voters around the county, not just the 5,000 or so in your precinct. As you wait, remember that you can take the iSync drive and start inserting it into each of the other Poll Pads in your precinct.
+You will notice the new iSync import process does take longer than it used to. Remember, during the import process, the iSync is transmitting records of more than 750,000 voters around the county, not just the 5,000 or so in your precinct. As you wait, remember that you can take the iSync drive and start inserting it into each of the other Poll Pads in your precinct.
 
 Let me also take this opportunity to mention that the new Poll Pad software may appear different, but it functions very similarly to the version used in previous years. It's sort of like an app update on your phone - everything looks a little bit different and some buttons may have moved around, but after a few minutes, you'll quickly get used to it.
 
