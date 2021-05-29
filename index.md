@@ -66,7 +66,7 @@ title: Home
       </div>
       <div class="card-text">
         <p>Chiefs Briefing</p>
-        <p class="card-coming-soon" style="color:green;">Available May 30!</p>
+        <p class="card-coming-soon" style="color:green;">Available now!</p>
       </div>
     </a>
     </div>
