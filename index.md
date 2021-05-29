@@ -60,13 +60,13 @@ title: Home
 
 
     <div class="card">
-    <a href="{{ site.url }}{{ site.baseurl }}/coming-soon">
+    <a href="{{ site.url }}{{ site.baseurl }}/jun-2021/chiefs-briefing/">
       <div class="card-image-container">
         <div class="card-image" style="background-image: url('{{ site.url }}{{ site.baseurl }}/assets/img/chiefs-briefing-small.jpg')"></div>
       </div>
       <div class="card-text">
         <p>Chiefs Briefing</p>
-        <p class="card-coming-soon" style="color:green;">Available June 1!</p>
+        <p class="card-coming-soon" style="color:green;">Available May 30!</p>
       </div>
     </a>
     </div>
