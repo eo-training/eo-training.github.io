@@ -6,8 +6,8 @@ permalink: /jun-2021/faqs
 
 Thank you to all of you who submitted questions for our Zoom webinars. If it's helpful, we have taken the most common questions (and their answers!) from those webinars and are providing them to you on one page here.
 
-- Zoom Q&A Webinar - Election Officers (Fri May 28)
-- Zoom Q&A Webinar - Chiefs and Assistant Chiefs (Fri Jun 4)
+- Video: [Zoom Q&A Webinar - Election Officers (Fri May 28)](https://us02web.zoom.us/rec/play/aheZnC3Rn6Ayzl-Amhrske4-AKVruY19yi6CTBMcliSWTO03h3IwKHRqPiFulQNz7e8W4NErETPGpfKy.x5yRWNIDGU8-9wMz)
+- Video: [Zoom Q&A Webinar - Chiefs and Assistant Chiefs (Fri Jun 4)](https://us02web.zoom.us/rec/share/HKKTQATailahaZ43OlgXsSw494RiP9fVIpzW41f1SkG8x-6FfQLF9V3eXbdRt1Om.IgawQ2WKlW1GlXld)
 
 ---
 
