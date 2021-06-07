@@ -19,7 +19,7 @@ Thank you to all of you who submitted questions for our Zoom webinars. If it's h
 
 2. **What should I do if a voter brings their absentee ballot to the precinct?**
     - DROP-OFF BOX: The voter may deposit their completed absentee ballot envelope in the drop-off box.
-    - RETURN BY MAIL **:** The voter may choose to mail their ballot on election day. Absentee ballots postmarked by election day and received in our office by 12:00 PM on the third day after the election (Friday) may be counted.
+    - RETURN BY MAIL: The voter may choose to mail their ballot on election day. Absentee ballots postmarked by election day and received in our office by 12:00 PM on the third day after the election (Friday) may be counted.
     - VOTE IN-PERSON: As in past elections, the voter may choose to surrender their absentee ballot to the Chief and vote a new ballot in-person instead.
 
 3. **Do we check IDs of people dropping off absentee ballots in drop-off boxes?**
@@ -60,7 +60,6 @@ Thank you to all of you who submitted questions for our Zoom webinars. If it's h
 
 ## Voter Eligibility
 
-
 1. **Are only Democrats eligible to vote in this election?**
     - In Virginia, voters do not register by party. Any registered voter may vote in this primary.
     - Never ask a voter if they are a Democrat or Republican.
@@ -79,7 +78,6 @@ Thank you to all of you who submitted questions for our Zoom webinars. If it's h
 ---
 
 ## General Questions
-
 
 1. **What if the polling place has different requirements for face coverings that the general guidance from the Office of Elections?**
     - IMPORTANT: You must still adhere to face covering requirements set by your polling place (building). For example, FCPS facilities require all visitors to wear a face covering.
