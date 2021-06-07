@@ -81,6 +81,7 @@ title: Home
 - Video: [Zoom Q&A Webinar - Election Officers (Fri May 28)](https://us02web.zoom.us/rec/play/aheZnC3Rn6Ayzl-Amhrske4-AKVruY19yi6CTBMcliSWTO03h3IwKHRqPiFulQNz7e8W4NErETPGpfKy.x5yRWNIDGU8-9wMz)
 - Video: [Zoom Q&A Webinar - Chiefs and Assistant Chiefs (Fri Jun 4)](https://us02web.zoom.us/rec/share/HKKTQATailahaZ43OlgXsSw494RiP9fVIpzW41f1SkG8x-6FfQLF9V3eXbdRt1Om.IgawQ2WKlW1GlXld)
 - Link: [FAQs from Q&A Webinars]({{site.url}}{{site.baseurl}}/jun-2021/faqs)
+- Link: [Poll Pad Videos]({{site.url}}{{site.baseurl}}/jun-2021/videos)
 - PDF: [Action Plan for COVID-19](https://admin.vote4fairfax.com/Uploadfile/file/2021-06-covid-plan.pdf)
 - PDF: [Chiefs Notebook](https://admin.vote4fairfax.com/Uploadfile/file/2021-06-chiefs-notebook-final.pdf)
 - PDF: [Position Descriptions from Chiefs Notebook](https://admin.vote4fairfax.com/Uploadfile/file/2021-06-position-descriptions.pdf)
