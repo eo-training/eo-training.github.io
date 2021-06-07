@@ -17,21 +17,21 @@ Thank you to all of you who submitted questions for our Zoom webinars. If it's h
     - There are 16 early voting locations around the county! The last day to vote early is Saturday, June 5.
     - Visit our website for exact locations, dates, and hours.
 
-1. **What should I do if a voter brings their absentee ballot to the precinct?**
+2. **What should I do if a voter brings their absentee ballot to the precinct?**
     - DROP-OFF BOX: The voter may deposit their completed absentee ballot envelope in the drop-off box.
     - RETURN BY MAIL **:** The voter may choose to mail their ballot on election day. Absentee ballots postmarked by election day and received in our office by 12:00 PM on the third day after the election (Friday) may be counted.
     - VOTE IN-PERSON: As in past elections, the voter may choose to surrender their absentee ballot to the Chief and vote a new ballot in-person instead.
 
-1. **Do we check IDs of people dropping off absentee ballots in drop-off boxes?**
+3. **Do we check IDs of people dropping off absentee ballots in drop-off boxes?**
     - Voters are not required to provide identification or identify themselves when they place a voted absentee ballot envelope in the drop-off box.
 
-1. **Can someone deposit a ballot for a spouse, family member, or friend?**
+4. **Can someone deposit a ballot for a spouse, family member, or friend?**
     - Voters are permitted to place more than one voted absentee ballot in the drop-off box.
 
-1. **Can a voter use any drop-off box?**
+5. **Can a voter use any drop-off box?**
     - Any Fairfax County voter can use a drop-off box at any polling place in the County.
 
-1. **Do co-located precincts each need to set out a drop-off box?**
+6. **Do co-located precincts each need to set out a drop-off box?**
     - Each precinct must set up and monitor a drop-off box. Polling places with co-located precincts will have two drop-off boxes.   
 
 ---
@@ -47,7 +47,7 @@ Thank you to all of you who submitted questions for our Zoom webinars. If it's h
     - NEW: These officers will also take custody of a Purple Pouch containing 4 USB flash drives from the two DS200 scanners.
     - These officers will drive the absentee ballot envelopes and the Purple Pouch to the Fairfax County Government Center, then go home. More detailed instructions will be provided before election day.
 
-1. **What should Absentee Ballot Collectors do if there are no absentee ballot envelopes in the drop-off box? **
+1. **What should Absentee Ballot Collectors do if there are no absentee ballot envelopes in the drop-off box?**
     - These officers should still leave the voting room, disassemble the drop-off box, prepare the manila envelope with labels showing zero ballots inside, and complete the transfer form.
     - These officers should drive the transfer form, the large manila envelope, and the purple pouch with the DS200 media as soon as possible to the Fairfax County Government Center.
 
@@ -126,7 +126,6 @@ Thank you to all of you who submitted questions for our Zoom webinars. If it's h
 ---
 
 ## Chief Questions
-
 
 1. **How many DS200 and ExpressVote machines should we set up?**
     - As indicated in the Chiefs Notebook, you must set up at least one DS200 scanner, one ExpressVote, and three to six Poll Pads.
