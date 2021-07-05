@@ -12,7 +12,7 @@ In each election, some officers are eligible for mileage reimbursement:
 
 All election officers are hired as stipend-only county employees and are therefore subject to all Fairfax County Government employee mileage reimbursement policies and procedures.
 
-For 2021, the county mileage reimbursement rate is $0.56 per mile.
+For 2021, the county mileage reimbursement rate is <span>$</span>0.56 per mile.
 
 ---
 
@@ -40,17 +40,17 @@ Specifically, for each day of travel, Fairfax County Government requires employe
 Here is an example for a **Chief** who picked up election materials and returned election materials:
 - PICKUP: 8 miles for picking up election materials (Home to pickup location to home = 14 miles, Home to polling place to home = 6 miles, Net travel = 8 miles)
 - RETURN: 12 miles for returning election materials (Home to polling place to return location to home = 18 miles, Home to polling place to home = 6 miles, Net travel = 12 miles)
-- TOTAL: 20 miles eligible for reimbursement at $0.56/mile = $11.20 total reimbursement
+- TOTAL: 20 miles eligible for reimbursement at <span>$</span>0.56/mile = <span>$</span>11.20 total reimbursement
 
 Here is an example for an **Assistant Chief** who picked up election materials:
 - PICKUP: 8 miles for picking up election materials (Home to pickup location to home = 14 miles, Home to polling place to home = 6 miles, Net travel = 8 miles)
 - RETURN: n/a
-- TOTAL: 8 miles eligible for reimbursement at $0.56/mile = $4.48 total reimbursement
+- TOTAL: 8 miles eligible for reimbursement at <span>$</span>0.56/mile = <span>$</span>4.48 total reimbursement
 
 Here is an example for an **Absentee Ballot Collector** who only returned election materials:
 - PICKUP: n/a
 - RETURN: 12 miles for returning election materials (Home to polling place to return location to home = 18 miles, Home to polling place to home = 6 miles, Net travel = 12 miles)
-- TOTAL: 12 miles eligible for reimbursement at $0.56/mile = $6.72 total reimbursement
+- TOTAL: 12 miles eligible for reimbursement at <span>$</span>0.56/mile = <span>$</span>6.72 total reimbursement
 
 ---
 
