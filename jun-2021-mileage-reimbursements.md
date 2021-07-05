@@ -23,26 +23,26 @@ After consultation with the Department of Finance, the Office of Elections had t
 Specifically, for each day of travel, Fairfax County Government requires employees (including all election officers) to deduct the mileage you would travel to the location where you spend more than 50% of your time. For all election officers, this is your assigned polling place.
 
 **If you picked up election materials before election day, we calculated your mileage reimbursement as:**
-- LEG 1: Home to pickup location (i.e. Fairfax County Government Center or Sherwood Regional Library)
-- LEG 2: Pickup location to home
-- MINUS home to polling place to home
+- <span style="color:darkGreen;">LEG 1: Home to pickup location (i.e. Fairfax County Government Center or Sherwood Regional Library)</span>
+- <span style="color:darkGreen;">LEG 2: Pickup location to home</span>
+- <span style="color:darkRed;">MINUS home to polling place to home</span>
 
 **If you returned election materials on election night, we calculated your mileage reimbursement as:**
-- LEG 1: Home to polling place
-- LEG 2: Polling place to return location (i.e. Fairfax County Government Center or Mount Vernon Government Center)
-- LEG 3: Return location to home
-- MINUS home to polling place to home
+- <span style="color:darkGreen;">LEG 1: Home to polling place</span>
+- <span style="color:darkGreen;">LEG 2: Polling place to return location (i.e. Fairfax County Government Center or Mount Vernon Government Center)</span>
+- <span style="color:darkGreen;">LEG 3: Return location to home</span>
+- <span style="color:darkRed;">MINUS home to polling place to home</span>
 
 ---
 
 ## Examples
 
-Here is an example for a **Chief** who picked up election materials and returned election materials:
+Here is an example for a **Chief** who both picked up election materials and returned election materials:
 - PICKUP: 8 miles for picking up election materials (Home to pickup location to home = 14 miles, Home to polling place to home = 6 miles, Net travel = 8 miles)
 - RETURN: 12 miles for returning election materials (Home to polling place to return location to home = 18 miles, Home to polling place to home = 6 miles, Net travel = 12 miles)
 - TOTAL: 20 miles eligible for reimbursement at <span>$</span>0.56/mile = <span>$</span>11.20 total reimbursement
 
-Here is an example for an **Assistant Chief** who picked up election materials:
+Here is an example for an **Assistant Chief** who only picked up election materials:
 - PICKUP: 8 miles for picking up election materials (Home to pickup location to home = 14 miles, Home to polling place to home = 6 miles, Net travel = 8 miles)
 - RETURN: n/a
 - TOTAL: 8 miles eligible for reimbursement at <span>$</span>0.56/mile = <span>$</span>4.48 total reimbursement
