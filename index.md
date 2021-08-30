@@ -18,51 +18,68 @@ title: Home
 
 <h2>Election Officer classes for the Nov 2021 election</h2>
 
-Election officer classes for the **November 2, 2021 General and Special Elections** will be published on a rolling basis from mid-September to mid-October.
 
 <div class="cards">
 
     <div class="card">
-    <a href="{{ site.url }}{{ site.baseurl }}/nov-2021/eo-basics/">
+    <a href="{{ site.url }}{{ site.baseurl }}/coming-soon/">
       <div class="card-image-container">
         <div class="card-image" style="background-image: url('{{ site.url }}{{ site.baseurl }}/assets/img/new-eos.png')"></div>
       </div>
       <div class="card-text">
         <p>Election Officer Basics</p>
-        <p class="card-coming-soon" style="color:orange;">Coming Sep 18!</p>
+        <p class="card-coming-soon" style="color:darkOrange;">Coming Sep 18!</p>
       </div>
     </a>
     </div>
 
 
     <div class="card">
-    <a href="{{ site.url }}{{ site.baseurl }}/nov-2021/chief-basics/">
+    <a href="{{ site.url }}{{ site.baseurl }}/coming-soon/">
       <div class="card-image-container">
         <div class="card-image" style="background-image: url('{{ site.url }}{{ site.baseurl }}/assets/img/what-ifs.png')"></div>
       </div>
       <div class="card-text">
         <p>Chief and Assistant Chief Basics</p>
-        <p class="card-coming-soon" style="color:orange;">Coming Sep 25!</p>
+        <p class="card-coming-soon" style="color:darkOrange;">Coming Sep 25!</p>
       </div>
     </a>
     </div>
 
 
     <div class="card">
-    <a href="{{ site.url }}{{ site.baseurl }}/nov-2021/chiefs-briefing/">
+    <a href="{{ site.url }}{{ site.baseurl }}/coming-soon/">
       <div class="card-image-container">
         <div class="card-image" style="background-image: url('{{ site.url }}{{ site.baseurl }}/assets/img/chiefs-briefing-small.jpg')"></div>
       </div>
       <div class="card-text">
         <p>Chiefs Briefing</p>
-        <p class="card-coming-soon" style="color:orange;">Coming Oct 25!</p>
+        <p class="card-coming-soon" style="color:darkOrange;">Coming Oct 25!</p>
       </div>
     </a>
     </div>
 
 </div>
 
+---
 
+<h2>High School Page classes for the November 2021 election</h2>
+
+<div class="cards">
+
+    <div class="card">
+    <a href="{{ site.url }}{{ site.baseurl }}/coming-soon/">
+      <div class="card-image-container">
+        <div class="card-image" style="background-image: url('{{ site.url }}{{ site.baseurl }}/assets/img/high-school-pages-small.jpg')"></div>
+      </div>
+      <div class="card-text">
+        <p>High School Page</p>
+        <p class="card-coming-soon" style="color:darkOrange;">Coming Sep 10!</p>
+      </div>
+    </a>
+    </div>
+
+</div>
 
 ---
 
