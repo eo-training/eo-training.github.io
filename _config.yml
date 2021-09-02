@@ -48,11 +48,11 @@ collections:
     title: "Chiefs Briefing"
     permalink: /nov-2021/chiefs-briefing/:path
     url: /nov-2021/chiefs-briefing
-  # ppe-specialist:
-  #   output: true
-  #   title: "PPE Specialist Training"
-  #   permalink: /nov-2021/ppe-specialist/:path
-  #   url: /nov-2021/ppe-specialist
+  hs-page:
+    output: true
+    title: "High School Page Training"
+    permalink: /nov-2021/hs-page/:path
+    url: /nov-2021/hs-page
   cap-ballot-check-in:
     output: true
     title: "CAP Returned Ballot Check-In Training"
