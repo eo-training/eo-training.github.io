@@ -3,6 +3,10 @@ layout: home
 title: CAP Classes
 ---
 
+<h2>Central Absentee Precinct classes for the November 2021 election</h2>
+
+Coming soon!
+
 <h2>Central Absentee Precinct classes for the June 2021 election</h2>
 
 <div class="cards">
