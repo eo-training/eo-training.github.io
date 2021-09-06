@@ -1,0 +1,124 @@
+---
+layout: default
+---
+
+<div class="slides-nav">
+	<div>
+		{% if page.previous.url %}
+		<a href="{{page.previous.url | relative_url }}">&laquo;&nbsp;{{page.previous.slug}}</a>
+		{% endif %}
+	</div>
+	<div>
+		<a href="../toc">Table of Contents</a>
+	</div>
+	<div class="slides-nav-next">
+		{% if page.next.url %}
+		<a href="{{page.next.url | relative_url }}">{{page.next.slug}}&nbsp;&raquo;</a>
+		{% endif %}
+	</div>
+</div>
+
+
+<h1>
+	{{ page.title }}
+</h1>
+
+<div>
+	{{ content }}
+</div>
+
+<div style="border: 0px solid black; background: #eeec; border-radius: 10px; padding: 1em;">
+	{% if page.question1 %}
+		
+	<p><strong>{{ page.question1 }}</strong></p>
+		
+		<ol type="A">
+			
+			{% if page.option1A %}
+			<input type="radio" name="type" onclick="document.getElementById('reveal-1A').style.display='block';" value="option1A">option1A
+			<div style="min-height: 2em">
+			{% if page.solution1 == "A" %}
+			<span id="reveal-1A" style="display:none; color: darkgreen;">Yes, that's right!</span>
+			{% else %}
+			<span id="reveal-1A" style="display:none; color: rgba(255, 0, 0, 0.666);">No, try again.</span>
+			{% endif %}
+			</div>
+			{% endif %}
+
+			{% if page.option1B %}
+			<input type="radio" name="type" onclick="document.getElementById('reveal-1B').style.display='block';" value="option1B">option1B
+			<div style="min-height: 2em">
+			{% if page.solution1 == "B" %}
+			<span id="reveal-1B" style="display:none; color: darkgreen;">Yes, that's right!</span>
+			{% else %}
+			<span id="reveal-1B" style="display:none; color: rgba(255, 0, 0, 0.666);">No, try again.</span>
+			{% endif %}
+			</div>
+			{% endif %}
+
+			{% if page.option1C %}
+			<input type="radio" name="type" onclick="document.getElementById('reveal-1C').style.display='block';" value="option1C">option1C
+			<div style="min-height: 2em">
+			{% if page.solution1 == "C" %}
+			<span id="reveal-1C" style="display:none; color: darkgreen;">Yes, that's right!</span>
+			{% else %}
+			<span id="reveal-1C" style="display:none; color: rgba(255, 0, 0, 0.666);">No, try again.</span>
+			{% endif %}
+			</div>
+			{% endif %}
+
+			{% if page.option1D %}
+			<input type="radio" name="type" onclick="document.getElementById('reveal-1D').style.display='block';" value="option1D">option1D
+			<div style="min-height: 2em">
+			{% if page.solution1 == "D" %}
+			<span id="reveal-1D" style="display:none; color: darkgreen;">Yes, that's right!</span>
+			{% else %}
+			<span id="reveal-1D" style="display:none; color: rgba(255, 0, 0, 0.666);">No, try again.</span>
+			{% endif %}
+			</div>
+			{% endif %}
+
+			{% if page.option1E %}
+			<input type="radio" name="type" onclick="document.getElementById('reveal-1E').style.display='block';" value="option1E">option1E
+			<div style="min-height: 2em">
+			{% if page.solution1 == "E" %}
+			<span id="reveal-1E" style="display:none; color: darkgreen;">Yes, that's right!</span>
+			{% else %}
+			<span id="reveal-1E" style="display:none; color: rgba(255, 0, 0, 0.666);">No, try again.</span>
+			{% endif %}
+			</div>
+			{% endif %}
+
+		</ol>
+
+		<div style="display:none;">
+		{% if page.solution1 %}
+		<p><strong>MORE INFO: (will be revealed upon selecting correct answer)</strong></p>
+		<p style="border: 1px solid black; background: lightgray; filter:blur(10px); user-select: none;">
+		This is a test answer.
+		</p>
+		{% endif %}
+		</div>
+
+	{% endif %}
+</div>
+
+{% if page.next.url %}
+		<a href="{{page.next.url | relative_url }}">
+			<div style="display:inline-block;background: #333;color: white;border: 1px solid #000;padding: 1em;margin-top: 2em;box-shadow: 5px 5px 10px gray;border-radius: 0.3em;font-size: larger;font-weight: bold;">Go to next page &nbsp;&raquo;
+			</div>
+		</a>
+{% endif %}
+
+
+<script>
+
+	$(function() {
+			$('input[name="type"]').on('click', function() {
+				if ($(this).val() == 'option1A') {
+					$('#reveal-1A').show();
+				}
+			});
+	});
+
+</script>
