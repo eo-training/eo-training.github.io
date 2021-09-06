@@ -11,10 +11,14 @@ layout: page
 
 <ul>
 {% for item in class.docs %}
-{% if item.slug contains '0' %}
-  <li>
-      {{ item.slug }}. {{ item.section }}: <a href="{{ item.url | relative_url }}">{{ item.title }}</a>
-  </li>
+{% if item.slug contains '0' or item.slug contains '1' %}
+  {% if item.section and item.section != "" and item.section != nil %}
+  <li>{{ item.slug }}. {{ item.section }}: <a href="{{ item.url | relative_url }}">{{ item.title }}</a></li>
+  {% elsif item.title and item.title != "" and item.title != nil %}
+  <li>{{ item.slug }}. <a href="{{ item.url | relative_url }}">{{ item.title }}</a></li>
+  {% else %}
+  <li>{{ item.slug }}. <a href="{{ item.url | relative_url }}">Page {{ item.slug }}</a></li>
+  {% endif %}
 {% endif %}  
 {% endfor %}
 </ul>

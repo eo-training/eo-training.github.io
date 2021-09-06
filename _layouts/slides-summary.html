@@ -10,7 +10,7 @@ layout: page
 {% if class.label == page.collection %}
 
 {% for item in class.docs %}
-{% if item.slug contains '0' %}
+{% if item.slug contains '0' or item.slug contains '1' %}
 
   <div class="slide-summary">
 
@@ -20,7 +20,7 @@ layout: page
             <img src="{{ site.url }}{{ site.baseurl }}{{ class.url }}/images/{{ item.slug }}.png">
         </a>
         {% endif %}
-        {% if item.layout == "slide-video" %}        
+        {% if item.layout == "slide-video" %}
         <div style="position: relative; height: 0; padding-bottom: 75%; width: 100%; border-radius:10px; margin:0 auto; display:block; box-shadow: 0 0 10px 5px rgba(0,0,0,.35);">
 
             <iframe id="embedVideo" style="position: absolute; top:0; left: 0; width: 100%; height: 100%;" src="https://www.youtube.com/embed/{{ item.videoID }}" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
@@ -30,7 +30,15 @@ layout: page
     </div>
     <div class="slide-notes">
         
-        <p><strong>{{ item.slug }}. {{ item.section }}: {{ item.title }}</strong></p>
+        {% if item.section and item.section != "" and item.section != nil %}
+        <p><strong>{{ item.slug }}. {{ item.section }}: <a href="{{ item.url | relative_url }}">{{ item.title }}</a></strong></p>
+        {% elsif item.title and item.title != "" and item.title != nil %}
+        <p><strong>{{ item.slug }}. <a href="{{ item.url | relative_url }}">{{ item.title }}</a></strong></p>
+        {% else %}
+        <p><strong>{{ item.slug }}. <a href="{{ item.url | relative_url }}">Page {{ item.slug }}</a></strong></p>
+        {% endif %}
+
+        <!-- <p><strong>{{ item.slug }}. {{ item.section }}: {{ item.title }}</strong></p> -->
 
         {{ item.content | markdownify }}
 
