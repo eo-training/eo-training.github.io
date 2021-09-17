@@ -28,7 +28,7 @@ title: Home
       </div>
       <div class="card-text">
         <p>Election Officer Basics</p>
-        <p class="card-coming-soon" style="color:darkOrange;">Coming Sep 18!</p>
+        <p class="card-coming-soon" style="color:darkOrange;">Coming Sep 25!</p>
       </div>
     </a>
     </div>
@@ -54,7 +54,7 @@ title: Home
       </div>
       <div class="card-text">
         <p>Chiefs Briefing</p>
-        <p class="card-coming-soon" style="color:darkOrange;">Coming Oct 25!</p>
+        <p class="card-coming-soon" style="color:darkOrange;">Coming Oct 27!</p>
       </div>
     </a>
     </div>
@@ -68,13 +68,13 @@ title: Home
 <div class="cards">
 
     <div class="card">
-    <a href="{{ site.url }}{{ site.baseurl }}/coming-soon">
+    <a href="{{ site.url }}{{ site.baseurl }}/nov-2021/hs-page">
       <div class="card-image-container">
         <div class="card-image" style="background-image: url('{{ site.url }}{{ site.baseurl }}/assets/img/high-school-pages-small.jpg')"></div>
       </div>
       <div class="card-text">
         <p>High School Page</p>
-        <p class="card-coming-soon" style="color:darkOrange;">Coming Sep 10!</p>
+        <p class="card-coming-soon" style="color:green;">Now available!</p>
       </div>
     </a>
     </div>
