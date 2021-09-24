@@ -6,5 +6,5 @@ layout: slide-video
 slug: "020"
 ---
 
-DS200 opening procedures
+This video will show you how to open and set up the DS200 digital scanners.
 

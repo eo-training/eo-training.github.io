@@ -6,5 +6,5 @@ layout: slide-video
 slug: "062"
 ---
 
-DS200 closing procedures video here.
+This video will show you how to close the DS200 digital scanners.
 
