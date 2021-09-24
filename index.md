@@ -22,7 +22,7 @@ title: Home
 <div class="cards">
 
     <div class="card">
-    <a href="{{ site.url }}{{ site.baseurl }}/coming-soon">
+    <a href="{{ site.url }}{{ site.baseurl }}/nov-2021/eo-basics">
       <div class="card-image-container">
         <div class="card-image" style="background-image: url('{{ site.url }}{{ site.baseurl }}/assets/img/new-eos.png')"></div>
       </div>
@@ -35,7 +35,7 @@ title: Home
 
 
     <div class="card">
-    <a href="{{ site.url }}{{ site.baseurl }}/coming-soon">
+    <a href="{{ site.url }}{{ site.baseurl }}/nov-2021/chief-basics">
       <div class="card-image-container">
         <div class="card-image" style="background-image: url('{{ site.url }}{{ site.baseurl }}/assets/img/what-ifs.png')"></div>
       </div>
