@@ -7,5 +7,4 @@ videoID: "9V_sNGAf8UE"
 slug: "017"
 ---
 
-Poll Pad assembly video
-
+This video will show you how to set up the Poll Pads.

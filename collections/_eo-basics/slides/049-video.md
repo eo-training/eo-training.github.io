@@ -6,5 +6,5 @@ layout: slide-video
 slug: "049"
 ---
 
-ExpressVote video here.
+This video will show you how to use the ExpressVote.
 

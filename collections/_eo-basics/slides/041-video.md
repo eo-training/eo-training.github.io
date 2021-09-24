@@ -7,5 +7,5 @@ videoID: "tUPArvp3OG4"
 slug: "041"
 ---
 
-Poll Pad check-in video here.
+This video will show you how to check in voters on the Poll Pad.
 
