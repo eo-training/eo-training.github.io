@@ -35,7 +35,7 @@ layout: default
 		<ol type="A">
 			
 			{% if page.option1A %}
-			<input type="radio" name="type" onclick="document.getElementById('reveal-1A').style.display='block';" value="option1A">option1A
+			<input type="radio" name="type" onclick="document.getElementById('reveal-1A').style.display='block';" value="option1A"> A — {{ page.option1A }}
 			<div style="min-height: 2em">
 			{% if page.solution1 == "A" %}
 			<span id="reveal-1A" style="display:none; color: darkgreen;">Yes, that's right!</span>
@@ -46,7 +46,7 @@ layout: default
 			{% endif %}
 
 			{% if page.option1B %}
-			<input type="radio" name="type" onclick="document.getElementById('reveal-1B').style.display='block';" value="option1B">option1B
+			<input type="radio" name="type" onclick="document.getElementById('reveal-1B').style.display='block';" value="option1B"> B — {{ page.option1B }}
 			<div style="min-height: 2em">
 			{% if page.solution1 == "B" %}
 			<span id="reveal-1B" style="display:none; color: darkgreen;">Yes, that's right!</span>
@@ -57,7 +57,7 @@ layout: default
 			{% endif %}
 
 			{% if page.option1C %}
-			<input type="radio" name="type" onclick="document.getElementById('reveal-1C').style.display='block';" value="option1C">option1C
+			<input type="radio" name="type" onclick="document.getElementById('reveal-1C').style.display='block';" value="option1C"> C — {{ page.option1C }}
 			<div style="min-height: 2em">
 			{% if page.solution1 == "C" %}
 			<span id="reveal-1C" style="display:none; color: darkgreen;">Yes, that's right!</span>
@@ -68,7 +68,7 @@ layout: default
 			{% endif %}
 
 			{% if page.option1D %}
-			<input type="radio" name="type" onclick="document.getElementById('reveal-1D').style.display='block';" value="option1D">option1D
+			<input type="radio" name="type" onclick="document.getElementById('reveal-1D').style.display='block';" value="option1D"> D — {{ page.option1D }}
 			<div style="min-height: 2em">
 			{% if page.solution1 == "D" %}
 			<span id="reveal-1D" style="display:none; color: darkgreen;">Yes, that's right!</span>
@@ -79,7 +79,7 @@ layout: default
 			{% endif %}
 
 			{% if page.option1E %}
-			<input type="radio" name="type" onclick="document.getElementById('reveal-1E').style.display='block';" value="option1E">option1E
+			<input type="radio" name="type" onclick="document.getElementById('reveal-1E').style.display='block';" value="option1E"> E — {{ page.option1E }}
 			<div style="min-height: 2em">
 			{% if page.solution1 == "E" %}
 			<span id="reveal-1E" style="display:none; color: darkgreen;">Yes, that's right!</span>

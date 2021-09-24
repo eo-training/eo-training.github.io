@@ -15,7 +15,7 @@ layout: page
   <div class="slide-summary">
 
       <div class="slide-image">
-        {% if item.layout == "slide" %}
+        {% if item.layout == "slide" or item.layout == "question" %}
         <a href="{{ item.url | relative_url }}">
             <img src="{{ site.url }}{{ site.baseurl }}{{ class.url }}/images/{{ item.slug }}.png">
         </a>
