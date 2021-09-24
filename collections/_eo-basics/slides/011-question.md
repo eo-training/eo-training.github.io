@@ -11,6 +11,7 @@ option1B: "Assist voters and refer any issues to the Chief."
 option1C: "Work with your team to close down the polling place once polls have closed."
 option1D: "Sign required forms."
 option1E: "All of the above."
+slug: "011"
 ---
 
 Time for a knowledge check!
