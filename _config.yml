@@ -88,3 +88,6 @@ permalink:           /:short_year/:month/:title
 timezone: America/New_York
 
 ### Current domain: training.electionofficers.com
+
+plugins:
+  - jekyll-redirect-from
