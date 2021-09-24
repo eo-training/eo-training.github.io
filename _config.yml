@@ -89,5 +89,5 @@ timezone: America/New_York
 
 ### Current domain: training.electionofficers.com
 
-plugins:
+gems:
   - jekyll-redirect-from
