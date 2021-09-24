@@ -28,7 +28,7 @@ title: Home
       </div>
       <div class="card-text">
         <p>Election Officer Basics</p>
-        <p class="card-coming-soon" style="color:darkOrange;">Coming Sep 25!</p>
+        <p class="card-coming-soon" style="color:green;">Now available!</p>
       </div>
     </a>
     </div>
@@ -41,7 +41,7 @@ title: Home
       </div>
       <div class="card-text">
         <p>Chief and Assistant Chief Basics</p>
-        <p class="card-coming-soon" style="color:darkOrange;">Coming Sep 25!</p>
+        <p class="card-coming-soon" style="color:green;">Now available!</p>
       </div>
     </a>
     </div>
