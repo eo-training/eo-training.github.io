@@ -10,16 +10,8 @@ option1A: "It should be left blank."
 option1B: "Only the Chief."
 option1C: "Only the voter."
 option1D: "Both the Chief and the voter."
+slug: "045"
 ---
 
-knowledge check
-
-Who should complete the outside of the provisional envelope?
-
-- It should be left blank.
-- Only the Chief.
-- Only the voter.
-- Both the Chief and the voter.
-
-Answer: Both the Chief and the voter should complete the provisional envelope. Make sure that all required fields are complete and that both you and the voter sign the envelope.
+Time for a knowledge check!
 

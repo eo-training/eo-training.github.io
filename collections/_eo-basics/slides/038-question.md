@@ -10,7 +10,10 @@ option1A: "License that expires in 2025"
 option1B: "License that expires in 2016"
 option1C: "Both"
 option1D: "Neither"
+slug: "038"
 ---
 
 Time for a knowledge check!
+
+<img src="{{ site.url }}{{ site.baseurl }}/assets/img/sample-drivers.png" alt="Sample driver's licenses - one expired and one current">
 
