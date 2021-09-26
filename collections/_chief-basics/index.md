@@ -9,7 +9,7 @@ title: "Chief & Assistant Chief Basics Training"
 
 # Welcome to the **Chief & Assistant Chief Basics** online training class!
 
-It will take approximately **2 hours** to view this training class. You can pause anytime.
+It will take approximately **1 hour** to view this training class. You can pause anytime.
 
 Audio narration plays automatically for each slide. At the end of each narration, you will advance to the next slide automatically.
 
