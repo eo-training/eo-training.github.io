@@ -53,7 +53,7 @@ collections:
     title: "High School Page Training"
     permalink: /nov-2021/hs-page/:path
     url: /nov-2021/hs-page
-  cap-ballot-check-in:
+  cap-mailer-check-in:
     output: true
     title: "CAP Mailer Check-In Training"
     permalink: /nov-2021/cap-mailer-check-in/:path
