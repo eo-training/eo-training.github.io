@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Poll Pad videos for the November 2021 General Election"
-permalink: /nov-2021/videos
+permalink: /nov-2021/videos/
 ---
 
 Before the June 2021 Primary Election, the Poll Pads were updated with new software. Everything may look a little different, but most buttons and functions are generally in the same place!

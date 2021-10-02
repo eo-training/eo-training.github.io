@@ -93,14 +93,17 @@ title: Home
 
 ## Supplemental materials for the November 2021 election
 
-* Link: [Frequently asked questions from OPU classes]({{site.url}}{{site.baseurl}}/nov-2021/faqs)
-* Link: [Poll Pad videos]({{site.url}}{{site.baseurl}}/nov-2021/videos)
-* PDF: Chiefs Notebook *(coming soon!)*
-* PDF: What-Ifs from Chiefs Notebook *(coming soon!)*
-* PDF: Election Officer Function Descriptions from Chiefs Notebook *(coming soon!)*
-* PDF: Opening/Closing Guide for Poll Pads *(coming soon!)*
-* PDF: Opening/Closing Guide for ExpressVote *(coming soon!)*
-* PDF: Opening/Closing Guide for DS200 Scanners *(coming soon!)*
+* **Helpful information**
+  - Link: [Frequently asked questions from OPU classes]({{site.url}}{{site.baseurl}}/nov-2021/faqs)
+  - Link: [Poll Pad videos]({{site.url}}{{site.baseurl}}/nov-2021/videos)
+* **Chiefs Notebook**
+  - PDF: Full Chiefs Notebook *(coming soon!)*
+  - PDF: What-Ifs *(coming soon!)*
+  - PDF: Election Officer Function Descriptions *(coming soon!)*
+* **One-page Equipment Opening/Closing Guides**
+  - PDF: Opening/Closing Guide for Poll Pads *(coming soon!)*
+  - PDF: Opening/Closing Guide for ExpressVote *(coming soon!)*
+  - PDF: Opening/Closing Guide for DS200 Scanners *(coming soon!)*
 
 ---
 

@@ -61,7 +61,7 @@ collections:
 
 
 # Permalinks
-permalink:           /:short_year/:month/:title
+permalink:           /:short_year/:month/:title/
 # baseurl: /
 
 # Fix date/time generation

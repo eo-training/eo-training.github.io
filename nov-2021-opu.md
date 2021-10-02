@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Operational and Procedural Updates (Nov 2021)"
-permalink: /nov-2021/opu
+permalink: /nov-2021/opu/
 ---
 
 To serve this election, all election officers are <u>required</u> to watch a Zoom class covering **Operational and Procedural Updates** for the November 2021 General and Special Elections.
