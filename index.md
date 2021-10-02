@@ -14,14 +14,14 @@ title: Home
     border-radius: 1px;
     border: 1px solid black;
     margin-bottom: 3em;
-"><strong>Fairfax County Election Officer Training</strong>: If you have any questions, you can <a href="mailto:ElectionOfficerTraining@fairfaxcounty.gov">email us</a> or call 703-324-4735. Thank you!</p>
+"><strong>Fairfax County Election Officer Training</strong>: If you have any questions or need help, feel free to contact us. Email <a href="mailto:ElectionOfficerTraining@fairfaxcounty.gov">ElectionOfficerTraining@fairfaxcounty.gov</a> or call 703-324-4735 (weekdays 8:00 AM to 4:30 PM). Thank you!</p>
 
-<h2>Election Officer classes for the Nov 2021 election</h2>
 
+## Election Officer classes for the Nov 2021 election
 
 <div class="cards">
 
-    <div class="card">
+  <div class="card">
     <a href="{{ site.url }}{{ site.baseurl }}/nov-2021/eo-basics">
       <div class="card-image-container">
         <div class="card-image" style="background-image: url('{{ site.url }}{{ site.baseurl }}/assets/img/new-eos.png')"></div>
@@ -31,43 +31,23 @@ title: Home
         <p class="card-coming-soon" style="color:green;">Now available!</p>
       </div>
     </a>
-    </div>
+  </div>
 
 
-    <div class="card">
-    <a href="{{ site.url }}{{ site.baseurl }}/nov-2021/chief-basics">
+  <div class="card">
+    <a href="{{ site.url }}{{ site.baseurl }}/nov-2021/opu">
       <div class="card-image-container">
-        <div class="card-image" style="background-image: url('{{ site.url }}{{ site.baseurl }}/assets/img/what-ifs.png')"></div>
+        <div class="card-image" style="background-image: url('{{ site.url }}{{ site.baseurl }}/assets/img/2021-11-opu.png')"></div>
       </div>
       <div class="card-text">
-        <p>Chief and Assistant Chief Basics</p>
+        <p>Operational and Procedural Updates</p>
         <p class="card-coming-soon" style="color:green;">Now available!</p>
       </div>
     </a>
-    </div>
+  </div>
 
 
-    <div class="card">
-    <a href="{{ site.url }}{{ site.baseurl }}/coming-soon">
-      <div class="card-image-container">
-        <div class="card-image" style="background-image: url('{{ site.url }}{{ site.baseurl }}/assets/img/chiefs-briefing-small.jpg')"></div>
-      </div>
-      <div class="card-text">
-        <p>Chiefs Briefing</p>
-        <p class="card-coming-soon" style="color:darkOrange;">Coming Oct 27!</p>
-      </div>
-    </a>
-    </div>
-
-</div>
-
----
-
-<h2>High School Page classes for the November 2021 election</h2>
-
-<div class="cards">
-
-    <div class="card">
+  <div class="card">
     <a href="{{ site.url }}{{ site.baseurl }}/nov-2021/hs-page">
       <div class="card-image-container">
         <div class="card-image" style="background-image: url('{{ site.url }}{{ site.baseurl }}/assets/img/high-school-pages-small.jpg')"></div>
@@ -77,13 +57,54 @@ title: Home
         <p class="card-coming-soon" style="color:green;">Now available!</p>
       </div>
     </a>
-    </div>
+  </div>
+
+
+  <div class="card">
+    <a href="{{ site.url }}{{ site.baseurl }}/nov-2021/chief-basics">
+      <div class="card-image-container">
+        <div class="card-image" style="background-image: url('{{ site.url }}{{ site.baseurl }}/assets/img/what-ifs.png')"></div>
+      </div>
+      <div class="card-text">
+        <p>Chief and Assistant Chief Basics</p>
+        <p class="card-coming-soon" style="color:green;">Now available!</p>
+      </div>
+    </a>
+  </div>
+
+
+  <div class="card">
+    <a href="{{ site.url }}{{ site.baseurl }}/coming-soon">
+      <div class="card-image-container">
+        <div class="card-image" style="background-image: url('{{ site.url }}{{ site.baseurl }}/assets/img/chiefs-briefing-small.jpg')"></div>
+      </div>
+      <div class="card-text">
+        <p>Chiefs Briefing</p>
+        <p class="card-coming-soon" style="color:darkOrange;">Coming Oct 27!</p>
+      </div>
+    </a>
+  </div>
 
 </div>
 
+<div></div>
+
 ---
 
-## Election officer classes for past elections
+## Supplemental materials for the November 2021 election
+
+* Link: [Frequently asked questions from OPU classes]({{site.url}}{{site.baseurl}}/nov-2021/faqs)
+* Link: [Poll Pad videos]({{site.url}}{{site.baseurl}}/nov-2021/videos)
+* PDF: Chiefs Notebook *(coming soon!)*
+* PDF: What-Ifs from Chiefs Notebook *(coming soon!)*
+* PDF: Election Officer Function Descriptions from Chiefs Notebook *(coming soon!)*
+* PDF: Opening/Closing Guide for Poll Pads *(coming soon!)*
+* PDF: Opening/Closing Guide for ExpressVote *(coming soon!)*
+* PDF: Opening/Closing Guide for DS200 Scanners *(coming soon!)*
+
+---
+
+## Classes for past elections
 
 These classes were made for past elections and may contain outdated information and references. However, we are keeping them online as a helpful reference.
 

@@ -165,8 +165,11 @@ body {
 
 .cards {
   display: flex;
-  justify-content: space-between; 
+  /*justify-content: space-between; */
+  justify-content: left;
   flex-wrap: wrap;
+  gap: 29px;
+  margin-bottom: 1em;
 }
 
 .card {
@@ -179,7 +182,7 @@ body {
   min-width: 20rem;
   max-width: 20rem;
   background: #eee;
-  margin-bottom: 2em;
+  /*margin-bottom: 2em;*/
   /*margin-right: 1em;*/
 }
 
