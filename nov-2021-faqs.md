@@ -134,7 +134,7 @@ Thank you to all of you who submitted questions during our Operational and Proce
 
 ---
 
-## Chief questions (provisional voters, Authorized Representatives, forms, etc)
+## Chief questions (provisional voters, Authorized Representatives, forms, etc.)
 
 10. **Can a voter who votes provisionally vote normally later in the day?**
     - Once someone has voted provisionally, they may not vote routinely later that day. A provisional vote counts as your one vote for the day.
@@ -155,3 +155,8 @@ Thank you to all of you who submitted questions during our Operational and Proce
     - On election day, the best practice is to have 2 officers go outside for curbside voting. If you cannot spare a second officer at certain times, you may send only one officer.
     - You can have another officer assume double duty while two officers are outside assisting curbside voters. For example, one officer could both issue ballots and direct voters to open voting booths. Or you could temporarily have a check-in officer issue ballots.
     - A High School Page may accompany the election officer(s) assisting curbside voters.
+    
+1. **When will the Chiefs Notebook be available?**
+    - We will send a PDF of the Chiefs Notebook to all Chiefs and Assistant Chiefs about 2 weeks before election day.
+    - We will also post a PDF of the Chiefs Notebook on the [homepage](https://training.electionofficers.com) of this training website.
+    - Chiefs will be able to pick up a physical copy of the Chiefs Notebook during your supply pickup timeslot the week before the election.

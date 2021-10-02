@@ -27,7 +27,7 @@ The main portion of the class is about 20 minutes. The remainder of the class is
 - **Curbside voting:** You may now take a Poll Pad outside to help curbside voters.
 - **Drop box:** One drop box per polling place building. May be positioned outside building or near voting room entrance. Should be monitored by greeter or other election officer at all times. After polls close, Collector Officers will count and secure absentee ballot envelopes, then immediately drive them (and the purple pouch containing USB flash drives from the DS200 scanners) to the Fairfax County Government Center.
 
-For a list of frequently asked questions and answers, visit the [FAQs]({{site.url}}{{site.baseurl}}/nov-2021/videos).
+For a list of frequently asked questions and answers, visit the [FAQs]({{site.url}}{{site.baseurl}}/nov-2021/faqs/).
 
 ---
 
@@ -45,7 +45,7 @@ If you need help accessing the quiz, contact us at ElectionOfficerTraining@fairf
 
 Excited about the updates this election, but wish you could practice with the voting equipment? Don't worry, that's why we are hosting Equipment Practice Session open houses before election day!
 
-We are hosting these events October 10 to October 14 at the Fairfax County Government Center, Mason Governmental Center, and McLean Governmental Center.
+We are hosting these events from Mon Oct 11 to Thu Oct 14 at the Fairfax County Government Center, Mason Governmental Center, and McLean Governmental Center.
 
 You must use the Election Officer Portal to sign up for a timeslot. Go to the Training tab, look on the right, and click on the <u>first</u> "Sign up for training" button. Click the checkbox next to your preferred timeslot, then scroll down and click on the "Enroll in selected class" button.
 
