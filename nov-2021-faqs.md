@@ -55,7 +55,7 @@ Thank you to all of you who submitted questions during our Operational and Proce
     - NEW: Per requirements from the Virginia Department of Elections, the two Collector Officers <u>must travel in the same car</u> from the polling place to the Fairfax County Government Center.
 
 3. **How will Collector Officers sign the Statement of Results (SOR) and other closing documents?**
-    - These officers will not sign any closing documents as they are not in the voting room during closing procedures!
+    - These officers will not sign any closing documents that other officers sign.
     - The only form Collector Officers should sign after 7:00 PM is the chain of custody form for recording how many absentee ballot envelopes they are transporting.
     - **TIP:** Before 7:00 PM, Collector Officers should double-check that they signed the Oath form and Compensation Sheet.
 
