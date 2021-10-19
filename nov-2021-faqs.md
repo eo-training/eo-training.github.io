@@ -64,7 +64,7 @@ Thank you to all of you who submitted questions during our Operational and Proce
 ## Poll Pad electronic poll books
 
 1. **How do the Poll Pads now communicate?**
-    - The Poll Pads now sync with a secured central election database so the elections officer can monitor activity remotely. This is the same way they already operate for 44 days of early voting; the only change is we have configured them to work in the same way on the 45th day.
+    - The Poll Pads now sync with a secured central election database so the elections office can monitor activity remotely. This is the same way they already operate for 44 days of early voting; the only change is we have configured them to work in the same way on the 45th day.
     - The Poll Pads have gone through rigorous testing and certification to be used in this way, including at the federal level (through the Elections Assistance Commission and its affiliated testing labs) and at the state level (through the Virginia Department of Elections and its certification process).
     - Many other states and jurisdictions already use the Poll Pads in this way without issue.
 
