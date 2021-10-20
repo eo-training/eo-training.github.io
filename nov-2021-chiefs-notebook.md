@@ -8,10 +8,12 @@ The Chiefs Notebook is a manual used by Chiefs and Assistant Chiefs on election 
 
 You may [download the notebook as a PDF]({{ site.url }}{{ site.baseurl }}/assets/docs/2021-11-chiefs-notebook-final.pdf).
 
-Alternatively, we have embedded the PDF below for quick viewing (note that this may not be supported in all browsers).
+Alternatively, we have embedded the PDF below for quick viewing (**note that this may not be supported in all browsers**).
 
 ---
 
 # November 2021 Chiefs Notebook
+
+*If the below embedded PDF does not appear or does not appear correctly, use the link above to download the PDF instead.*
 
 <embed src="{{ site.url }}{{ site.baseurl }}/assets/docs/2021-11-chiefs-notebook-final.pdf" type="application/pdf" width="100%" height="800px" />
