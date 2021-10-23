@@ -101,7 +101,7 @@ title: Home
   - PDF: [What-Ifs from Chiefs Notebook]({{site.url}}/{{site.baseurl}}/assets/docs/2021-11-what-ifs.pdf)
   - PDF: [Election Officer Function Descriptions from Chiefs Notebook]({{site.url}}/{{site.baseurl}}/assets/docs/2021-11-function-descriptions.pdf)
 * **One-page Equipment Opening/Closing Guides**
-  - PDF: Opening/CLosing Guide for Poll Pads *(Coming soon!)*
+  - PDF: Opening/Closing Guide for Poll Pads *(Coming soon!)*
   - PDF: [Opening/Closing Guide for ExpressVote]({{site.url}}/{{site.baseurl}}/assets/docs/2021-11-equipment-guide-expressvote.pdf)
   - PDF: [Opening/Closing Guide for DS200 Scanners]({{site.url}}/{{site.baseurl}}/assets/docs/2021-11-equipment-guide-ds200.pdf)
 
