@@ -74,13 +74,13 @@ title: Home
 
 
   <div class="card">
-    <a href="{{ site.url }}{{ site.baseurl }}/coming-soon">
+    <a href="{{ site.url }}{{ site.baseurl }}/nov-2021/chiefs-briefing/">
       <div class="card-image-container">
         <div class="card-image" style="background-image: url('{{ site.url }}{{ site.baseurl }}/assets/img/chiefs-briefing-small.jpg')"></div>
       </div>
       <div class="card-text">
         <p>Chiefs Briefing</p>
-        <p class="card-coming-soon" style="color:darkOrange;">Coming Oct 27!</p>
+        <p class="card-coming-soon" style="color:darkOrange;"></p>
       </div>
     </a>
   </div>

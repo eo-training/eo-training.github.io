@@ -43,11 +43,6 @@ collections:
     title: "Chief and Assistant Chief Basics"
     permalink: /nov-2021/chief-basics/:path
     url: /nov-2021/chief-basics
-  chiefs-briefing:
-    output: true
-    title: "Chiefs Briefing"
-    permalink: /nov-2021/chiefs-briefing/:path
-    url: /nov-2021/chiefs-briefing
   hs-page:
     output: true
     title: "High School Page Training"
