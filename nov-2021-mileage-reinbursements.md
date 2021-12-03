@@ -7,7 +7,7 @@ permalink: /nov-2021/mileage-reimbursements
 In each election, some officers are eligible for mileage reimbursement:
 
 - **Chiefs** are eligible for mileage reimbursement for picking up election materials before election day and returning election materials on election night.
-- **Absentee Ballot Collector** officers are eligible for mileage reimbursement for returning election materials on election night. Note that only the driver is eligible for mileage reimbursement.
+- **Collector Officers** are eligible for mileage reimbursement for returning election materials on election night. <u>Note that only the driver is eligible for mileage reimbursement.</u>
 
 All election officers are hired as stipend-only county employees and are therefore subject to all Fairfax County Government employee mileage reimbursement policies and procedures.
 
@@ -41,7 +41,7 @@ Here is an example for a **Chief** who both picked up election materials and ret
 - RETURN: 12 miles for returning election materials (Home to polling place to return location to home = 18 miles, Home to polling place to home = 6 miles, Net travel = 12 miles)
 - TOTAL: 20 miles eligible for reimbursement at <span>$</span>0.56/mile = <span>$</span>11.20 total reimbursement
 
-Here is an example for an **Absentee Ballot Collector** who only returned election materials:
+Here is an example for a **Collector Officer** who only returned election materials:
 - PICKUP: n/a
 - RETURN: 12 miles for returning election materials (Home to polling place to return location to home = 18 miles, Home to polling place to home = 6 miles, Net travel = 12 miles)
 - TOTAL: 12 miles eligible for reimbursement at <span>$</span>0.56/mile = <span>$</span>6.72 total reimbursement
