@@ -1,8 +1,9 @@
 ---
 layout: page
-title: "FAQs (Nov 2021)"
-permalink: /nov-2021/faqs/
+title: "Work Opportunities"
 ---
+
+Put information here
 
 Thank you to all of you who submitted questions during our Operational and Procedural Updates Zoom classes. If it's helpful, we have taken the most common questions (and their answers!) from those Zoom webinars and are providing them to you on one page here.
 

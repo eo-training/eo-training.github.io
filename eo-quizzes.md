@@ -1,10 +1,9 @@
 ---
 layout: page
-title: "eo-quizzes"
+title: "Review Quiz: Non-Routine Voters"
 permalink: /eo-quizzes
 ---
 
-**Review Quiz: Non-Routine Voters**
 
 Take this short interactive quiz to test your knowledge! 
 
