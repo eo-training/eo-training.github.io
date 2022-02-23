@@ -23,7 +23,7 @@ title: Home
    border-radius: 1px;
    border: 1px solid black;
    margin-bottom: 2em;
-"><strong>Important:</strong>: Updated training classes for the June 2022 election are not yet available.</p>
+"><strong>Important:</strong> Updated training classes for the June 2022 election are not yet available.</p>
 
 ## Election Officer classes for the Nov 2021 election
 
