@@ -7,9 +7,9 @@ Chiefs and Assistant Chiefs work hand-in-hand to manage one of our voting precin
 
 ### Compensation
 
-For each election, Chiefs are paid $250, Assistant Chiefs are paid $225, and regular officers are paid $175. Training is unpaid.
+For each election, Chiefs are paid <span>$</span>250, Assistant Chiefs are paid <span>$</span>225, and regular officers are paid <span>$</span>175.
 
-If you are asked to transport ballots or pollbooks (required of all Chiefs, but not Assistant Chiefs), you will also receive mileage reimbursement at $0.585 per mile.
+If you are asked to transport ballots or pollbooks (required of all Chiefs, but not Assistant Chiefs), you will also receive mileage reimbursement.
 
 ### Party Representation
 
@@ -19,21 +19,23 @@ In general elections, in accordance with the Code of Virginia and Electoral Boar
 
 In single-party primary elections, in accordance with the Code of Virginia and Electoral Board policy, the Chief and the Assistant Chief should represent the party conducting the party, if practicable.
 
-### Training   
+### Impartiality and Responsiveness
+
+Chiefs and Assistant Chiefs must demonstrate impartiality in all dealings with voters, election officers, and the Office of Elections.
+
+Chiefs and Assistant Chiefs must respond in a timely manner to all communications from the Office of Elections or election officers before election day.
+
+### Training
 
 Chiefs and Assistant Chiefs must both fulfill the same training requirements.
 
-In addition to any regular officer training, Chiefs and Assistant Chiefs must complete a *Chiefs Briefing* training class the week before <u>each election</u> in which they serve as a Chief or Assistant Chief.
+In addition to any regular officer training, Chiefs and Assistant Chiefs must complete a *Chiefs Briefing* training class the week before *each election* in which they serve as a Chief or Assistant Chief.
 
 First-time Chiefs and Assistant Chiefs are also required to complete the *Chief & Assistant Chief Basics* training class before being eligible to serve in these roles for the first time.
 
 ### Other Requirements
 
 In addition to training, Chiefs and Assistant Chiefs have additional requirements before election day.
-
-Chiefs and Assistant Chiefs should demonstrate impartiality in all dealings with voters, election officers, and the Office of Elections.
-
-Chiefs and Assistant Chiefs should respond in a timely manner to all communications from the Office of Elections or election officers before election day.
 
 Chiefs are also required to:
 - Complete all pre-election duties by certain deadlines
@@ -53,4 +55,4 @@ Assistant Chiefs are also required to:
 
 ---
 
-For questions, contact the Office of Elections at 703-324-4735 or ElectionOfficers@fairfaxcounty.gov.
+For questions, contact the Office of Elections at **703-324-4735** or **ElectionOfficers@fairfaxcounty.gov**.
