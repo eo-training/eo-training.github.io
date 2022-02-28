@@ -4,7 +4,13 @@ title: "WHAT WE LOOK FOR IN A CHIEF"
 permalink: /chief-info
 ---
 
-## Party Representation 
+**Party Representation** 
 
 info
+
+**Qualifications**
+
+info
+
+**Availability**
 
