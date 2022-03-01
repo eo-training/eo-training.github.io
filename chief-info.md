@@ -17,7 +17,7 @@ Chiefs and Assistant Chiefs are assigned from qualified election officers repres
 
 In general elections, in accordance with the Code of Virginia and Electoral Board policy, Chiefs represent the party of the current sitting Governor and Assistant Chiefs represent the next largest party.
 
-In single-party primary elections, in accordance with the Code of Virginia and Electoral Board policy, the Chief and the Assistant Chief should represent the party conducting the party, if practicable.
+In single-party primary elections, in accordance with the Code of Virginia and Electoral Board policy, the Chief and the Assistant Chief should represent the party conducting the primary, if practicable.
 
 ### Impartiality and Responsiveness
 
