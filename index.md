@@ -36,33 +36,20 @@ title: Home
       </div>
       <div class="card-text">
         <p>Election Officer Basics</p>
-        <p class="card-coming-soon" style="color:green;">Now available!</p>
+        <p class="card-coming-soon" style="color:darkOrange;">Coming soon!</p>
       </div>
     </a>
   </div>
 
 
   <div class="card">
-    <a href="{{ site.url }}{{ site.baseurl }}/nov-2021/opu">
+    <a href="{{ site.url }}{{ site.baseurl }}/opu">
       <div class="card-image-container">
         <div class="card-image" style="background-image: url('{{ site.url }}{{ site.baseurl }}/assets/img/2021-11-opu.png')"></div>
       </div>
       <div class="card-text">
         <p>Operational and Procedural Updates</p>
-        <p class="card-coming-soon" style="color:green;">Now available!</p>
-      </div>
-    </a>
-  </div>
-
-
-  <div class="card">
-    <a href="{{ site.url }}{{ site.baseurl }}/nov-2021/hs-page">
-      <div class="card-image-container">
-        <div class="card-image" style="background-image: url('{{ site.url }}{{ site.baseurl }}/assets/img/high-school-pages-small.jpg')"></div>
-      </div>
-      <div class="card-text">
-        <p>High School Page</p>
-        <p class="card-coming-soon" style="color:green;">Now available!</p>
+        <p class="card-coming-soon" style="color:darkOrange;">Coming soon!</p>
       </div>
     </a>
   </div>
@@ -75,20 +62,20 @@ title: Home
       </div>
       <div class="card-text">
         <p>Chief and Assistant Chief Basics</p>
-        <p class="card-coming-soon" style="color:green;">Now available!</p>
+        <p class="card-coming-soon" style="color:darkOrange;">Coming soon!</p>
       </div>
     </a>
   </div>
 
 
   <div class="card">
-    <a href="{{ site.url }}{{ site.baseurl }}/nov-2021/chiefs-briefing/">
+    <a href="{{ site.url }}{{ site.baseurl }}/jun-2022/chiefs-briefing/">
       <div class="card-image-container">
         <div class="card-image" style="background-image: url('{{ site.url }}{{ site.baseurl }}/assets/img/chiefs-briefing-small.jpg')"></div>
       </div>
       <div class="card-text">
         <p>Chiefs Briefing</p>
-        <p class="card-coming-soon" style="color:darkOrange;"></p>
+        <p class="card-coming-soon" style="color:darkOrange;">Available June 13</p>
       </div>
     </a>
   </div>
