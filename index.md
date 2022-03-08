@@ -30,7 +30,7 @@ title: Home
 <div class="cards">
 
   <div class="card">
-    <a href="{{ site.url }}{{ site.baseurl }}/nov-2021/eo-basics">
+    <a href="{{ site.url }}{{ site.baseurl }}/eo-basics">
       <div class="card-image-container">
         <div class="card-image" style="background-image: url('{{ site.url }}{{ site.baseurl }}/assets/img/new-eos.png')"></div>
       </div>
@@ -69,7 +69,7 @@ title: Home
 
 
   <div class="card">
-    <a href="{{ site.url }}{{ site.baseurl }}/nov-2021/chief-basics">
+    <a href="{{ site.url }}{{ site.baseurl }}/chief-basics">
       <div class="card-image-container">
         <div class="card-image" style="background-image: url('{{ site.url }}{{ site.baseurl }}/assets/img/what-ifs.png')"></div>
       </div>
@@ -119,6 +119,7 @@ title: Home
 
 These classes were made for past elections and may contain outdated information and references. However, we are keeping them online as a helpful reference.
 
+- [Classes for the November 2021 General and Special Elections]({{site.url}}{{site.baseurl}}/nov-2021)
 - [Classes for the June 2021 Democratic Party Primary Election]({{site.url}}{{site.baseurl}}/jun-2021)
 - [Classes for the November 2020 General and Special Elections]({{site.url}}{{site.baseurl}}/nov-2020)
 - [Classes for the June 2020 Party Primary Elections]({{site.url}}{{site.baseurl}}/jun-2020)
@@ -128,39 +129,3 @@ These classes were made for past elections and may contain outdated information 
 
 <p style="text-align: center; font-weight:bold;"><span style="color:#FF0000;">If you have any questions or issues regarding training, call us at 703-324-4735 or
  email ElectionOfficerTraining@fairfaxcounty.gov. We are here to help!</span></p>
-
-
-
-
-
-<div style="display: flex;justify-content: center;">
-    <button onclick="hideDIV()" style="
-    background: transparent;
-    /* color: transparent; */
-    border: 0;
-">☺</button>
-</div>
-
-<script>
-function hideDIV() {
-  var x = document.getElementById("hideText");
-  if (x.style.display === "none") {
-    x.style.display = "block";
-  } else {
-    x.style.display = "none";
-  }
-}
-</script>
-
-<div id="hideText">
-
-<hr />
-
-Hi there!
-
-<hr />
-
-
-
-
-</div>

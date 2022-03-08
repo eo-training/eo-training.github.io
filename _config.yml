@@ -36,23 +36,23 @@ collections:
   eo-basics:
     output: true
     title: "Election Officer Basics"
-    permalink: /nov-2021/eo-basics/:path
-    url: /nov-2021/eo-basics
+    permalink: /eo-basics/:path
+    url: /eo-basics
   chief-basics:
     output: true
     title: "Chief and Assistant Chief Basics"
-    permalink: /nov-2021/chief-basics/:path
-    url: /nov-2021/chief-basics
+    permalink: /chief-basics/:path
+    url: /chief-basics
   hs-page:
     output: true
     title: "High School Page Training"
-    permalink: /nov-2021/hs-page/:path
-    url: /nov-2021/hs-page
+    permalink: /hs-page/:path
+    url: /hs-page
   cap-mailer-check-in:
     output: true
     title: "CAP Mailer Check-In Training"
-    permalink: /nov-2021/cap-mailer-check-in/:path
-    url: /nov-2021/cap-mailer-check-in
+    permalink: /jun-2022/cap-mailer-check-in/:path
+    url: /jun-2022/cap-mailer-check-in
 
 
 # Permalinks
