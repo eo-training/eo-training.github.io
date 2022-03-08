@@ -25,7 +25,7 @@ title: Home
    margin-bottom: 2em;
 "><strong>Important:</strong> Updated training classes for the June 2022 election are not yet available.</p>
 
-## Election Officer classes for the Nov 2021 election
+## Election Officer classes for the June 2022 election
 
 <div class="cards">
 
