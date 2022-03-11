@@ -16,15 +16,6 @@ title: Home
     margin-bottom: 2em;
 "><strong>Fairfax County Election Officer Training</strong>: If you have any questions or need help, feel free to contact us. Email <a href="mailto:ElectionOfficerTraining@fairfaxcounty.gov">ElectionOfficerTraining@fairfaxcounty.gov</a> or call 703-324-4735 (weekdays 8:00 AM to 4:30 PM). Thank you!</p>
 
-<p style="
-   background: linear-gradient(yellow, 20%, orange);
-   padding: 0.8em;
-   /* box-shadow: 5px 5px 3px grey; */
-   border-radius: 1px;
-   border: 1px solid black;
-   margin-bottom: 2em;
-"><strong>Important:</strong> Updated training classes for the June 2022 election are not yet available.</p>
-
 ## Election Officer classes for the June 2022 election
 
 <div class="cards">
@@ -36,7 +27,7 @@ title: Home
       </div>
       <div class="card-text">
         <p>Election Officer Basics</p>
-        <p class="card-coming-soon" style="color:darkOrange;">Coming soon!</p>
+        <p class="card-coming-soon" style="color:green;">Now available!</p>
       </div>
     </a>
   </div>
