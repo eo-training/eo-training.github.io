@@ -53,7 +53,7 @@ title: Home
       </div>
       <div class="card-text">
         <p>Chief and Assistant Chief Basics</p>
-        <p class="card-coming-soon" style="color:darkOrange;">Coming soon!</p>
+        <p class="card-coming-soon" style="color:green;">Now available!</p>
       </div>
     </a>
   </div>
