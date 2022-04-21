@@ -9,7 +9,7 @@ permalink: /redistricting
 
 As a result of the 2020 U.S. Census and subsequent adoption of new congressional district, Senate district, and House of Delegate District lines as drawn by the special masters for the Supreme Court of Virginia, local governing bodies were [required](https://law.lis.virginia.gov/vacode/title24.2/chapter3/section24.2-307/#:~:text=Requirements%20for%20county%20and%20city%20precincts.,precincts%20as%20it%20deems%20necessary) to eliminate any resulting split precincts. Each precinct must now be wholly contained within a single congressional, state senate, delegate, and magisterial district.
 
-You can learn more about the redistricting process on the Fairfax County website: https://www.fairfaxcounty.gov/redistricting/what-is-redistricting
+You can learn more about the redistricting process on the Fairfax County website: [https://www.fairfaxcounty.gov/redistricting/what-is-redistricting](https://www.fairfaxcounty.gov/redistricting/what-is-redistricting)
 
 ---
 
