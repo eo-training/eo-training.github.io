@@ -77,23 +77,27 @@ title: Home
 
 ---
 
-## Supplemental materials for the November 2021 election
+## Additional Information
 
-* **Helpful information**
-  - Link: [Frequently asked questions from OPU classes]({{site.url}}{{site.baseurl}}/nov-2021/faqs/)
-  - Link: [Poll Pad videos]({{site.url}}{{site.baseurl}}/nov-2021/videos/)
-* **Chiefs Notebook**
-  - Link: [Full Chiefs Notebook]({{site.url}}/{{site.baseurl}}/nov-2021/chiefs-notebook/)
-  - PDF: [What-Ifs from Chiefs Notebook]({{site.url}}/{{site.baseurl}}/assets/docs/2021-11-what-ifs.pdf)
-  - PDF: [Election Officer Function Descriptions from Chiefs Notebook]({{site.url}}/{{site.baseurl}}/assets/docs/2021-11-function-descriptions.pdf)
-* **One-page Equipment Opening/Closing Guides**
-  - PDF: [Opening/Closing Guide for Poll Pads]({{site.url}}/{{site.baseurl}}/assets/docs/2021-11-equipment-guide-pollpad.pdf)
-  - PDF: [Opening/Closing Guide for ExpressVote]({{site.url}}/{{site.baseurl}}/assets/docs/2021-11-equipment-guide-expressvote.pdf)
-  - PDF: [Opening/Closing Guide for DS200 Scanners]({{site.url}}/{{site.baseurl}}/assets/docs/2021-11-equipment-guide-ds200.pdf)
+* [Redistricting & list of 264 current precincts](/redistricting/)
+* [Chief and Assistant Chief info](/chief-info/)
+* [Language Officer info](/language-officers/)
 
 ---
 
-## Classes for past elections
+## Classes and materials for past elections
+
+* **Helpful information**
+  - Link: [Frequently asked questions from OPU classes (Nov 2021)]({{site.url}}{{site.baseurl}}/nov-2021/faqs/)
+  - Link: [Poll Pad videos (Nov 2021)]({{site.url}}{{site.baseurl}}/nov-2021/videos/)
+* **Chiefs Notebook**
+  - Link: [Full Chiefs Notebook (Nov 2021)]({{site.url}}/{{site.baseurl}}/nov-2021/chiefs-notebook/)
+  - PDF: [What-Ifs from Chiefs Notebook (Nov 2021)]({{site.url}}/{{site.baseurl}}/assets/docs/2021-11-what-ifs.pdf)
+  - PDF: [Election Officer Function Descriptions from Chiefs Notebook (Nov 2021)]({{site.url}}/{{site.baseurl}}/assets/docs/2021-11-function-descriptions.pdf)
+* **One-page Equipment Opening/Closing Guides**
+  - PDF: [Opening/Closing Guide for Poll Pads (Nov 2021)]({{site.url}}/{{site.baseurl}}/assets/docs/2021-11-equipment-guide-pollpad.pdf)
+  - PDF: [Opening/Closing Guide for ExpressVote (Nov 2021)]({{site.url}}/{{site.baseurl}}/assets/docs/2021-11-equipment-guide-expressvote.pdf)
+  - PDF: [Opening/Closing Guide for DS200 Scanners (Nov 2021)]({{site.url}}/{{site.baseurl}}/assets/docs/2021-11-equipment-guide-ds200.pdf)
 
 These classes were made for past elections and may contain outdated information and references. However, we are keeping them online as a helpful reference.
 
@@ -103,7 +107,6 @@ These classes were made for past elections and may contain outdated information 
 - [Classes for the June 2020 Party Primary Elections]({{site.url}}{{site.baseurl}}/jun-2020)
 
 ---
-
 
 <p style="text-align: center; font-weight:bold;"><span style="color:#FF0000;">If you have any questions or issues regarding training, call us at 703-324-4735 or
  email ElectionOfficerTraining@fairfaxcounty.gov. We are here to help!</span></p>
