@@ -5,7 +5,7 @@ title: "Language Officer Information"
 
 Language Officers are election officers, who in addition to performing all regular officer duties, may also assist voters in a language other than English.
 
-Section 203 of the Voting Rights Act generally requires jurisdictions to provide language assistance to voters if more than 5% of voting-age citizens are members of a single-language minority group. In Fairfax County, we always assign Language Officers for **Spanish**, **Vietnamse**, and **Korean** in needed precincts. When possible, we also try to assign Language Officers in **Chinese**, **Arabic**, **Farsi**, **Hindi**, **Urdu**, **Russian**, and **ASL** in needed precincts.
+Section 203 of the Voting Rights Act generally requires jurisdictions to provide language assistance to voters if more than 5% of voting-age citizens are members of a single-language minority group. In Fairfax County, we always assign Language Officers for **Spanish**, **Vietnamese**, and **Korean** in needed precincts. When possible, we also try to assign Language Officers in **Chinese**, **Arabic**, **Farsi**, **Hindi**, **Urdu**, **Russian**, and **ASL** in needed precincts.
 
 To qualify as a Language Officer, an individual must pass an oral language skills assessment. We then assign Language Officers to precincts based on US Census data and voter feedback. About one-third of our precincts are assigned at least one Language Officer.
 
@@ -16,6 +16,8 @@ Additional notes:
 * Language Officers must fluently speak English, in addition to their other language.
 * Language officers will receive and wear a special name badge on election day which identifies them as a Language Officer and the language they speak.
 * Language Officers receive the same stipend as regular officers.
+
+---
 
 ## Language Officer Referral Bonus
 
@@ -28,18 +30,19 @@ The new Language Officer receives the standard election officer stipend of <span
 **WHO IS ELIGIBLE TO RECEIVE THE REFERRAL BONUS?**
 
 * Current and new Fairfax County election officers.
-* Any current election officer may receive the bonus, even if they are not assigned or do not serve in the next election.
+* Any election officer may receive the bonus, even if they are not assigned or do not serve in the next election.
 
 **WHEN IS THE REFERRAL BONUS PAID**?
 
-The bonus will be paid with all other stipends, about 4-6 weeks after each election.
+* The bonus will be paid with all other stipends, about 4-6 weeks after each election.
+* A referring officer may earn a <span>$25</span> bonus for each new Language Officer they refer. For example, if someone refers 3 new Language Officers who meet all requirements, they would receive a <span>$75</span> bonus.
 
 **WHAT ARE THE REQUIREMENTS FOR THE REFERRAL BONUS TO BE EARNED?**
 
 The referring officer must...
 
 * Recruit an eligible person who has never previously applied or served as an officer in Fairfax County that would meet a specific and previously identified language need.
-* Instruct the eligible person how to apply, making sure to include the full name of the referring officer in their application.
+* Instruct the eligible person how to apply, making sure that they include the full name of the referring officer in their application.
 
 The new Language Officer must...
 
@@ -49,8 +52,6 @@ The new Language Officer must...
 * Schedule and attend an in-person hiring paperwork appointment.
 * Complete all training requirements for the next scheduled Fairfax County election.
 * Serve in the next scheduled election as a Language Officer
-
-A referring officer may earn a <span>$25</span> bonus for each new Language Officer they refer. For example, if someone refers 3 new Language Officers who meet all requirements, they would receive a <span>$75</span> bonus.
 
 **WHAT ARE EXAMPLES OF WHY A BONUS IS NOT EARNED AND PAID?**
 
@@ -62,4 +63,6 @@ A referring officer may earn a <span>$25</span> bonus for each new Language Offi
 * The new Language Officer cancels their assignment for any reason, does not serve for their full shift, or asks to change positions.
 * The referral bonus program is suspended temporarily because the Language Officer recruitment goals have been met for the next scheduled Fairfax County election.
 
-If you have any questions regarding this referral bonus program, contact us at ElectionOfficers@fairfaxcounty.gov or 703-324-4735 (8:00 AM – 4:30 PM).
+---
+
+If you have any questions regarding the referral bonus program, contact us at ElectionOfficers@fairfaxcounty.gov or 703-324-4735 (8:00 AM – 4:30 PM).
