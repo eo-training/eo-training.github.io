@@ -51,13 +51,18 @@ collections:
   chiefs-briefing:
     output: true
     title: "Chiefs Briefing"
-    permalink: /jun-2022/chief-basics/:path
-    url: /jun-2022/chief-basics
+    permalink: /jun-2022/chiefs-briefing/:path
+    url: /jun-2022/chiefs-briefing
   cap-mailer-check-in:
     output: true
     title: "CAP Mailer Check-In Training"
     permalink: /jun-2022/cap-mailer-check-in/:path
     url: /jun-2022/cap-mailer-check-in
+  cap-extraction:
+    output: true
+    title: "CAP Pre-Processing Extraction"
+    permalink: /jun-2022/cap-extraction/:path
+    url: /jun-2022/cap-extraction
 
 
 # Permalinks
