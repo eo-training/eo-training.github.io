@@ -11,6 +11,20 @@ As a result of the 2020 U.S. Census and subsequent adoption of new congressional
 You can learn more about the redistricting process on the Fairfax County website: [https://www.fairfaxcounty.gov/redistricting/what-is-redistricting](https://www.fairfaxcounty.gov/redistricting/what-is-redistricting)
 
 ---
+**Helpful Links**
+
+<p style="
+    background: lightcyan;
+    padding: 0.8em;
+    border-radius: 1px;
+    border: 1px solid black;
+    margin-bottom: 2em;
+">- [Summary of precinct and polling place changes](https://www.fairfaxcounty.gov/elections/sites/elections/files/assets/precincts/summary_of_redistricting_ppchanges_03082022.pdf)
+- [Directory of Districts, Precincts, and Polling places](https://www.fairfaxcounty.gov/elections/sites/elections/files/assets/precincts/precinct%20locator_rev_04052022_final.pdf)
+- [Precinct descrptions and polling place information](https://www.fairfaxcounty.gov/elections/precincts)
+- [Find your assigned voting precinct](https://vote.elections.virginia.gov/VoterInformation/Lookup/polling)
+</p>
+---
 
 **Impact**
 
@@ -72,7 +86,7 @@ We were required to create 27 new precincts to accommodate the new state lines. 
 - 934 FOX VALLEY
 - 935 SPINDLE #2
 
-For a comprehensive review of all precinct and polling place changes, you can view the [Board of Supervisors package](https://www.fairfaxcounty.gov/boardofsupervisors/sites/boardofsupervisors/files/assets/meeting-materials/2022/board/mar08-final-board-package.pdf) from the March 8th, 2022 meeting. The changes detailed beginning on page 218 have since been approved by the Board of Supervisors and the Virginia Attorney General.
+For a comprehensive review of all precinct and polling place changes, click [here](https://www.fairfaxcounty.gov/elections/sites/elections/files/assets/precincts/summary_of_redistricting_ppchanges_03082022.pdf). These changes were presented at the March 8th, 2022 Board of Supervisors meeting, and since have been approved by the Board of Supervisors and the Virginia Attorney General.
 
 ### Complete list of precincts
 
