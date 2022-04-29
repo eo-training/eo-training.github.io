@@ -12,7 +12,7 @@ As a result of the 2020 U.S. Census and subsequent adoption of new congressional
 <span><strong>Helpful Links</strong></span>
 <li><a href="https://www.fairfaxcounty.gov/elections/sites/elections/files/assets/precincts/precinct%20locator_rev_04052022_final.pdf">List of Districts, Precincts, and Polling places</a></li>
 <li><a href="https://www.fairfaxcounty.gov/elections/sites/elections/files/assets/precincts/summary_of_redistricting_ppchanges_03082022.pdf">Descriptions of all precinct and polling place changes</a></li>
-<li><a href="https://www.fairfaxcounty.gov/elections/precincts">Precinct descriptions and polling place information</a></li>
+<li><a href="https://www.fairfaxcounty.gov/elections/precincts">Office of Elections Resources Page</a></li>
 </div>
 
 <div style="background: #90ee90c2; padding: 0.8em; border-radius: 1px; border: 1px solid black; margin-bottom: 2em;">
