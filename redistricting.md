@@ -30,7 +30,7 @@ Although more than 100 precincts were impacted by required changes imposed by th
 
 You can check your voting precinct and polling place [here](https://vote.elections.virginia.gov/VoterInformation/Lookup/polling).
 
-As an election officer, you may be assigned to a new precinct. You may even be part of the very first election officer team to serve in a new precinct if you are serving in the June 2022 Primary or November 2022 General Election!
+All changes will be in effect for the June 2022 Primary. As an election officer, you may be assigned to a new precinct. You may even be part of the very first election officer team to serve in a new precinct if you are serving in the June 2022 Primary or November 2022 General Election!
 
 
 ### Precinct Changes
