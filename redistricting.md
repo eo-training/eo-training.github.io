@@ -8,22 +8,18 @@ title: "2022 Redistricting Information"
 
 As a result of the 2020 U.S. Census and subsequent adoption of new congressional district, Senate district, and House of Delegate District lines as drawn by the special masters for the Supreme Court of Virginia, local governing bodies were [required](https://law.lis.virginia.gov/vacode/title24.2/chapter3/section24.2-307/#:~:text=Requirements%20for%20county%20and%20city%20precincts.,precincts%20as%20it%20deems%20necessary) to eliminate any resulting split precincts. Each precinct must now be wholly contained within a single congressional, state senate, delegate, and magisterial district.
 
-You can learn more about the redistricting process on the Fairfax County website: [https://www.fairfaxcounty.gov/redistricting/what-is-redistricting](https://www.fairfaxcounty.gov/redistricting/what-is-redistricting)
+<div style="background: lightcyan; padding: 0.8em; border-radius: 1px; border: 1px solid black; margin-bottom: 2em;">
+<span><strong>Helpful Links</strong></span>
+<li><a href="https://www.fairfaxcounty.gov/elections/sites/elections/files/assets/precincts/precinct%20locator_rev_04052022_final.pdf">List of Districts, Precincts, and Polling places</a></li>
+<li><a href="https://www.fairfaxcounty.gov/elections/sites/elections/files/assets/precincts/summary_of_redistricting_ppchanges_03082022.pdf">Descriptions of all precinct and polling place changes</a></li>
+<li><a href="https://www.fairfaxcounty.gov/elections/precincts">Precinct descriptions and polling place information</a></li>
+</div>
 
----
-**Helpful Links**
+<div style="background: #90ee90c2; padding: 0.8em; border-radius: 1px; border: 1px solid black; margin-bottom: 2em;">
+<span><strong>Find your new voting precinct:</strong></span>
+<li><a href="https://vote.elections.virginia.gov/VoterInformation/Lookup/polling">Virginia Department of Elections - Citizens Portal</a></li>
+</div>
 
-<p style="
-    background: lightcyan;
-    padding: 0.8em;
-    border-radius: 1px;
-    border: 1px solid black;
-    margin-bottom: 2em;
-">- [Summary of precinct and polling place changes](https://www.fairfaxcounty.gov/elections/sites/elections/files/assets/precincts/summary_of_redistricting_ppchanges_03082022.pdf)
-- [Directory of Districts, Precincts, and Polling places](https://www.fairfaxcounty.gov/elections/sites/elections/files/assets/precincts/precinct%20locator_rev_04052022_final.pdf)
-- [Precinct descrptions and polling place information](https://www.fairfaxcounty.gov/elections/precincts)
-- [Find your assigned voting precinct](https://vote.elections.virginia.gov/VoterInformation/Lookup/polling)
-</p>
 ---
 
 **Impact**
