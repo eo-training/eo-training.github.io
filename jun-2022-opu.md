@@ -3,7 +3,6 @@ layout: page
 title: "Operational and Procedural Updates (June 2022)"
 permalink: /jun-2022/opu/
 ---
-# Operational and Procedural Updates June 2022
 
 This page summarizes changes in procedures for the June 2022 Democratic Party Primary.
 
