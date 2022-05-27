@@ -51,6 +51,7 @@ Note that an officer must remove 2 flash drives from both DS200s, even if one wa
 - Precinct Data Sheet: Throughout the day, an officer will use this form to ensure the number of check-ins matches the number of ballots cast throughout the day. You will also record the number of ballots in each pack you open on this sheet.
 - Election Night Numbers Sheet: During closing procedures, an officer will use this form to record the number of provisional voters and curbside voters. We must submit these numbers to the Virginia Department of Elections on election night. Instead of having precincts call in these numbers as we have in the past, Collector Officers will return this form to the Fairfax County Government Center.
 - Precinct Results Notice: During closing procedures, an officer will use this form to post results at the entrance of your polling place. Instead of transcribing the results onto a separate form, you will attach opening and closing tapes from the DS200 to this form and post it at the door.
+
 ---
 
 Thanks for being a Fairfax County election officer!
