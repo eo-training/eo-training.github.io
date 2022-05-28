@@ -47,6 +47,8 @@ The software is the same and the process of checking in a voter is the same. Dur
 
 At the end of the day, you will not power off the Poll Pads. Instead, you will keep the devices powered on and place them back in their case. This will help us more quickly import all voter check-ins after voting ends.
 
+(Each precinct will also receive one additional iPad for the Chief's use only. This iPad will not contain the voter file and cannot be used to check in voters. This iPad's main screen looks different and it will only be used to access an electronic provisional ballot log.)
+
 ---
 
 ## Voting Equipment
