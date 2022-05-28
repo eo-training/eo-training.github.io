@@ -33,18 +33,6 @@ title: Home
   </div>
 
 
-  <div class="card">
-    <a href="{{ site.url }}{{ site.baseurl }}/opu">
-      <div class="card-image-container">
-        <div class="card-image" style="background-image: url('{{ site.url }}{{ site.baseurl }}/assets/img/2021-11-opu.png')"></div>
-      </div>
-      <div class="card-text">
-        <p>Operational and Procedural Updates</p>
-        <p class="card-coming-soon" style="color:darkOrange;">Coming soon!</p>
-      </div>
-    </a>
-  </div>
-
 
   <div class="card">
     <a href="{{ site.url }}{{ site.baseurl }}/chief-basics">
@@ -79,6 +67,7 @@ title: Home
 
 ## Additional Information
 
+* **[Procedural Updates for June 2022 Primary Election](/jun-2022/opu/)**
 * [Redistricting & list of 264 current precincts](/redistricting/)
 * [Chief and Assistant Chief info](/chief-info/)
 * [Language Officer info](/language-officers/)
