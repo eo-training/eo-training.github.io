@@ -16,7 +16,7 @@ title: Home
     margin-bottom: 2em;
 "><strong>Fairfax County Election Officer Training</strong>: If you have any questions or need help, feel free to contact us. Email <a href="mailto:ElectionOfficerTraining@fairfaxcounty.gov">ElectionOfficerTraining@fairfaxcounty.gov</a> or call 703-324-4735 (weekdays 8:00 AM to 4:30 PM). Thank you!</p>
 
-## Election Officer classes for the June 2022 election
+## Election officer classes for the June 2022 election
 
 <div class="cards">
 
@@ -54,7 +54,7 @@ title: Home
       </div>
       <div class="card-text">
         <p>Chiefs Briefing</p>
-        <p class="card-coming-soon" style="color:darkOrange;">Available June 13</p>
+        <p class="card-coming-soon" style="color:darkOrange;">Available Sun Jun 12</p>
       </div>
     </a>
   </div>
@@ -65,19 +65,49 @@ title: Home
 
 ---
 
-## Additional Information
+## Information for the June 2022 election
 
 * [Procedural Updates for June 2022 Primary Election](/jun-2022/opu/)
 * [Redistricting & list of 264 current precincts](/redistricting/)
 * [Chief and Assistant Chief info](/chief-info/)
 * [Language Officer info](/language-officers/)
 
-## Additional Documents
-- PDF: [Chiefs Notebook (Jun 2022)]({{site.url}}/{{site.baseurl}}/jun-2022/chiefs-notebook/)
-- PDF: [What-Ifs from Chiefs Notebook (Jun 2022)]({{site.url}}/{{site.baseurl}}/assets/docs/2022-06-what-ifs.pdf)
-- PDF: [Opening guides (Poll Pads, ExpressVote, DS200, Assembling Drop Box, Assembling Sneeze Guard, Signs & Posters)]({{site.url}}/{{site.baseurl}}/assets/docs/2022-06-opening-guides.pdf)
-- PDF: [Officer duties (Greeter & Drop Box, Check-In Table, Ballot Table, Voting Booths, DS200, Curbside Voting, Turnout Surveys)]({{site.url}}/{{site.baseurl}}/assets/docs/2022-06-day-guides.pdf)
-- PDF: [Closing guides (Poll Pads, ExpressVote, DS200, Collector Officers, Securing Voted Ballots, Securing Unvoted Ballots, Required Signature Checklist, Items to return in black kit, Items to return in blue bag, Items to return in gray cart, Items to return to depot)]({{site.url}}/{{site.baseurl}}/assets/docs/2022-06-closing-guides.pdf)
+## Documents for the June 2022 election
+
+- **Chiefs Notebook**
+  - PDF: [Chiefs Notebook (Jun 2022)]({{site.url}}/{{site.baseurl}}/jun-2022/chiefs-notebook/)
+  - PDF: [What-Ifs from Chiefs Notebook (Jun 2022)]({{site.url}}/{{site.baseurl}}/assets/docs/2022-06-what-ifs.pdf)
+- **Opening guides**
+  * PDF: [Opening guide: All]({{site.url}}/{{site.baseurl}}/assets/docs/2022-06-opening-guides.pdf)
+  * PDF: [Opening guide: Poll Pad Assembly]({{site.url}}/{{site.baseurl}}/assets/docs/2022-06-opening-guide-1-poll-pad-assembly.pdf)
+  * PDF: [Opening guide: ExpressVote]({{site.url}}/{{site.baseurl}}/assets/docs/2022-06-opening-guide-2-expressvote.pdf)
+  * PDF: [Opening guide: DS200]({{site.url}}/{{site.baseurl}}/assets/docs/2022-06-opening-guide-3-ds200.pdf)
+  * PDF: [Opening guide: Assembling drop box]({{site.url}}/{{site.baseurl}}/assets/docs/2022-06-opening-guide-4-drop-box.pdf)
+  * PDF: [Opening guide: Assembling sneeze guards]({{site.url}}/{{site.baseurl}}/assets/docs/2022-06-opening-guide-5-sneeze-guards.pdf)
+  * PDF: [Opening guide: Signs & posters]({{site.url}}/{{site.baseurl}}/assets/docs/2022-06-opening-guide-6-signs.pdf)
+- **During the Day guides (officer duties)**
+  * PDF: [Officer duties: All]({{site.url}}/{{site.baseurl}}/assets/docs/2022-06-day-guides.pdf)
+  * PDF: [Officer duties: Entrance & drop box]({{site.url}}/{{site.baseurl}}/assets/docs/2022-06-day-guide-1-entrance.pdf)
+  * PDF: [Officer duties: Check-in table]({{site.url}}/{{site.baseurl}}/assets/docs/2022-06-day-guide-2-checkin-table.pdf)
+  * PDF: [Officer duties: Ballot table]({{site.url}}/{{site.baseurl}}/assets/docs/2022-06-day-guide-3-ballot-table.pdf)
+  * PDF: [Officer duties: Voting Booths]({{site.url}}/{{site.baseurl}}/assets/docs/2022-06-day-guide-4-voting-booths.pdf)
+  * PDF: [Officer duties: DS200]({{site.url}}/{{site.baseurl}}/assets/docs/2022-06-day-guide-5-ds200.pdf)
+  * PDF: [Officer duties: Curbside voting]({{site.url}}/{{site.baseurl}}/assets/docs/2022-06-day-guide-6-curbside.pdf)
+  * PDF: [Officer duties: Turnout surveys]({{site.url}}/{{site.baseurl}}/assets/docs/2022-06-day-guide-7-turnout-surveys.pdf)
+- **Closing guides**
+  * PDF: [Closing guide: All]({{site.url}}/{{site.baseurl}}/assets/docs/2022-06-closing-guides.pdf)
+  * PDF: [Closing guide: Poll Pads]({{site.url}}/{{site.baseurl}}/assets/docs/2022-06-closing-guide-1-poll-pads.pdf)
+  * PDF: [Closing guide: ExpressVote]({{site.url}}/{{site.baseurl}}/assets/docs/2022-06-closing-guide-2-expressvote.pdf)
+  * PDF: [Closing guide: DS200]({{site.url}}/{{site.baseurl}}/assets/docs/2022-06-closing-guide-3-ds200.pdf)
+  * PDF: [Closing guide: Collector Officers]({{site.url}}/{{site.baseurl}}/assets/docs/2022-06-closing-guide-4-collector-officers.pdf)
+  * PDF: [Closing guide: Securing voted ballots]({{site.url}}/{{site.baseurl}}/assets/docs/2022-06-closing-guide-5-securing-voted-ballots.pdf)
+  * PDF: [Closing guide: Securing unvoted ballots]({{site.url}}/{{site.baseurl}}/assets/docs/2022-06-closing-guide-6-securing-unvoted-ballots.pdf)
+  * PDF: [Closing guide: Required signature checklist]({{site.url}}/{{site.baseurl}}/assets/docs/2022-06-closing-guide-7-signatures.pdf)
+  * PDF: [Closing guide: Items to return in black kit]({{site.url}}/{{site.baseurl}}/assets/docs/2022-06-closing-guide-8-black-kit.pdf)
+  * PDF: [Closing guide: Items to return in blue bag]({{site.url}}/{{site.baseurl}}/assets/docs/2022-06-closing-guide-9-blue-bag.pdf)
+  * PDF: [Closing guide: Items to return in gray cart]({{site.url}}/{{site.baseurl}}/assets/docs/2022-06-closing-guide-10-gray-cart.pdf)
+  * PDF: [Closing guide: Items to return to depot]({{site.url}}/{{site.baseurl}}/assets/docs/2022-06-closing-guide-11-depot.pdf)
+
 
 
 ---
