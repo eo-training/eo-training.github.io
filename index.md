@@ -67,30 +67,28 @@ title: Home
 
 ## Additional Information
 
-* **[Procedural Updates for June 2022 Primary Election](/jun-2022/opu/)**
+* [Procedural Updates for June 2022 Primary Election](/jun-2022/opu/)
 * [Redistricting & list of 264 current precincts](/redistricting/)
 * [Chief and Assistant Chief info](/chief-info/)
 * [Language Officer info](/language-officers/)
 
+## Additional Documents
+- PDF: [Chiefs Notebook (Jun 2022)]({{site.url}}/{{site.baseurl}}/jun-2022/chiefs-notebook/)
+- PDF: [What-Ifs from Chiefs Notebook (Jun 2022)]({{site.url}}/{{site.baseurl}}/assets/docs/2022-06-what-ifs.pdf)
+- PDF: [Opening guides (Poll Pads, ExpressVote, DS200, Assembling Drop Box, Assembling Sneeze Guard, Signs & Posters)]({{site.url}}/{{site.baseurl}}/assets/docs/2022-06-opening-guides.pdf)
+- PDF: [Officer duties (Greeter & Drop Box, Check-In Table, Ballot Table, Voting Booths, DS200, Curbside Voting, Turnout Surveys)]({{site.url}}/{{site.baseurl}}/assets/docs/2022-06-day-guides.pdf)
+- PDF: [Closing guides (Poll Pads, ExpressVote, DS200, Collector Officers, Securing Voted Ballots, Securing Unvoted Ballots, Required Signature Checklist, Items to return in black kit, Items to return in blue bag, Items to return in gray cart, Items to return to depot)]({{site.url}}/{{site.baseurl}}/assets/docs/2022-06-closing-guides.pdf)
+
+
 ---
 
-## Classes and materials for past elections
+## Past elections
 
-* **Helpful information**
-  - Link: [Frequently asked questions from OPU classes (Nov 2021)]({{site.url}}{{site.baseurl}}/nov-2021/faqs/)
-  - Link: [Poll Pad videos (Nov 2021)]({{site.url}}{{site.baseurl}}/nov-2021/videos/)
-* **Chiefs Notebook**
-  - Link: [Full Chiefs Notebook (Nov 2021)]({{site.url}}/{{site.baseurl}}/nov-2021/chiefs-notebook/)
-  - PDF: [What-Ifs from Chiefs Notebook (Nov 2021)]({{site.url}}/{{site.baseurl}}/assets/docs/2021-11-what-ifs.pdf)
-  - PDF: [Election Officer Function Descriptions from Chiefs Notebook (Nov 2021)]({{site.url}}/{{site.baseurl}}/assets/docs/2021-11-function-descriptions.pdf)
-* **One-page Equipment Opening/Closing Guides**
-  - PDF: [Opening/Closing Guide for Poll Pads (Nov 2021)]({{site.url}}/{{site.baseurl}}/assets/docs/2021-11-equipment-guide-pollpad.pdf)
-  - PDF: [Opening/Closing Guide for ExpressVote (Nov 2021)]({{site.url}}/{{site.baseurl}}/assets/docs/2021-11-equipment-guide-expressvote.pdf)
-  - PDF: [Opening/Closing Guide for DS200 Scanners (Nov 2021)]({{site.url}}/{{site.baseurl}}/assets/docs/2021-11-equipment-guide-ds200.pdf)
-
-These classes were made for past elections and may contain outdated information and references. However, we are keeping them online as a helpful reference.
+These classes and materials were made for past elections and may contain outdated information and references. However, we are keeping them online as a helpful reference.
 
 - [Classes for the November 2021 General and Special Elections]({{site.url}}{{site.baseurl}}/nov-2021)
+  - [Frequently asked questions from OPU classes (Nov 2021)]({{site.url}}{{site.baseurl}}/nov-2021/faqs/)
+  - [Poll Pad videos (Nov 2021)]({{site.url}}{{site.baseurl}}/nov-2021/videos/)
 - [Classes for the June 2021 Democratic Party Primary Election]({{site.url}}{{site.baseurl}}/jun-2021)
 - [Classes for the November 2020 General and Special Elections]({{site.url}}{{site.baseurl}}/nov-2020)
 - [Classes for the June 2020 Party Primary Elections]({{site.url}}{{site.baseurl}}/jun-2020)
