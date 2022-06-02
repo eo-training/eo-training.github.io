@@ -91,7 +91,7 @@ title: Home
   * PDF: [Officer duties: Check-in table]({{site.url}}/{{site.baseurl}}/assets/docs/2022-06-day-guide-2-checkin-table.pdf)
   * PDF: [Officer duties: Ballot table]({{site.url}}/{{site.baseurl}}/assets/docs/2022-06-day-guide-3-ballot-table.pdf)
   * PDF: [Officer duties: Voting Booths]({{site.url}}/{{site.baseurl}}/assets/docs/2022-06-day-guide-4-voting-booths.pdf)
-  * PDF: [Officer duties: DS200]({{site.url}}/{{site.baseurl}}/assets/docs/2022-06-day-guide-5-ds200.pdf)
+  * PDF: [Officer duties: DS200]({{site.url}}/{{site.baseurl}}/assets/docs/2022-06-day-guide-5-ds200-scanner.pdf)
   * PDF: [Officer duties: Curbside voting]({{site.url}}/{{site.baseurl}}/assets/docs/2022-06-day-guide-6-curbside.pdf)
   * PDF: [Officer duties: Turnout surveys]({{site.url}}/{{site.baseurl}}/assets/docs/2022-06-day-guide-7-turnout-surveys.pdf)
 - **Closing guides**
