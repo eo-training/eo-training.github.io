@@ -71,6 +71,8 @@ title: Home
 * [Redistricting & list of 264 current precincts](/redistricting/)
 * [Chief and Assistant Chief info](/chief-info/)
 * [Language Officer info](/language-officers/)
+* [Election Officer Zoom Q&A - recorded on June 8, 2022](/zoom-qa-eo/)
+* [Chiefs and Assistant Chiefs Zoom Q&A - coming soon!]()
 
 ## Documents for the June 2022 election
 
