@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Chiefs Briefing for the June 2022 General Election"
+title: "Chiefs Briefing for the June 2022 Democratic Party Primary"
 permalink: /jun-2022/chiefs-briefing/
 ---
 
