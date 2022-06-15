@@ -81,7 +81,9 @@ title: Home
   - PDF: [What-Ifs from Chiefs Notebook (Jun 2022)]({{site.url}}{{site.baseurl}}/assets/docs/2022-06-what-ifs.pdf)
 - **Opening guides**
   * PDF: [Opening guide: All]({{site.url}}{{site.baseurl}}/assets/docs/2022-06-opening-guides.pdf)
-  * PDF: Opening guide: Poll Pad Update *(coming soon!)*
+  * PDF: [Opening guide: Poll Pad Update (Wireless)]({{site.url}}{{site.baseurl}}/assets/docs/2022-06-opening-guide-0-poll-pad-update-wireless.pdf)
+  * PDF: [Opening guide: Poll Pad Update (iSync)]({{site.url}}{{site.baseurl}}/assets/docs/2022-06-opening-guide-0-poll-pad-update-isync.pdf)
+  * PDF: [Opening guide: Provisional Pad Update]({{site.url}}{{site.baseurl}}/assets/docs/2022-06-opening-guide-0-provisional-pad-update.pdf)
   * PDF: [Opening guide: Poll Pad Assembly]({{site.url}}{{site.baseurl}}/assets/docs/2022-06-opening-guide-1-poll-pad-assembly.pdf)
   * PDF: [Opening guide: ExpressVote]({{site.url}}{{site.baseurl}}/assets/docs/2022-06-opening-guide-2-expressvote.pdf)
   * PDF: [Opening guide: DS200]({{site.url}}{{site.baseurl}}/assets/docs/2022-06-opening-guide-3-ds200.pdf)
