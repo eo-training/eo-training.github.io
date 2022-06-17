@@ -72,7 +72,7 @@ title: Home
 * [Chief and Assistant Chief info](/chief-info/)
 * [Language Officer info](/language-officers/)
 * [Election Officer Zoom Q&A - recorded on June 8, 2022](/jun-2022/zoom-qa-eo/)
-* [Chiefs and Assistant Chiefs Zoom Q&A - coming soon!]()
+* [Chiefs and Assistant Chiefs Zoom Q&A - recorded June 17, 2022](/jun-2022/zoom-qa-chiefs/)
 
 ## Documents for the June 2022 election
 
