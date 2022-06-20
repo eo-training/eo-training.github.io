@@ -116,8 +116,7 @@ title: Home
 
 ## Sample forms for the June 2022 election
 
-- **Election Officer Forms**
-  - [PDF: Election Officer Forms - Samples (Jun 2022)]({{site.url}}{{site.baseurl}}/assets/docs/2022-06-sample-eo-forms/)
+  - PDF: [Sample forms - Election Officer Forms (Jun 2022)]({{site.url}}{{site.baseurl}}/assets/docs/2022-06-sample-eo-forms.pdf)
       - Election Officer Oath 
       - Compensation Sheet
       - Election Night Numbers Sheet 
@@ -128,6 +127,16 @@ title: Home
       - Printed Return Sheet
       - Chief's Notes
       - Drop Box Form
+
+  - PDF: [Sample forms - Provisional Forms (June 2022)]
+
+  - PDF: [Sample forms - Voter Forms (Jun 2022)]({{site.url}}{{site.baseurl}}/assets/docs/2022-06-sample-voter-forms.pdf)
+      - Affirmation of Eligibility
+      - ID Confirmation Statement
+      - Request for Assistance
+      - Request to Cancel Voter Registration
+      - Voter Referral Worksheet
+      - Voter Registration Application
 
 ---
 
