@@ -116,7 +116,7 @@ title: Home
 
 ## Sample forms for the June 2022 election
 
-  - PDF: [Sample forms - Election Officer Forms (Jun 2022)]({{site.url}}{{site.baseurl}}/assets/docs/2022-06-eo-forms-samples.pdf)
+  - PDF: [Sample forms - Election Officer Forms (Jun 2022)]({{site.url}}{{site.baseurl}}/assets/docs/2022-06-eo-forms-sample.pdf)
       - Sample: Election Officer Oath 
       - Sample: Compensation Sheet
       - Sample: Election Night Numbers Sheet 
@@ -128,12 +128,12 @@ title: Home
       - Sample: Chief's Notes
       - Sample: Drop Box Form
 
-  - PDF: [Sample forms - Provisional Forms (June 2022)]({{site.url}}{{site.baseurl}}/assets/docs/2022-06-provisional-forms-samples.pdf)
+  - PDF: [Sample forms - Provisional Forms (June 2022)]({{site.url}}{{site.baseurl}}/assets/docs/2022-06-provisional-forms-sample.pdf)
     - Sample: Provisional Ballot Log
     - Sample: Provisional Envelope (front)
     - Sample: Provisional Envelope (back)
 
-  - PDF: [Sample forms - Voter Forms (Jun 2022)]({{site.url}}{{site.baseurl}}/assets/docs/2022-06-voter-forms-samples.pdf)
+  - PDF: [Sample forms - Voter Forms (Jun 2022)]({{site.url}}{{site.baseurl}}/assets/docs/2022-06-voter-forms-sample.pdf)
       - Sample: Affirmation of Eligibility
       - Sample: ID Confirmation Statement
       - Sample: Request for Assistance
