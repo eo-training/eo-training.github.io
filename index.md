@@ -117,7 +117,7 @@ title: Home
 ## Sample forms for the June 2022 election
 
 - **Election Officer Forms**
-  - [PDF: Election Officer Forms - Samples (Jun 2022)]({{site.url}}{{site.baseurl}}/jun-2022/sample-eo-forms/)
+  - [PDF: Election Officer Forms - Samples (Jun 2022)]({{site.url}}{{site.baseurl}}/assets/docs/2022-06-sample-eo-forms/)
       - Election Officer Oath 
       - Compensation Sheet
       - Election Night Numbers Sheet 
