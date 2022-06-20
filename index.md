@@ -128,12 +128,12 @@ title: Home
       - Sample: Chief's Notes
       - Sample: Drop Box Form
 
-  - PDF: [Sample forms - Provisional Forms (June 2022)]({{site.url}}{{site.baseurl}}/assets/docs/2022-06-sample-provisional-forms.pdf)
+  - PDF: [Sample forms - Provisional Forms (June 2022)]({{site.url}}{{site.baseurl}}/assets/docs/2022-06-provisional-forms-samples.pdf)
     - Sample: Provisional Ballot Log
     - Sample: Provisional Envelope (front)
     - Sample: Provisional Envelope (back)
 
-  - PDF: [Sample forms - Voter Forms (Jun 2022)]({{site.url}}{{site.baseurl}}/assets/docs/2022-06-sample-voter-forms.pdf)
+  - PDF: [Sample forms - Voter Forms (Jun 2022)]({{site.url}}{{site.baseurl}}/assets/docs/2022-06-voter-forms-samples.pdf)
       - Sample: Affirmation of Eligibility
       - Sample: ID Confirmation Statement
       - Sample: Request for Assistance
