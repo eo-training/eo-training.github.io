@@ -114,7 +114,20 @@ title: Home
   * PDF: [Closing guide: Items to return in gray cart]({{site.url}}{{site.baseurl}}/assets/docs/2022-06-closing-guide-10-gray-cart.pdf)
   * PDF: [Closing guide: Items to return to depot]({{site.url}}{{site.baseurl}}/assets/docs/2022-06-closing-guide-11-depot.pdf)
 
+## Sample forms for the June 2022 election
 
+- **Election Officer Forms**
+  - [PDF: Election Officer Forms - Samples (Jun 2022)]({{site.url}}{{site.baseurl}}/jun-2022/sample-eo-forms/)
+      - Election Officer Oath 
+      - Compensation Sheet
+      - Election Night Numbers Sheet 
+      - Election Officer Evaluation Form 
+      - Machine Certification Form 
+      - Precinct Data Sheet 
+      - Statement of Results
+      - Printed Return Sheet
+      - Chief's Notes
+      - Drop Box Form
 
 ---
 
