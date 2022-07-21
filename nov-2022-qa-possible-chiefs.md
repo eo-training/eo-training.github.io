@@ -1,10 +1,10 @@
 ---
 layout: page
-title: "Chief and Assistant Chief Zoom Q&A for the June 2022 Democratic Party Primary"
-permalink: /jun-2022/zoom-qa-chiefs/
+title: "Webinar and Q&A for Possible Chiefs for the November 2022 Election"
+permalink: /nov-2022/qa-possible-chiefs/
 
 ---
 
-We conducted an online question-and-answer session, open to all Chiefs and Assistant Chiefs, on Friday, June 17, 2022 in advance of the June 21, 2022 Democratic Party Primary Election.
+We conducted an online information session for experienced officers interested in serving as Chiefs in the November 2022 General Election.
 
 <iframe width="1024" height="576" src="https://www.youtube.com/embed/LPhLAAOmo0k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
