@@ -61,7 +61,6 @@ The new Language Officer must...
 * The new Language Officer does not provide the name of the individual who referred them, either in their online application or within a short but reasonable period time afterwards (e.g. one week).
 * The new Language Officer does not complete training in a timely manner.
 * The new Language Officer cancels their assignment for any reason, does not serve for their full shift, or asks to change positions.
-* The referral bonus program is suspended temporarily because the Language Officer recruitment goals have been met for the next scheduled Fairfax County election.
 
 ---
 
