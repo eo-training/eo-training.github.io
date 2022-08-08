@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Chief and Assistant Chief Information"
-permalink: /chief-info
+permalink: /chief-info/
 ---
 
 Chiefs and Assistant Chiefs work hand-in-hand to manage one of our voting precincts on election day and supervise 5 to 15 election officers, depending on precinct and election size. Chiefs and Assistant Chiefs must complete training and other requirements before each election in which they serve as a Chief or Assistant Chief.

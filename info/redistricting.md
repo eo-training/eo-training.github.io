@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "2022 Redistricting Information"
-permalink: /redistricting
+permalink: /redistricting/
 ---
 
 ## Fairfax County Redistricting

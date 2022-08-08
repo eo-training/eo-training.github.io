@@ -68,13 +68,13 @@ permalink: /
 
 ## General information
 
-* [Chief and Assistant Chief information](/chief-info/)
-* [Language Officer information](/language-officers/)
-* [Redistricting & list of 264 current precincts](/redistricting/)
+* [Chief and Assistant Chief information](/chief-info)
+* [Language Officer information](/language-officers)
+* [Redistricting & list of 264 current precincts](/redistricting)
 
 ## Links and resources for upcoming election
 
-* [Webinar and Q&A for Possible First-Time Chiefs - recorded on July 20, 2022](qa-possible-chiefs/)
+* [Webinar and Q&A for Possible First-Time Chiefs - recorded on July 20, 2022](/jun-2022/qa-possible-chiefs)
 * PDF: Chiefs Notebook (Nov 2022) - *coming Oct 1!*
 * PDF: Opening guides - All (Nov 2022) - *coming Oct 1!*
 * PDF: Officer duties - All (Nov 2022) - *coming Oct 1!*
@@ -91,21 +91,21 @@ See below for versions of these documents from the most recent election.
 
 These classes and materials were made for past elections and may contain outdated information and references. However, we are keeping them online as a helpful reference.
 
-* PDF: [Chiefs Notebook (Jun 2022)]({{site.url}}{{site.baseurl}}/jun-2022/chiefs-notebook/)
-* PDF: [Opening guides - All (Jun 2022)]({{site.url}}{{site.baseurl}}/assets/docs/2022-06-opening-guides.pdf)
-* PDF: [Officer duties - All (Jun 2022)]({{site.url}}{{site.baseurl}}/assets/docs/2022-06-day-guides.pdf)
-* PDF: [Closing guides - All (Jun 2022)]({{site.url}}{{site.baseurl}}/assets/docs/2022-06-closing-guides.pdf)
-* PDF: [Sample forms - Election Officer Forms (Jun 2022)]({{site.url}}{{site.baseurl}}/assets/docs/2022-06-forms-eo-samples.pdf)
-* PDF: [Sample forms - Provisional Forms (Jun 2022)]({{site.url}}{{site.baseurl}}/assets/docs/2022-06-forms-provisional-samples.pdf)
-* PDF: [Sample forms - Voter Forms (Jun 2022)]({{site.url}}{{site.baseurl}}/assets/docs/2022-06-forms-voter-samples.pdf)
+* PDF: [Chiefs Notebook (Jun 2022)](/jun-2022/chiefs-notebook/)
+* PDF: [Opening guides - All (Jun 2022)](/assets/docs/2022-06-opening-guides.pdf)
+* PDF: [Officer duties - All (Jun 2022)](/assets/docs/2022-06-day-guides.pdf)
+* PDF: [Closing guides - All (Jun 2022)](/assets/docs/2022-06-closing-guides.pdf)
+* PDF: [Sample forms - Election Officer Forms (Jun 2022)](/assets/docs/2022-06-forms-eo-samples.pdf)
+* PDF: [Sample forms - Provisional Forms (Jun 2022)](/assets/docs/2022-06-forms-provisional-samples.pdf)
+* PDF: [Sample forms - Voter Forms (Jun 2022)](/assets/docs/2022-06-forms-voter-samples.pdf)
 
 ## Classes from past elections
 
-- [Classes for the June 2022 Democratic Primary]({{site.url}}{{site.baseurl}}/jun-2022)
-- [Classes for the November 2021 General Election]({{site.url}}{{site.baseurl}}/nov-2021)
-- [Classes for the June 2021 Democratic Primary]({{site.url}}{{site.baseurl}}/jun-2021)
-- [Classes for the November 2020 General Election]({{site.url}}{{site.baseurl}}/nov-2020)
-- [Classes for the June 2020 Party Primaries]({{site.url}}{{site.baseurl}}/jun-2020)
+- [Classes for the June 2022 Democratic Primary](/jun-2022)
+- [Classes for the November 2021 General Election](/nov-2021)
+- [Classes for the June 2021 Democratic Primary](/jun-2021)
+- [Classes for the November 2020 General Election](/nov-2020)
+- [Classes for the June 2020 Party Primaries](/jun-2020)
 
 ---
 

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Language Officer Information"
-permalink: /language-officers
+permalink: /language-officers/
 ---
 
 Language Officers are election officers, who in addition to performing all regular officer duties, may also assist voters in a language other than English.
