@@ -1,23 +1,44 @@
 ---
 layout: page
+isClass: true
 ---
 
 {{ content }}
 
 <div>
 
-{% for class in site.collections %}
-{% if class.label == page.collection %}
+{% assign theDirectory = page.dir | remove: '/summary/' | append: '/slides/' %}
+{% assign theArray = site.pages | where_exp:"item","item.dir contains theDirectory" %}
 
-{% for item in class.docs %}
-{% if item.slug contains '0' or item.slug contains '1' %}
+
+{% for item in theArray %}
+
+  {% if item.slug %}
+  {% assign theSlug = item.slug %}
+  {% else %}
+  {% assign theSlug = item.name | remove: ".md" %}
+  {% endif %}
+
+  {% if item.section and item.section != "" %}
+  {% assign theSection = item.section | append: ": " %}
+  {% else %}
+  {% assign theSection = "" %}
+  {% endif %}
+
+  {% if item.title and item.title != "" %}
+  {% assign theTitle = item.title %}
+  {% else %}
+  {% assign theTitle = "Page " | append: theSlug %}
+  {% endif %}
+
+{% if item.name != "000.md" %}
 
   <div class="slide-summary">
 
       <div class="slide-image">
         {% if item.layout == "slide" or item.layout == "question" %}
         <a href="{{ item.url | relative_url }}">
-            <img src="{{ site.url }}{{ site.baseurl }}{{ class.url }}/images/{{ item.slug }}.png">
+            <img src="../images/{{ theSlug }}.png">
         </a>
         {% endif %}
         {% if item.layout == "slide-video" %}
@@ -30,24 +51,13 @@ layout: page
     </div>
     <div class="slide-notes">
         
-        {% if item.section and item.section != "" and item.section != nil %}
-        <p><strong>{{ item.slug }}. {{ item.section }}: <a href="{{ item.url | relative_url }}">{{ item.title }}</a></strong></p>
-        {% elsif item.title and item.title != "" and item.title != nil %}
-        <p><strong>{{ item.slug }}. <a href="{{ item.url | relative_url }}">{{ item.title }}</a></strong></p>
-        {% else %}
-        <p><strong>{{ item.slug }}. <a href="{{ item.url | relative_url }}">Page {{ item.slug }}</a></strong></p>
-        {% endif %}
-
-        <!-- <p><strong>{{ item.slug }}. {{ item.section }}: {{ item.title }}</strong></p> -->
+        <p><strong>{{ theSlug }}. {{ theSection }}<a href="{{ item.url | relative_url }}">{{ theTitle }}</a></strong></p>
 
         {{ item.content | markdownify }}
 
     </div>
 
 </div>
-
-{% endif %}  
-{% endfor %}
 
 {% endif %}  
 {% endfor %}

@@ -2,43 +2,98 @@
 layout: default
 ---
 
+<!-- Define previous, current, and next slide URLs -->
+
+{% if page.slug %}
+{% assign theSlug = page.slug %}
+{% else %}
+{% assign theSlug = page.name | remove: ".md" %}
+{% endif %}
+
+{% assign slidePreviousNum = theSlug | minus: 1 %}
+{% assign slideCurrentNum = theSlug | plus: 0 %}
+{% assign slideNextNum = theSlug | plus: 1 %}
+
+{% assign slidePreviousSlug = slidePreviousNum | prepend: '000' | slice: -3, 3 %}
+{% assign slideCurrentSlug = slideCurrentNum | prepend: '000' | slice: -3, 3 %}
+{% assign slideNextSlug = slideNextNum | prepend: '000' | slice: -3, 3 %}
+
+{% assign slidePreviousURL = page.dir | replace: slideCurrentSlug, slidePreviousSlug %}
+{% assign slideNextURL = page.dir | replace: slideCurrentSlug, slideNextSlug %}
+
+<!-- Display variables, if needed -->
+
+{% comment %}
+	<p>theSlug is: {{ theSlug }}</p>
+
+	<p>slidePreviousNum is: {{ slidePreviousNum }}</p>
+	<p>slideCurrentNum is: {{ slideCurrentNum }}</p>
+	<p>slideNextNum is: {{ slideNextNum }}</p>
+
+	<p>slidePreviousSlug is: {{ slidePreviousSlug }}</p>
+	<p>slideCurrentSlug is: {{ slideCurrentSlug }}</p>
+	<p>slideNextSlug is: {{ slideNextSlug }}</p>
+
+	<p>slidePreviousURL is: {{ slidePreviousURL }}</p>
+	<p>slideNextURL is: {{ slideNextURL }}</p>
+{% endcomment %}
+
+<!-- Previous and next slide links -->
+
 <div class="slides-nav">
 	<div>
-		{% if page.previous.url %}
-		<a href="{{page.previous.url | relative_url }}">&laquo;&nbsp;{{page.previous.slug}}</a>
+		{% if slidePreviousNum > 0 %}
+		<a href="{{ slidePreviousURL }}">&laquo;&nbsp;{{ slidePreviousSlug }}</a>
 		{% endif %}
 	</div>
 	<div>
-		<a href="../toc">Table of Contents</a>
+		<a href="../../toc">Table of Contents</a>
 	</div>
 	<div class="slides-nav-next">
-		{% if page.next.url %}
-		<a href="{{page.next.url | relative_url }}">{{page.next.slug}}&nbsp;&raquo;</a>
-		{% endif %}
+		{% unless page.lastSlide %}
+		<a href="{{ slideNextURL }}">{{ slideNextSlug }}&nbsp;&raquo;</a>
+		{% endunless %}
 	</div>
 </div>
 
 
-<img src="../images/{{ page.slug }}.png" style="max-width:100%; border-radius:10px; max-height:85vh; margin: 0 auto; display:block;box-shadow: 0 0 10px 5px rgba(0,0,0,.35);">
+<!-- Display slide image and audio player -->
 
-<div>
-	<audio id="audioplayer" controls autoplay style="width:100%;">
-		<source src="../audio/{{ page.slug }}.m4a" type="audio/mp4">
-			<!-- <source src="horse.mp3" type="audio/mpeg"> -->
-				<!-- Your browser does not support the audio tag. -->
-	</audio>
-</div>
+{% unless page.videoID %}
+	<img src="../../images/{{ page.name | remove: '.md' }}.png" style="max-width:100%; border-radius:10px; max-height:85vh; margin: 0 auto; display:block;box-shadow: 0 0 10px 5px rgba(0,0,0,.35);">
 
-<script>
-var x = document.getElementById("audioplayer");
-let audioState = localStorage.getItem("autoPlayAudio");
+	<div>
+		<audio id="audioplayer" controls autoplay style="width:100%;">
+			<source src="../../audio/{{ page.name | remove: '.md' }}.m4a" type="audio/mp4">
+				<!-- <source src="horse.mp3" type="audio/mpeg"> -->
+					<!-- Your browser does not support the audio tag. -->
+		</audio>
+	</div>
 
-if (audioState == "disabled") {
-	audioplayer.pause();
-}
+	<script>
+	var x = document.getElementById("audioplayer");
+	let audioState = localStorage.getItem("autoPlayAudio");
 
-</script>
+	if (audioState == "disabled") {
+		audioplayer.pause();
+	}
 
+	</script>
+{% endunless %}
+
+<!-- If video, display video instead -->
+
+{% if page.videoID %}
+
+	<div style="position: relative; height: min(85vh, 768px, calc(90vw * 0.75)); width: min(calc(85vh * 1.33), 1024px, 90vw); border-radius:10px; margin:0 auto; display:block; box-shadow: 0 0 10px 5px rgba(0,0,0,.35);">
+
+		<iframe id="embedVideo" style="position: absolute; top:0; left: 0; width: 100%; height: 100%;" src="https://www.youtube.com/embed/{{ page.videoID }}?modestbranding=1&autoplay=1&enablejsapi=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+	</div>
+
+{% endif %}
+
+<!-- Display slide title and text -->
 
 <h1>
 	{{ page.title }}
@@ -49,17 +104,48 @@ if (audioState == "disabled") {
 </div>
 
 
+<!-- If last slide, display confetti -->
+
 {% if page.lastSlide %}
 	
 	{% include ravi-confetti.html %}
 
+<!-- If video slide, advance to next slide when video finishes -->
+
+{% elsif page.videoID %}
+
+	<script type="text/javascript"> 
+	    var tag = document.createElement('script'); 
+	    tag.src = "https://www.youtube.com/iframe_api"; 
+	    var firstScript = document.getElementsByTagName('script')[0]; 
+	    firstScript.parentNode.insertBefore(tag, firstScript); 
+	    function onYouTubeIframeAPIReady() { 
+	        new YT.Player('embedVideo', { 
+	            events: { 
+	                'onStateChange': function(evt) { 
+	                    if (evt.data === YT.PlayerState.ENDED) { 
+						  window.setTimeout(window.location.href = '{{ slideNextURL }}',2000);
+	                    } 
+	                    /* else if (evt.data === YT.PlayerState.PLAYING) { 
+						  alert("Video is playing!");
+	                    } */
+	                    /* else if (evt.data === YT.PlayerState.PAUSED) { 
+						  alert("Video is paused!");
+	                    } */
+	                 } 
+	             } 
+	        }); 
+	    } 
+	</script>
+
+<!-- If image/audio slide, advance to next slide when audio finishes -->
 {% else %}
 
 	<script>
 		var audio = document.getElementById('audioplayer');
 
 		function redirectHandler() {
-			window.location.href = '{{page.next.url | relative_url }}';
+			window.location.href = '{{ slideNextURL }}';
 		}
 
 		function delayRedirect() {

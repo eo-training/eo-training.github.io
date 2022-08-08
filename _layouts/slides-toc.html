@@ -1,29 +1,54 @@
 ---
 layout: page
+isClass: true
 ---
 
-{{ content }}
+{{ page.content }}
+
+{% assign slidesDirectory = page.dir | remove: '/toc/' | append: '/slides/' %}
+{% assign slidesArray = site.pages | where_exp:"item","item.dir contains slidesDirectory" %}
 
 <div>
 
-{% for class in site.collections %}
-{% if class.label == page.collection %}
-
 <ul>
-{% for item in class.docs %}
-{% if item.slug contains '0' or item.slug contains '1' %}
-  {% if item.section and item.section != "" and item.section != nil %}
-  <li>{{ item.slug }}. {{ item.section }}: <a href="{{ item.url | relative_url }}">{{ item.title }}</a></li>
-  {% elsif item.title and item.title != "" and item.title != nil %}
-  <li>{{ item.slug }}. <a href="{{ item.url | relative_url }}">{{ item.title }}</a></li>
+
+{% for item in slidesArray %}
+  
+  {% if item.slug %}
+  {% assign theSlug = item.slug %}
   {% else %}
-  <li>{{ item.slug }}. <a href="{{ item.url | relative_url }}">Page {{ item.slug }}</a></li>
+  {% assign theSlug = item.name | remove: ".md" %}
   {% endif %}
-{% endif %}  
+
+  {% if item.section and item.section != "" %}
+  {% assign theSection = item.section | append: ": " %}
+  {% else %}
+  {% assign theSection = "" %}
+  {% endif %}
+
+  {% if item.title and item.title != "" %}
+  {% assign theTitle = item.title %}
+  {% else %}
+  {% assign theTitle = "Page " | append: theSlug %}
+  {% endif %}
+
+  {% if theSlug != "000" %}
+  <li>{{ theSlug }}. {{ theSection }}<a href="{{ item.url | relative_url }}">{{ theTitle }}</a></li>
+  {% endif %}
+
+<!--   {% comment %}
+  {% if item.section and item.section != "" and item.section != nil %}
+  <li>{{ theSlug }}. {{ item.section }}: <a href="{{ item.url | relative_url }}">{{ theTitle }}</a></li>
+  {% elsif item.title and item.title != "" and item.title != nil %}
+  <li>{{ theSlug }}. <a href="{{ item.url | relative_url }}">{{ theTitle }}</a></li>
+  {% else %}
+  <li>{{ theSlug }}. <a href="{{ item.url | relative_url }}">{{ theTitle }}</a></li>
+  {% endif %}
+  {% endcomment %} -->
+
 {% endfor %}
+
 </ul>
 
-{% endif %}  
-{% endfor %}
 
 </div>

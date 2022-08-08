@@ -1,23 +1,30 @@
 ---
 layout: page
+isClass: true
 ---
 
 {{ content }}
 
 <div>
 
-{% for class in site.collections %}
-{% if class.label == page.collection %}
+{% assign theDirectory = page.dir | remove: '/thumbnails/' | append: '/slides/' %}
+{% assign theArray = site.pages | where_exp:"item","item.dir contains theDirectory" %}
 
-{% for item in class.docs %}
-{% if item.slug contains '0' %}
+
+{% for item in theArray %}
+
+  {% if item.slug %}
+  {% assign theSlug = item.slug %}
+  {% else %}
+  {% assign theSlug = item.name | remove: ".md" %}
+  {% endif %}
+
+
+{% if item.name != "000.md" %}
 
 <a href="{{ item.url | relative_url }}">
-<img class="slide-thumbnail" src="{{ site.url }}{{ site.baseurl }}{{ class.url }}/images/{{ item.slug }}.png">
+<img class="slide-thumbnail" src="{{ site.url }}{{ site.baseurl }}{{ theDirectory | remove: '/slides/' | append: '/images/' }}{{ theSlug }}.png">
 </a>
-
-{% endif %}  
-{% endfor %}
 
 {% endif %}  
 {% endfor %}
