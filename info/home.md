@@ -74,7 +74,7 @@ permalink: /
 
 ## Links and resources for upcoming election
 
-* [Webinar and Q&A for Possible First-Time Chiefs - recorded on July 20, 2022](/jun-2022/qa-possible-chiefs)
+* [Webinar and Q&A for Possible First-Time Chiefs - recorded on July 20, 2022](/nov-2022/qa-possible-chiefs)
 * PDF: Chiefs Notebook (Nov 2022) - *coming Oct 1!*
 * PDF: Opening guides - All (Nov 2022) - *coming Oct 1!*
 * PDF: Officer duties - All (Nov 2022) - *coming Oct 1!*
