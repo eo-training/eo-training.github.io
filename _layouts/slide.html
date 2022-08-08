@@ -4,6 +4,9 @@ layout: default
 
 <!-- Define previous, current, and next slide URLs -->
 
+<!-- 
+{% comment %}
+
 {% if page.slug %}
 {% assign theSlug = page.slug %}
 {% else %}
@@ -20,6 +23,31 @@ layout: default
 
 {% assign slidePreviousURL = page.dir | replace: slideCurrentSlug, slidePreviousSlug %}
 {% assign slideNextURL = page.dir | replace: slideCurrentSlug, slideNextSlug %}
+
+{% endcomment %}
+ -->
+
+{% assign slideCurrentNum = page.name | slice: 0, 3 | plus: 0 %}
+{% assign slidePreviousNum = slideCurrentNum | minus: 1 %}
+{% assign slideNextNum = slideCurrentNum | plus: 1 %}
+
+{% assign theCurrentPage = page.name | remove: ".md" | append: "/" %}
+{% assign theDirectory = page.dir | remove: theCurrentPage %}
+{% assign theArray = site.pages | where_exp:"item","item.dir contains theDirectory" | sort: "name" %}
+
+{% for item in theArray %}
+
+	{% if item.name == page.name %}
+		{% assign prev = forloop.index | minus: 2 %}
+	    {% assign next = forloop.index | plus: 0 %}
+
+	    {% assign slidePreviousURL = theArray[prev].dir %}
+	    {% assign slideNextURL = theArray[next].dir %}
+
+	    {% break %}
+    {% endif %}
+
+{% endfor %}
 
 <!-- Display variables, if needed -->
 
@@ -43,7 +71,7 @@ layout: default
 <div class="slides-nav">
 	<div>
 		{% if slidePreviousNum > 0 %}
-		<a href="{{ slidePreviousURL }}">&laquo;&nbsp;{{ slidePreviousSlug }}</a>
+		<a href="{{ slidePreviousURL }}">&laquo;&nbsp;{{ slidePreviousNum | prepend: '000' | slice: -3, 3 }}</a>
 		{% endif %}
 	</div>
 	<div>
@@ -51,7 +79,7 @@ layout: default
 	</div>
 	<div class="slides-nav-next">
 		{% unless page.lastSlide %}
-		<a href="{{ slideNextURL }}">{{ slideNextSlug }}&nbsp;&raquo;</a>
+		<a href="{{ slideNextURL }}">{{ slideNextNum | prepend: '000' | slice: -3, 3 }}&nbsp;&raquo;</a>
 		{% endunless %}
 	</div>
 </div>
