@@ -14,4 +14,3 @@ slug: "022"
 ---
 
 Time for a knowledge check!
-

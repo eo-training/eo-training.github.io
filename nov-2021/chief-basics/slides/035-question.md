@@ -14,5 +14,3 @@ slug: "035"
 ---
 
 Time for a knowledge check!
-
-
