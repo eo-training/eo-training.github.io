@@ -22,13 +22,13 @@ permalink: /
 <div class="cards">
 
   <div class="card">
-    <a href="/coming-soon">
+    <a href="/nov-2022/eo-basics/">
       <div class="card-image-container">
         <div class="card-image" style="background-image: url('{{ site.url }}{{ site.baseurl }}/assets/img/new-eos.png')"></div>
       </div>
       <div class="card-text">
         <p>Election Officer Basics</p>
-        <p class="card-coming-soon" style="color:orange;">Coming Sep 1!</p>
+        <p class="card-coming-soon" style="color:green;"></p>
       </div>
     </a>
   </div>
@@ -36,13 +36,13 @@ permalink: /
 
 
   <div class="card">
-    <a href="/coming-soon">
+    <a href="/nov-2022/chief-basics/">
       <div class="card-image-container">
         <div class="card-image" style="background-image: url('{{ site.url }}{{ site.baseurl }}/assets/img/what-ifs.png')"></div>
       </div>
       <div class="card-text">
         <p>Chief and Assistant Chief Basics</p>
-        <p class="card-coming-soon" style="color:orange;">Coming Sep 1!</p>
+        <p class="card-coming-soon" style="color:green;"></p>
       </div>
     </a>
   </div>
