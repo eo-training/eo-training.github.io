@@ -66,6 +66,16 @@ layout: default
 	<p>slideNextURL is: {{ slideNextURL }}</p>
 {% endcomment %}
 
+<!-- handle case where bug causes slide to not advance automatically -->
+
+{% if page.slideAdvanceBug %}
+
+	{% assign slidePreviousURL = slidePreviousNum | prepend: '000' | slice: -3,3 | append: '/' | prepend: '../' %}
+	{% assign slideNextURL = slideNextNum | prepend: '000' | slice: -3,3 | append: '/' | prepend: '../' %}
+
+{% endif %}
+
+
 <!-- Previous and next slide links -->
 
 <div class="slides-nav">
@@ -83,7 +93,6 @@ layout: default
 		{% endunless %}
 	</div>
 </div>
-
 
 <!-- Display slide image and audio player -->
 
