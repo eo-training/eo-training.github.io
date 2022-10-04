@@ -74,14 +74,15 @@ permalink: /
 
 ## Links and resources for upcoming election
 
-* [Webinar and Q&A for Possible First-Time Chiefs - recorded on July 20, 2022](/nov-2022/qa-possible-chiefs)
-* PDF: Chiefs Notebook (Nov 2022) - *coming Oct 1!*
-* PDF: Opening guides - All (Nov 2022) - *coming Oct 1!*
-* PDF: Officer duties - All (Nov 2022) - *coming Oct 1!*
-* PDF: Closing guides - All (Nov 2022) - *coming Oct 1!*
-* PDF: Sample forms - Election Officer Forms (Nov 2022) - *coming Oct 1!*
-* PDF: Sample forms - Provisional Forms (Nov 2022) - *coming Oct 1!*
-* PDF: Sample forms - Voter Forms (Nov 2022) - *coming Oct 1!*
+* [July Webinar and Q&A for Possible First-Time Chiefs - recorded on July 20, 2022](/nov-2022/qa-possible-chiefs/)
+* [September Q&A for Assigned Chiefs - recorded on September 21, 2022](/nov-2022/qa-chiefs-september/)
+* PDF: Chiefs Notebook (Nov 2022) - *coming Oct 15!*
+* PDF: Opening guides - All (Nov 2022) - *coming Oct 15!*
+* PDF: Officer duties - All (Nov 2022) - *coming Oct 15!*
+* PDF: Closing guides - All (Nov 2022) - *coming Oct 15!*
+* PDF: Sample forms - Election Officer Forms (Nov 2022) - *coming Oct 15!*
+* PDF: Sample forms - Provisional Forms (Nov 2022) - *coming Oct 15!*
+* PDF: Sample forms - Voter Forms (Nov 2022) - *coming Oct 15!*
 
 See below for versions of these documents from the most recent election.
 
