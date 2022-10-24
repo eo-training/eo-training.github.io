@@ -6,9 +6,7 @@ permalink: /half-day/
 
 ## Half-Day Officers
 
-Any officer may indicate a preference to work a half-day shift. However, half-day officers are only assigned if there are not enough full-day officers available.
-
-(Note that this does not include individuals who qualify for reasonable accommodation under the ADA, which is handled separately. See more information below.)
+Half-day officers are only assigned if there are not enough full-day officers available.
 
 In some past years, we have not had enough full-day officers and have therefore assigned half-day officers in some precincts. Beginning in 2018, we made significant efforts to improve our election officer recruiting and retention processes; since then, we have seen an increase in full-day officers each year and are now fortunate to have enough full-day officers to serve in all precincts each election.
 
@@ -19,11 +17,13 @@ While we appreciate the desire of individuals to work a half-day shift, there ar
 - Half-day officers often do not sign all required election documents or, in some cases, sign documents they should not have signed.
 - Some individuals indicate they are available for a full-day shift and are assigned as such, but then ask to be changed to a half-day officer, disrupting our planned assignments.
 
+Individuals who qualify for reasonable accommodations under the ADA are handled separately.
+
 ## ADA Accommodations
 
 The Fairfax County Office of Elections fully adheres to the Americans with Disabilities Act (ADA) and provides reasonable accommodations to qualified individuals upon request.
 
-An individual meets the Americans with Disabilities with Act definition act of "disability" that would qualify them for reasonable accommodations if they have "a physical or mental impairment that substantially limits one or more major life activities."
+An individual meets the Americans with Disabilities with Act definition act of "disability" and would qualify for reasonable accommodations if they have "a physical or mental impairment that substantially limits one or more major life activities."
 
 To request reasonable accommodation as an election officer, contact [Elect@fairfaxcounty.gov](mailto:Elect@fairfaxcounty.gov). You must include sufficient medical documentation from an appropriate health care or rehabilitation professional with your request.
 
