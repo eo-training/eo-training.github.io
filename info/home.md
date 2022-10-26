@@ -78,11 +78,8 @@ permalink: /
 * [September Q&A for Assigned Chiefs - recorded on September 21, 2022](/nov-2022/qa-chiefs-september/)
 * PDF: [Chiefs Notebook (Nov 2022)](/nov-2022/chiefs-notebook/)
 * PDF: [Opening guides - All (Nov 2022)](/assets/docs/2022-11-opening-guides)
-* PDF: Officer duties - All (Nov 2022) - *coming Oct 30!*
-* PDF: Closing guides - All (Nov 2022) - *coming Oct 30!*
-* PDF: Sample forms - Election Officer Forms (Nov 2022) - *coming Oct 30!*
-* PDF: Sample forms - Provisional Forms (Nov 2022) - *coming Oct 30!*
-* PDF: Sample forms - Voter Forms (Nov 2022) - *coming Oct 30!*
+* PDF: [Officer duties - All (Nov 2022)](/assets/docs/2022-11-day-guides.pdf)
+* PDF: [Closing guides - All (Nov 2022)](/assets/docs/2022-11-closing-guides.pdf)
 
 See below for versions of these documents from the most recent election.
 
