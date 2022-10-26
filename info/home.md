@@ -76,8 +76,8 @@ permalink: /
 
 * [July Webinar and Q&A for Possible First-Time Chiefs - recorded on July 20, 2022](/nov-2022/qa-possible-chiefs/)
 * [September Q&A for Assigned Chiefs - recorded on September 21, 2022](/nov-2022/qa-chiefs-september/)
-* PDF: Chiefs Notebook (Nov 2022) - *coming Oct 30!*
-* PDF: Opening guides - All (Nov 2022) - *coming Oct 30!*
+* PDF: [Chiefs Notebook (Nov 2022)](/nov-2022/chiefs-notebook/)
+* PDF: [Opening guides - All (Nov 2022)](/assets/docs/2022-11-opening-guides)
 * PDF: Officer duties - All (Nov 2022) - *coming Oct 30!*
 * PDF: Closing guides - All (Nov 2022) - *coming Oct 30!*
 * PDF: Sample forms - Election Officer Forms (Nov 2022) - *coming Oct 30!*
