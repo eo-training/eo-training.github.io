@@ -5,7 +5,7 @@ title: "Chiefs Notebook for the November 2022 General Election"
 
 The Chiefs Notebook is a manual used by Chiefs and Assistant Chiefs on election day.
 
-You may [download the notebook as a PDF]({{ site.url }}{{ site.baseurl }}/assets/docs/2022-11-chiefs-notebook.pdf).
+You may [download the notebook as a PDF]({{ site.url }}{{ site.baseurl }}/assets/docs/2022-11-chiefs-notebook-web.pdf).
 
 Alternatively, we have embedded the PDF below for quick viewing (**note that this may not be supported in all browsers**).
 
