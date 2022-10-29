@@ -49,13 +49,13 @@ permalink: /
 
 
   <div class="card">
-    <a href="/coming-soon">
+    <a href="/nov-2022/chiefs-briefing">
       <div class="card-image-container">
         <div class="card-image" style="background-image: url('{{ site.url }}{{ site.baseurl }}/assets/img/chiefs-briefing-small.jpg')"></div>
       </div>
       <div class="card-text">
         <p>Chiefs Briefing</p>
-        <p class="card-coming-soon" style="color:orange;">Coming Oct 30!</p>
+        <p class="card-coming-soon" style="color:orange;"></p>
       </div>
     </a>
   </div>
