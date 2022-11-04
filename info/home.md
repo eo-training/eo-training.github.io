@@ -80,6 +80,9 @@ permalink: /
 * PDF: [Opening guides - All (Nov 2022)](/assets/docs/2022-11-guides-opening.pdf)
 * PDF: [Officer duties - All (Nov 2022)](/assets/docs/2022-11-guides-day.pdf)
 * PDF: [Closing guides - All (Nov 2022)](/assets/docs/2022-11-guides-closing.pdf)
+* PDF: [Sample forms - Election Officer Forms (Nov 2022)](/assets/docs/2022-11-eo-sample-forms.pdf)
+* PDF: [Sample forms - Provisional Forms (Nov 2022)](/assets/docs/2022-11-provisional-sample-forms.pdf)
+* PDF: [Sample forms - Request to Remove from Permanent Absentee List (Nov 2022)](/assets/docs/2022-11-remove-from-permanent-ab-list-sample.pdf)
 
 See below for versions of these documents from the most recent election.
 
