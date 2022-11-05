@@ -74,6 +74,7 @@ permalink: /
 
 ## Links and resources for upcoming election
 
+* [Chief & Assistant Chief Q&A - recorded on November 4, 2022](/nov-2022/chief-qa/)
 * [July Webinar and Q&A for Possible First-Time Chiefs - recorded on July 20, 2022](/nov-2022/qa-possible-chiefs/)
 * [September Q&A for Assigned Chiefs - recorded on September 21, 2022](/nov-2022/qa-chiefs-september/)
 * PDF: [Chiefs Notebook (Nov 2022)](/nov-2022/chiefs-notebook/)
