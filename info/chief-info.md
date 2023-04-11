@@ -8,9 +8,9 @@ Chiefs and Assistant Chiefs work hand-in-hand to manage one of our voting precin
 
 ### Compensation
 
-For each election, Chiefs are paid <span>$</span>250, Assistant Chiefs are paid <span>$</span>225, and regular officers are paid <span>$</span>175.
+For each election, Chiefs are paid <span>$</span>350, Assistant Chiefs are paid <span>$</span>300, and regular officers are paid <span>$</span>250.
 
-NEW: As of June 2022, Chiefs also receive an additional stipend of <span>$</span>20 for some required travel (<span>$</span>10 for picking up important materials before election day and <span>$</span>10 for returning materials on election night).
+Chiefs also receive an additional stipend of <span>$</span>30 for some required travel (<span>$</span>10 for picking up important materials about one week before election day, <span>$</span>10 for picking up electronic pollbooks day before election, and <span>$</span>10 for returning materials on election night).
 
 ### Party Representation
 
