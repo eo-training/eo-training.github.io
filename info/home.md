@@ -42,7 +42,7 @@ permalink: /
       </div>
       <div class="card-text">
         <p>Chief and Assistant Chief Basics</p>
-        <p class="card-coming-soon" style="color:green;"></p>
+        <p class="card-coming-soon" style="color:green;">Coming soon!</p>
       </div>
     </a>
   </div>
