@@ -51,7 +51,7 @@ permalink: /
   <div class="card">
     <a href="/jun-2023/SDR-basics/">
       <div class="card-image-container">
-        <div class="card-image" style="background-image: url('{{ site.url }}{{ site.baseurl }}/assets/img/what-ifs.png')"></div>
+        <div class="card-image" style="background-image: url('{{ site.url }}{{ site.baseurl }}/assets/img/sdr-pic.png')"></div>
       </div>
       <div class="card-text">
         <p>Same Day Registration</p>
