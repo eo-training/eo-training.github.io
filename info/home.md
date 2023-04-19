@@ -17,12 +17,12 @@ permalink: /
     margin-bottom: 2em;
 "><strong>Fairfax County Election Officer Training</strong>: If you have any questions or need help, feel free to contact us. Email <a href="mailto:ElectionOfficerTraining@fairfaxcounty.gov">ElectionOfficerTraining@fairfaxcounty.gov</a> or call 703-324-4735 (weekdays 8:00 AM to 4:30 PM). Thank you!</p>
 
-## Election officer classes for the November 2022 election
+## Election officer classes for the June 2023 election
 
 <div class="cards">
 
   <div class="card">
-    <a href="/nov-2022/eo-basics/">
+    <a href="/jun-2023/eo-basics/">
       <div class="card-image-container">
         <div class="card-image" style="background-image: url('{{ site.url }}{{ site.baseurl }}/assets/img/new-eos.png')"></div>
       </div>
@@ -74,17 +74,10 @@ permalink: /
 
 ## Links and resources for upcoming election
 
-* [Chief & Assistant Chief Q&A - recorded on November 4, 2022](/nov-2022/chief-qa/)
-* [July Webinar and Q&A for Possible First-Time Chiefs - recorded on July 20, 2022](/nov-2022/qa-possible-chiefs/)
-* [September Q&A for Assigned Chiefs - recorded on September 21, 2022](/nov-2022/qa-chiefs-september/)
-* PDF: [Chiefs Notebook (Nov 2022)](/nov-2022/chiefs-notebook/)
-* PDF: [Opening guide - Poll Pad iSync Update (Nov 2022)](/assets/docs/2022-11-opening-guide-iSync-update.pdf)
-* PDF: [Opening guides - All (Nov 2022)](/assets/docs/2022-11-guides-opening.pdf)
-* PDF: [Officer duties - All (Nov 2022)](/assets/docs/2022-11-guides-day.pdf)
-* PDF: [Closing guides - All (Nov 2022)](/assets/docs/2022-11-guides-closing.pdf)
-* PDF: [Sample forms - Election Officer Forms (Nov 2022)](/assets/docs/2022-11-sample-eo-forms.pdf)
-* PDF: [Sample forms - Provisional Forms (Nov 2022)](/assets/docs/2022-11-sample-provisional-forms.pdf)
-* PDF: [Sample forms - Voter Forms (Nov 2022)](/assets/docs/2022-11-sample-voter-forms.pdf)
+* Chiefs Notebook: *Coming soon!*
+* Opening guides: *Coming soon!*
+* Officer duties: *Coming soon!*
+* Closing guides: *Coming soon!*
 
 See below for versions of these documents from the most recent election.
 
@@ -94,13 +87,13 @@ See below for versions of these documents from the most recent election.
 
 These classes and materials were made for past elections and may contain outdated information and references. However, we are keeping them online as a helpful reference.
 
-* PDF: [Chiefs Notebook (Jun 2022)](/jun-2022/chiefs-notebook/)
-* PDF: [Opening guides - All (Jun 2022)](/assets/docs/2022-06-opening-guides.pdf)
-* PDF: [Officer duties - All (Jun 2022)](/assets/docs/2022-06-day-guides.pdf)
-* PDF: [Closing guides - All (Jun 2022)](/assets/docs/2022-06-closing-guides.pdf)
-* PDF: [Sample forms - Election Officer Forms (Jun 2022)](/assets/docs/2022-06-forms-eo-samples.pdf)
-* PDF: [Sample forms - Provisional Forms (Jun 2022)](/assets/docs/2022-06-forms-provisional-samples.pdf)
-* PDF: [Sample forms - Voter Forms (Jun 2022)](/assets/docs/2022-06-forms-voter-samples.pdf)
+* PDF: [Chiefs Notebook (Nov 2022)](/nov-2022/chiefs-notebook/)
+* PDF: [Opening guides - All (Nov 2022)](/assets/docs/2022-11-guides-opening.pdf)
+* PDF: [Officer duties - All (Nov 2022)](/assets/docs/2022-11-guides-day.pdf)
+* PDF: [Closing guides - All (Nov 2022)](/assets/docs/2022-11-guides-closing.pdf)
+* PDF: [Sample forms - Election Officer Forms (Nov 2022)](/assets/docs/2022-11-sample-eo-forms.pdf)
+* PDF: [Sample forms - Provisional Forms (Nov 2022)](/assets/docs/2022-11-sample-provisional-forms.pdf)
+* PDF: [Sample forms - Voter Forms (Nov 2022)](/assets/docs/2022-11-sample-voter-forms.pdf)
 
 ## Classes from past elections
 
