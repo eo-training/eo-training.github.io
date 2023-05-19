@@ -83,7 +83,6 @@ permalink: /
 
 * [Chief and Assistant Chief information](/chief-info)
 * [Language Officer information](/language-officers)
-* [Redistricting & list of 264 current precincts](/redistricting)
 
 ## Links and resources for upcoming election
 
@@ -110,7 +109,7 @@ These classes and materials were made for past elections and may contain outdate
 
 ## Classes from past elections
 
-- [Classes for the November 2022 General Election]
+- [Classes for the November 2022 General Election](/nov-2022)
 - [Classes for the June 2022 Democratic Primary](/jun-2022)
 - [Classes for the November 2021 General Election](/nov-2021)
 - [Classes for the June 2021 Democratic Primary](/jun-2021)
