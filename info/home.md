@@ -54,7 +54,7 @@ permalink: /
         <div class="card-image" style="background-image: url('{{ site.url }}{{ site.baseurl }}/assets/img/sdr-pic.png')"></div>
       </div>
       <div class="card-text">
-        <p>Same Day Registration</p>
+        <p>SDR Basics</p>
         <p class="card-coming-soon" style="color:green;"></p>
       </div>
     </a>
@@ -62,13 +62,13 @@ permalink: /
 
 
   <div class="card">
-    <a href="/nov-2022/chiefs-briefing">
+    <a href="/jun-2023/chiefs-briefing">
       <div class="card-image-container">
         <div class="card-image" style="background-image: url('{{ site.url }}{{ site.baseurl }}/assets/img/chiefs-briefing-small.jpg')"></div>
       </div>
       <div class="card-text">
         <p>Chiefs Briefing</p>
-        <p class="card-coming-soon" style="color:orange;">Coming soon!</p>
+        <p class="card-coming-soon" style="color:green;">Now available!</p>
       </div>
     </a>
   </div>
