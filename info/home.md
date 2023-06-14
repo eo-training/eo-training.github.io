@@ -86,6 +86,7 @@ permalink: /
 
 ## Links and resources for upcoming election
 
+* [SDR Q&A for Chiefs and SDR Specialists - recorded on June 5, 2023](https://www.youtube.com/watch?v=8JPsd58YaI4)
 * Chiefs Notebook:
   - PDF: [Full notebook](/assets/docs/2023-06-chiefs-notebook.pdf)
   - PDF: [1. Overview](/assets/docs/2023-06-chiefs-notebook-01-overview.pdf)
