@@ -10,7 +10,7 @@ Chiefs and Assistant Chiefs work hand-in-hand to manage one of our voting precin
 
 For each election, Chiefs are paid <span>$</span>350, Assistant Chiefs are paid <span>$</span>300, and regular officers are paid <span>$</span>250.
 
-Chiefs also receive an additional stipend of <span>$</span>30 for some required travel (<span>$</span>10 for picking up important materials about one week before election day, <span>$</span>10 for picking up electronic pollbooks day before election, and <span>$</span>10 for returning materials on election night).
+Chiefs also receive an additional stipend of <span>$</span>20 for some required travel (<span>$</span>10 for picking up final supplies on the day before election day and <span>$</span>10 for returning materials on election night).
 
 ### Party Representation
 
@@ -40,19 +40,21 @@ In addition to training, Chiefs and Assistant Chiefs have additional requirement
 
 Chiefs are also required to:
 - Complete all pre-election duties by certain deadlines
-- Pick up election materials from our office the week before election day
-- Review Chiefs Notebook and other election materials the week before election day
+- Watch a Chiefs Briefing webinar about one week before election day that covers legal and procedural updates
+- Review Chiefs Notebook the week before election day
 - Contact all assigned officers by phone or email the week before election day to confirm attendance and answer any questions
 - Contact polling place (school or other building) to confirm voting room and other information
 - Visit polling place the week before election day to meet with facility manager and make arrangements for election day (e.g. request adult chairs and tables, identify accessible walkways, locate restrooms, etc.)
-- Visit polling place the day before election day to setup voting room, if possible
-- After polls close and all work is complete on election day, drive some election materials to one of 3 designated locations around the county
+- Pick up election materials from one of 4 designated locations the day before election day
+- Visit polling place the day before election day to setup voting room
+- After polls close and all work is complete on election day, drive some election materials to one of 4 designated locations around the county
 
 Assistant Chiefs are also required to:
 - Complete all pre-election duties by certain deadlines
-- Review Chiefs Notebook and other election materials the week before election day
+- Watch a Chiefs Briefing webinar about one week before election day that covers legal and procedural updates
+- Review Chiefs Notebook the week before election day
 - Accompany Chief during visit to polling place the week before election day, if possible
-- Accompany Chief during visit to polling place the day before election day to setup voting room, if possible
+- Accompany Chief during visit to polling place the day before election day to setup voting room
 
 ---
 
