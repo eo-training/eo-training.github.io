@@ -22,13 +22,13 @@ permalink: /
 <div class="cards">
 
   <div class="card">
-    <a href="/coming-soon/">
+    <a href="/nov-2023/eo-basics/" target="_blank">
       <div class="card-image-container">
         <div class="card-image" style="background-image: url('{{ site.url }}{{ site.baseurl }}/assets/img/new-eos.png')"></div>
       </div>
       <div class="card-text">
         <p>Election Officer Basics</p>
-        <p class="card-coming-soon" style="color:orange;">Coming soon!</p>
+        <p class="card-coming-soon" style="color:orange;"></p>
       </div>
     </a>
   </div>
@@ -49,13 +49,26 @@ permalink: /
 
 
   <div class="card">
-    <a href="/coming-soon/">
+    <a href="/nov-2023/sdr-basics/" target="_blank">
       <div class="card-image-container">
         <div class="card-image" style="background-image: url('{{ site.url }}{{ site.baseurl }}/assets/img/sdr-pic.png')"></div>
       </div>
       <div class="card-text">
         <p>SDR Basics</p>
-        <p class="card-coming-soon" style="color:orange;">Coming soon!</p>
+        <p class="card-coming-soon" style="color:orange;"></p>
+      </div>
+    </a>
+  </div>
+
+
+  <div class="card">
+    <a href="/nov-2023/hs-page/">
+      <div class="card-image-container">
+        <div class="card-image" style="background-image: url('{{ site.url }}{{ site.baseurl }}/assets/img/high-school-pages-small.jpg')"></div>
+      </div>
+      <div class="card-text">
+        <p>HS Student Pages</p>
+        <p class="card-coming-soon" style="color:orange;">Coming Oct 3!</p>
       </div>
     </a>
   </div>
