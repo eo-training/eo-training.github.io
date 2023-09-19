@@ -36,13 +36,13 @@ permalink: /
 
 
   <div class="card">
-    <a href="/coming-soon/">
+    <a href="/nov-2023/chief-basics/">
       <div class="card-image-container">
         <div class="card-image" style="background-image: url('{{ site.url }}{{ site.baseurl }}/assets/img/what-ifs.png')"></div>
       </div>
       <div class="card-text">
         <p>Chief and Assistant Chief Basics</p>
-        <p class="card-coming-soon" style="color:orange;">Coming soon!</p>
+        <p class="card-coming-soon" style="color:orange;"></p>
       </div>
     </a>
   </div>
@@ -68,7 +68,7 @@ permalink: /
       </div>
       <div class="card-text">
         <p>HS Student Pages</p>
-        <p class="card-coming-soon" style="color:orange;">Coming Oct 3!</p>
+        <p class="card-coming-soon" style="color:orange;">Coming Oct 4!</p>
       </div>
     </a>
   </div>
