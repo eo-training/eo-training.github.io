@@ -13,4 +13,4 @@ option1D: "Any time a voter wishes to vote."
 slug: "024"
 ---
 
-Time for a knowledge check!
+Let's do a knowledge check!
