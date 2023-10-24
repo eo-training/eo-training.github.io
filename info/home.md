@@ -100,24 +100,7 @@ permalink: /
 ## Links and resources for upcoming election
 
 * Chiefs Notebook:
-  - PDF: Full notebook *(available Oct 23!)*
-  - PDF: 1. Overview *(available Oct 23!)*
-  - PDF: 2. Before Election Day *(available Oct 23!)*
-  - PDF: 3. Opening the Polls *(available Oct 23!)*
-  - PDF: 4. Opening Guides *(available Oct 23!)*
-  - PDF: 5. During the Day *(available Oct 23!)*
-  - PDF: 6. Day Guides *(available Oct 23!)*
-  - PDF: 7. Acceptable IDs *(available Oct 23!)*
-  - PDF: 8. Non-Routine and What Ifs *(available Oct 23!)*
-  - PDF: 9. Provisional Voters *(available Oct 23!)*
-  - PDF: 10. Same Day Registration *(available Oct 23!)*
-  - PDF: 11. Closing the Polls *(available Oct 23!)*
-  - PDF: 12. Closing Guides *(available Oct 23!)*
-  - PDF: 13. Sample Forms *(available Oct 23!)*
-  - PDF: 14. Accessibility and Expressvote *(available Oct 23!)*
-  - PDF: 15. Authorized Representatives *(available Oct 23!)*
-  - PDF: 16. Guidelines and Notices *(available Oct 23!)*
-  - PDF: 17. Emergency Procedures *(available Oct 23!)*
+  - PDF: Full notebook *(available Oct 28!)*
 
 See below for versions of these documents from a recent election.
 
