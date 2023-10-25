@@ -68,7 +68,7 @@ permalink: /
       </div>
       <div class="card-text">
         <p>HS Student Pages</p>
-        <p class="card-coming-soon" style="color:orange;">Coming Oct 4!</p>
+        <p class="card-coming-soon" style="color:orange;"></p>
       </div>
     </a>
   </div>
