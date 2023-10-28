@@ -100,7 +100,9 @@ permalink: /
 ## Links and resources for upcoming election
 
 * Chiefs Notebook:
-  - PDF: Full notebook *(available Oct 28!)*
+  - PDF: See full notebook and individual sections below.
+ 
+<iframe class="airtable-embed" src="https://airtable.com/embed/app61DvOCQQr4Lr9J/shrrC5PDQIvqLRsr6?backgroundColor=red" frameborder="0" onmousewheel="" width="100%" height="1000" style="background: transparent; border: 1px solid #ccc;"></iframe>
 
 See below for versions of these documents from a recent election.
 
