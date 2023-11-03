@@ -86,6 +86,21 @@ permalink: /
     </a>
   </div>
 
+
+  <div class="card">
+    <a href="/nov-2023/sdr-briefing/" target="_blank">
+      <div class="card-image-container">
+        <div class="card-image" style="background-image: url('{{ site.url }}{{ site.baseurl }}/assets/img/sdr-pic.png')"></div>
+      </div>
+      <div class="card-text">
+        <p>SDR Briefing</p>
+        <p class="card-coming-soon" style="color:orange;"></p>
+      </div>
+    </a>
+  </div>
+
+
+
 </div>
 
 <div></div>
