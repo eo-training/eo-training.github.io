@@ -1,7 +1,6 @@
 ---
 layout: home
 title: Home
-permalink: /
 ---
 
 <div class="homepage-intro animate__animated animate__pulse" style="margin:1em auto; display:none;">
